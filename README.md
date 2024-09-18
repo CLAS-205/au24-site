@@ -1,6 +1,7 @@
-# just-the-docs-template
+# CLAS 205 Au 24
 
-This is a *bare-minimum* template to create a [Jekyll] site that:
+This branch contains the source code for the course website for Autumn 2024.
+Site link: [https://clas-205.github.io/au24-site/](https://clas-205.github.io/au24-site/)
 
 - uses the [Just the Docs] theme;
 - can be built and published on [GitHub Pages];
