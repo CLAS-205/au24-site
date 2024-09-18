@@ -6,7 +6,7 @@ url: https://clas-205.github.io/au24-site/
 
 aux_links:
   Gradescope: https://www.gradescope.com/account
-  Canvas: canvas.uw.edu
+  Canvas: https://canvas.uw.edu
 
 aux_links_new_tab: true
 
@@ -26,6 +26,7 @@ defaults:
 callouts_level: quiet # or loud
 callouts:
   highlight:
+    title: Highlight
     color: yellow
   important:
     title: Important
