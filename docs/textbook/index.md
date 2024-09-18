@@ -1,6 +1,7 @@
 ---
 title: Table of Contents
 nav_order: 2
+layout: default
 ---
 
 ## Second Title
