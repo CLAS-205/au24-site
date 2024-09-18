@@ -3,6 +3,10 @@ title: Home
 layout: home
 ---
 
+**Welcome to the Autumn 2024 online offering of CLAS 205!**
+
+This course is designed to help students master the scientific vocabulary of their particular field by a study of the Latin and Greek roots that are used to create the majority of scientific terms. In addition, students will explore some uses of science and medicine in the Ancient Mediterranean, as well as how the Greco-Roman scientific tradition has contributed to modern methods of scientific inquiry and theory. 
+
 This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
 
 If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
