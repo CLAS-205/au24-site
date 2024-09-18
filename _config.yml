@@ -14,6 +14,15 @@ nav_enabled: true
 
 color_scheme: nil
 
+permalink: pretty
+
+defaults:
+  - scope:
+      path: "docs" # an empty string here means all files in the project
+      type: "pages"
+    values:
+      layout: "default"
+
 callouts_level: quiet # or loud
 callouts:
   highlight:
