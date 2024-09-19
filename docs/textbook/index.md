@@ -1,5 +1,5 @@
 ---
-title: Table of Contents
+title: Textbook
 nav_order: 2
 layout: default
 ---
