@@ -4,6 +4,6 @@ nav_order: 2
 layout: default
 ---
 
-## Second Title
+## Textbook
 
-We are making sure that things show up in the navigation properly. Textbook wheeeee
+The readings for CLAS 205 can all be found here.
