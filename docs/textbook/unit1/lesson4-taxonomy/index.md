@@ -1,6 +1,6 @@
 ---
 title: Lesson 4
-nav_order: 1
+nav_order: 4
 layout: default
 parent: Unit 1
 grandparent: Textbook

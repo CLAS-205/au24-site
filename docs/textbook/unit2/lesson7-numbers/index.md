@@ -1,12 +1,12 @@
 ---
-title: Lesson 2
+title: Lesson 7
 nav_order: 2
 layout: default
-parent: Unit 1
+parent: Unit 2
 grandparent: Textbook
 ---
 
-## Lesson 2: How Latin and Greek Work
+## Lesson 7: Numbers
 
 ### Objectives
 

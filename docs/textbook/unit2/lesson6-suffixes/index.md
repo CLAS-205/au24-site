@@ -1,12 +1,12 @@
 ---
-title: Lesson 2
-nav_order: 2
+title: Lesson 6
+nav_order: 1
 layout: default
-parent: Unit 1
+parent: Unit 2
 grandparent: Textbook
 ---
 
-## Lesson 2: How Latin and Greek Work
+## Lesson 6: Suffixes
 
 ### Objectives
 
