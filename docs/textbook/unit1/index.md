@@ -10,6 +10,7 @@ parent: Textbook
 This'll be the Project 1 unit. Introduces bioscientific vocab for uses in naming and taxonomy. Outline of lessons:
 
 - Introduction to Greek and Latin
+- Language Quirks
 - Taxonomy
 - Scientific Naming Conventions
 - Project
