@@ -10,8 +10,8 @@ grandparent: Textbook
 
 ## Objectives
 
-1. Objective 1
-2. Objective 2
+1. Apply knowledge of Greek and Latin roots to interpret scientific names
+2. Understand how scientific names and common names are related (or not!)
 
 ## Relevance
 
@@ -23,9 +23,12 @@ In this project, you will apply your understanding of bioscientific vocabulary b
 
 For each of the organisms and their scientific names, provide a breakdown of all roots in the scientific name. Explain the meaning of each name based on its components, and give 1-2 sentences explaining why this name makes sense for the particular organism.
 
-1.
-2.
-3.
+1. American flamingo | *phoenicopterus ruber*
+2. Mexican golden trout | *oncorhynchus chrysogaster*
+3. Western honey bee | *apis mellifera*
+4. Blacktip reef shark | *carcharhinus melanopterus*
+5. Five-needle pine tree | *pinus parviflora*
+6. Wood ear mushroom | *auricularia polytricha*
 
 ### Problem 2: Organism Matching
 
