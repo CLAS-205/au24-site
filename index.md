@@ -8,8 +8,6 @@ nav_order: 1
 
 This site contains the materials for the University of Washington's CLAS 205: Bioscientific Vocabulary Building from Latin and Greek. This course is designed to help students master the scientific vocabulary of their particular field by a study of the Latin and Greek roots that are used to create the majority of scientific terms. In addition, students will explore science and medicine in the Ancient Mediterranean, as well as how the Greco-Roman scientific tradition has contributed to modern methods of scientific inquiry and theory.
 
-**Science** comes from the Latin word *scire*, meaning "to know".
-
 ## Course Goals
 
 This course has four main objectives:
