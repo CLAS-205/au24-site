@@ -19,18 +19,18 @@ In this project, you will apply your understanding of bioscientific vocabulary b
 
 ## Assignment
 
-### Problem 1: Name Analysis
+### Problem 1: What's in a Name?
 
 For each of the organisms and their scientific names, provide a breakdown of all roots in the scientific name. Explain the meaning of each name based on its components, and give 1-2 sentences explaining why this name makes sense for the particular organism.
 
-1. American flamingo | *phoenicopterus ruber*
-2. Mexican golden trout | *oncorhynchus chrysogaster*
-3. Western honey bee | *apis mellifera*
-4. Blacktip reef shark | *carcharhinus melanopterus*
-5. Five-needle pine tree | *pinus parviflora*
-6. Wood ear mushroom | *auricularia polytricha*
+1. American flamingo (*phoenicopterus ruber*)
+2. Mexican golden trout (*oncorhynchus chrysogaster*)
+3. Western honey bee (*apis mellifera*)
+4. Blacktip reef shark (*carcharhinus melanopterus*)
+5. Five-needle pine tree (*pinus parviflora*)
+6. Wood ear mushroom (*auricularia polytricha*)
 
-### Problem 2: Organism Matching
+### Problem 2
 
 You are given a set of scientific names and their English counterparts. Match each pair and explain your reasoning in 1-2 sentences.
 
@@ -42,7 +42,7 @@ A.
 B.
 C.
 
-### Problem 3: Creating Taxonomies
+### Problem 3: Family Dynamics
 
 For each of the following organisms and a description, you are given part of its scientific name. Fill in the blank using the vocabulary you've learned so far, or from the provided word list below.
 
