@@ -1,14 +1,8 @@
 title: CLAS 205
-description: Autumn 2024
+description: Bioscientific Vocabulary Building from Latin and Greek
 theme: just-the-docs
 
 url: https://clas-205.github.io/au24-site/
-
-aux_links:
-  Gradescope: https://www.gradescope.com/account
-  Canvas: https://canvas.uw.edu
-
-aux_links_new_tab: true
 
 nav_enabled: true
 
