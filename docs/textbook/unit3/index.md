@@ -7,12 +7,12 @@ parent: Textbook
 
 ## Unit 3
 
-This'll be the Project 3 unit. Discusses naming and uses in astronomy and mathematics.
+In Unit 3, you'll learn how Greek and Latin terminology applies to mathematics, physics, and astronomy. Further, we'll explore the classical tradition as it relates to scientific history. The lessons are organized as follows:
 
-- Ancient Math
-- Ancient Astronomy
-- Constellations
-- Astronomical Naming conventions
-- The Greek alphabet?
-- Modern mathematical notations
+- Ancient Math and Astronomy
+- Constellations and Mythology
+- Astronomical Naming Conventions
 - Project
+
+> [!note]
+> This part of the site is still under construction. Please check back soon!
