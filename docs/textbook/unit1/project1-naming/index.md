@@ -111,14 +111,16 @@ Here are some popular dinosaurs (and dinosaur-adjacent reptiles), along with the
 7. Iguanodon - iguana teeth
 8. Apatosaurus - deceptive lizard
 
-A. veloci-
-B. raptor
-C. stego-
-D. saurus
-E. proto-
-F. tri-
-G. ceratops
-H. apato-
-I. -odon
+<ol type="a">
+ <li>apato-</li>
+ <li>-ceratops</li>
+ <li>-odon</li>
+ <li>proto-</li>
+ <li>-raptor</li>
+ <li>-saurus</li>
+ <li>stego-</li>
+ <li>tri-</li>
+ <li>veloci-</li>
+</ol>
 
 ## Challenge: Ethnic names
