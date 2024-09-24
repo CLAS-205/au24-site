@@ -10,6 +10,7 @@ This is where all the vocabulary is going to live, along with the units that the
 ## Unit 1
 
 ### Lesson 1
+
 | Root          | Language of origin    | Meaning                   | Example           |
 | :---:         | :---:                 | :---                      | :---              |
 | bio           | Greek                 | life                      | biology           |
