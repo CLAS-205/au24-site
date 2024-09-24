@@ -32,16 +32,18 @@ Some organisms' species are derived from the places that they inhabit or were di
 7. Chrysaora africana
 8. Rosa californica
 
-### Problem 2: What's in a Name?
+### Problem 2: Order in the Court
 
-For each of the organisms and their scientific names, provide a breakdown of all roots in the scientific name. Explain the meaning of each name based on its components, and give 1-2 sentences explaining why this name makes sense for the particular organism.
+Look up the English name for each of the given orders. Interpret the scientific names and explain why these make sense (or don't!) for the types of organisms they describe.
 
-1. American flamingo (*phoenicopterus ruber*)
-2. Mexican golden trout (*oncorhynchus chrysogaster*)
-3. Western honey bee (*apis mellifera*)
-4. Blacktip reef shark (*carcharhinus melanopterus*)
-5. Five-needle pine tree (*pinus parviflora*)
-6. Wood ear mushroom (*auricularia polytricha*)
+1. Lepidoptera
+2. Coleoptera
+3. Semaeostomae
+4. Equisetales
+5. Decapoda
+6. Squamata
+7. Carnivora
+8. Actiniaria
 
 ### Problem 3: Appointment at the Genus Bar
 
@@ -111,7 +113,7 @@ Here are some popular dinosaurs (and dinosaur-adjacent reptiles), along with the
 7. Iguanodon - iguana teeth
 8. Apatosaurus - deceptive lizard
 
-<ol type="a">
+<ol type="A">
  <li>apato-</li>
  <li>-ceratops</li>
  <li>-odon</li>
@@ -122,5 +124,16 @@ Here are some popular dinosaurs (and dinosaur-adjacent reptiles), along with the
  <li>tri-</li>
  <li>veloci-</li>
 </ol>
+
+### Problem 6: What's in a Name?
+
+For each of the organisms and their scientific names, provide a breakdown of all roots in the scientific name. Explain the meaning of each name based on its components, and give 1-2 sentences explaining why this name makes sense for the particular organism.
+
+1. American flamingo (*phoenicopterus ruber*)
+2. Mexican golden trout (*oncorhynchus chrysogaster*)
+3. Western honey bee (*apis mellifera*)
+4. Blacktip reef shark (*carcharhinus melanopterus*)
+5. Five-needle pine tree (*pinus parviflora*)
+6. Wood ear mushroom (*auricularia polytricha*)
 
 ## Challenge: Ethnic names
