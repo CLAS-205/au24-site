@@ -34,8 +34,8 @@ Generally, noun bases will tell you what kinds of objects you’re dealing with.
 
 #### Adjectives
 
-Now, bases can also be formed from adjectives, which are basically any word that describes a noun. These can refer to size, quality, color, number, condition—pretty much anything that can be a descriptor. 
-And because adjectives modify or describe nouns, you’ll often see adjective bases alongside noun bases, like cryptogam, which combines the adjective base CRYPT- with the noun base GAM-, which we’ll see in Lesson 2. 
+Now, bases can also be formed from adjectives, which are basically any word that describes a noun. These can refer to size, quality, color, number, condition—pretty much anything that can be a descriptor.
+And because adjectives modify or describe nouns, you’ll often see adjective bases alongside noun bases, like cryptogam, which combines the adjective base CRYPT- with the noun base GAM-, which we’ll see in Lesson 2.
 Most of the adjective bases you’ll see in this book are purely descriptive in the sense that they describe a state of being, like “slow” or “hidden”. We’ll see colors throughout the later chapters, and some quantitative and numeric descriptors later on.
 Now some adjectives can stand alone in these terms, but since they’re often paired up with nouns, they will usually give you information on what the nouns are doing in longer terms. Some of the examples under the entry for CRYPT- in the book (which means “hidden”) have a lot of different noun bases, most of which we haven’t learned yet. But what they all have in common is that whatever noun base is there is hidden in some way. Similar with BRADY-, which means “slow”. You might even be able to infer what the noun bases mean just from the definition of the word and knowing the adjective bases.
 

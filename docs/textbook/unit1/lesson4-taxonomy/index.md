@@ -10,8 +10,8 @@ grandparent: Textbook
 
 ### Objectives
 
-1. Objective 1
-2. Objective 2
+1. Learn about the history of taxonomy and its uses in biological classification
+2. Discover the role of Greek and Latin terms in rank-based taxonomy
 
 ### Reading Material
 

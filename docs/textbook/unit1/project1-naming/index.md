@@ -19,7 +19,20 @@ In this project, you will apply your understanding of bioscientific vocabulary b
 
 ## Assignment
 
-### Problem 1: What's in a Name?
+### Problem 1: Places, Please
+
+Some organisms' species are derived from the places that they inhabit or were discovered in. Based on the names of these organisms, tell where they can be found.
+
+1. Ursus americanus
+2. Calopteryx japonica
+3. Polytrichum ohioense
+4. Passer italiae
+5. Opuntia guatemalensis
+6. Anguilla australis
+7. Chrysaora africana
+8. Rosa californica
+
+### Problem 2: What's in a Name?
 
 For each of the organisms and their scientific names, provide a breakdown of all roots in the scientific name. Explain the meaning of each name based on its components, and give 1-2 sentences explaining why this name makes sense for the particular organism.
 
@@ -30,26 +43,82 @@ For each of the organisms and their scientific names, provide a breakdown of all
 5. Five-needle pine tree (*pinus parviflora*)
 6. Wood ear mushroom (*auricularia polytricha*)
 
-### Problem 2
+### Problem 3: Appointment at the Genus Bar
 
-You are given a set of scientific names and their English counterparts. Match each pair and explain your reasoning in 1-2 sentences.
+You are given some lists of organisms that share a genus but differ in species. Match their scientific names to their English counterparts, then tell how you think the given species in this genus are differentiated from each other, from the following options:
 
-1.
-2.
-3.
+* Use of original Latin and/or Greek terms
+* Geographic names
+* Discoverer names
 
-A.
-B.
-C.
+#### Problem 3.1: Panthera
 
-### Problem 3: Family Dynamics
+1. Panthera leo
+2. Panthera tigris
+3. Panthera pardus
+4. Panthera onca
 
-For each of the following organisms and a description, you are given part of its scientific name. Fill in the blank using the vocabulary you've learned so far, or from the provided word list below.
+A. Jaguar
+B. Tiger
+C. Lion
+D. Leopard
 
-1.
-2.
-3.
+#### Problem 3.2: Morpho
 
-## Challenge
+1. Morpho sulkowskyi
+2. Morpho richardus
+3. Morpho godarti
+4. Morpho eugenia
 
-Some bonus questions.
+A. Richard's morpho
+B. Empress Eugenie morpho
+C. Sulkowsky's morpho
+D. Godart's morpho
+
+#### Problem 3.3: Lilium
+
+1. Lilium nepalense
+2. Lilium michiganense
+3. Lilium washingtonianum
+4. Lilium columbianum
+
+A. Michigan lily
+B. Columbia tiger lily
+C. Lily of Nepal
+D. Mt. Hood lily
+
+
+### Problem 4: Mythological Names
+
+Each of the following organisms has a scientific name related to a figure from Greek mythology. For each organism, look up its English name. Then tell what figure from Greek mythology it's named after, and explain the connection between the figure and the organism in 1-2 sentences.
+
+1. *Nestor notabilis*
+2. *Dynastes hercules*
+3. *Diomedea exulans*
+4. *Narcissus poeticus*
+5. *Argusianus argus*
+
+### Problem 5: Dinosaurs
+
+Here are some popular dinosaurs (and dinosaur-adjacent reptiles), along with the definitions of their names. Based on these, write down what each of the bases mean.
+
+1. Velociraptor - speedy thief
+2. Stegosaurus - roofed lizard
+3. Tyrannosaurus - tyrant lizard
+4. Triceratops - three-horned face
+5. Utahraptor - thief from Utah
+6. Protoceratops - first horned face
+7. Iguanodon - iguana teeth
+8. Apatosaurus - deceptive lizard
+
+A. veloci-
+B. raptor
+C. stego-
+D. saurus
+E. proto-
+F. tri-
+G. ceratops
+H. apato-
+I. -odon
+
+## Challenge: Ethnic names

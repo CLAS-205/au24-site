@@ -15,7 +15,7 @@ This course has four main objectives:
 - To **improve understanding of bioscientific vocabulary** through pattern recognition and practice with word formation
 - To **give familiarity with Greek and Latin stems and their meanings** for the facilitated identification and interpretation of new terms
 - To **introduce high-level concepts** relating to the Greek and Latin languages and to the role that the Ancient Mediterranean has played in shaping modern science
-- To **provide a framework** for discussing scientific topics and technical jargon
+- To **provide a framework** for discussing and interpreting scientific topics and technical jargon
 
 To achieve these goals, the course is structured around four topic areas, each with its own project. In addition, there are reading and reflection questions at the end of each lesson to help students practice vocabulary. Since this is a course that relies heavily on memorization and regular practice with the course concepts, it is recommended that students create their own review or mnemonic devices (e.g., flashcards, charts).
 
