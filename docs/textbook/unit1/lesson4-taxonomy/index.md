@@ -13,14 +13,5 @@ grandparent: Textbook
 1. Learn about the history of taxonomy and its uses in biological classification
 2. Discover the role of Greek and Latin terms in rank-based taxonomy
 
-### Reading Material
-
-The reading maerial for this lesson.
-
-### Vocabulary list
-
-A list of vocabulary for this lesson
-
-### Reading Questions
-
-Questions from which we'll pull the weekly reflections.
+{: .warning }
+> This page is still under construction. Please check back soon!

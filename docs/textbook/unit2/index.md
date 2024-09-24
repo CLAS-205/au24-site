@@ -7,7 +7,7 @@ parent: Textbook
 
 ## Unit 2
 
-This'll be the Project 2 unit. Discusses naming and uses in chemistry, compounds, and the like.
+In Unit 2, you'll explore more roots and word endings as they apply to chemical compounds. The lessons are organized as follows:
 
 - Suffixes
 - Numbers
@@ -16,5 +16,5 @@ This'll be the Project 2 unit. Discusses naming and uses in chemistry, compounds
 - Periodic Table
 - Project
 
-> [!note]
+{: .warning}
 > This part of the site is still under construction. Please check back soon!

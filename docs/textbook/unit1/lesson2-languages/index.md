@@ -14,14 +14,5 @@ grandparent: Textbook
 2. Discuss transliteration from Greek to English and/or Latin
 3. Overview of common language patterns in word formation
 
-### Reading Material
-
-The reading material for this lesson.
-
-### Vocabulary list
-
-A list of vocabulary for this lesson
-
-### Reading Questions
-
-Questions from which we'll pull the weekly reflections.
+{: .warning }
+> This page is still under construction. Please check back soon!

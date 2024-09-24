@@ -13,14 +13,5 @@ grandparent: Textbook
 1. Provide more vocabulary words and practice
 2. Prepare to look at scientific names
 
-### Reading Material
-
-The reading material for this lesson.
-
-### Vocabulary list
-
-A list of vocabulary for this lesson
-
-### Reading Questions
-
-Questions from which we'll pull the weekly reflections.
+{: .warning }
+> This page is still under construction. Please check back soon!

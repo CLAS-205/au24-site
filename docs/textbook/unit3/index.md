@@ -14,5 +14,5 @@ In Unit 3, you'll learn how Greek and Latin terminology applies to mathematics, 
 - Astronomical Naming Conventions
 - Project
 
-> [!note]
+{: .warning}
 > This part of the site is still under construction. Please check back soon!

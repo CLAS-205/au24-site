@@ -4,6 +4,7 @@ nav_order: 1
 layout: default
 parent: Unit 2
 grandparent: Textbook
+nav_enabled: false
 ---
 
 ## Lesson 6: Suffixes

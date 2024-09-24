@@ -16,5 +16,5 @@ In Unit 4, you'll learn how Greek and Latin became the language of medicine and 
 - Prescriptions
 - Project
 
-> [!note]
+{: .warning}
 > This part of the site is still under construction. Please check back soon!
