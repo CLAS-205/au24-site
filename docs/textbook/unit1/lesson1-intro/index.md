@@ -14,6 +14,9 @@ grandparent: Textbook
 2. Identifying Latin and Greek roots and their meanings
 3. Learning how word-building works
 
+{: .warning }
+> This page is still under construction. Please check back soon!
+
 ## The Importance of Bioscientific Vocabulary
 
 In this lesson, we’re going to start diving into the foundations of word formation, starting with the differences between prefixes, suffixes, and bases; and then introducing relevant parts of speech. As an additional note on terminology, I will use “root” and “stem” interchangeably to collectively refer to individual word parts. Two of the types of roots we’ll encounter in this lesson are prefixes and bases.
