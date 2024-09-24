@@ -4,6 +4,7 @@ nav_order: 6
 layout: default
 parent: Unit 1
 grandparent: Textbook
+nav_exclude: true
 ---
 
 # Project 1: Scientific Names
