@@ -16,7 +16,7 @@ grandparent: Textbook
 
 ## The Importance of Bioscientific Vocabulary
 
-In this lesson, we’re going to start diving into the foundations of word formation, starting with the relevant parts of speech, then getting into the prefixes and bases that are introduced in the first lesson. As an additional note on terminology, I will use “root” and “stem” interchangeably to collectively refer to individual word parts. Two of the types of roots we’ll encounter in this lesson are prefixes and bases.
+In this lesson, we’re going to start diving into the foundations of word formation, starting with the differences between prefixes, suffixes, and bases; and then introducing relevant parts of speech. As an additional note on terminology, I will use “root” and “stem” interchangeably to collectively refer to individual word parts. Two of the types of roots we’ll encounter in this lesson are prefixes and bases.
 
 ## Prefixes, Suffixes, Bases
 
@@ -48,43 +48,56 @@ It’s hard to give one solid definition of a preposition in English (or Latin a
 
 Nearly all roots with prepositional origins are found at the beginnings of words (i.e., they're often prefixes), and they often attach to verbs.
 
+## Building a Vocabulary
+
+Let's look at some vocabulary in context. When learning new roots, it's often helpful to get a sense for how they show up in words and how they affect meanings.
+
 ## Vocabulary list
 
-| Root      | Language of origin    | Meaning                   | Example           |
-| :---:     | :---:                 | :---                      | :---              |
-| bio       | Greek                 | life                      | biology           |
-| log       | Greek                 | study of, reason, word    | logical           |
-| photo     | Greek                 | light                     | photograph        |
-| the       | Greek                 | to put, to place          | synthesis         |
-| gno       | Greek                 | to know                   | agnostic          |
-| (a)esth   | Greek                 | to feel, to perceive      | aesthetic         |
-| macro     | Greek                 | large                     | macroeconomics    |
-| micro     | Greek                 | small                     | microscope        |
-| scop      | Greek                 | to see, to look at        | stethoscope       |
-| morph     | Greek                 | shape, form               | metamorphosis     |
-| poly      | Greek                 | many                      | polygraph         |
-| olig      | Greek                 | few                       | oligarchy         |
-| phobia    | Greek                 | fear, fear of             | hydrophobia       |
-| vit(a)    | Latin                 | life                      | vitality          |
-| omni      | Latin                 | everything, all           | omniscient        |
-| aqua      | Latin                 | water                     | aquarium          |
-| fer       | Latin                 | to carry, carrier         | conifer           |
-| multi     | Latin                 | many                      | multipurpose      |
-| vid/vis   | Latin                 | to see                    | visible           |
+| Root          | Language of origin    | Meaning                   | Example           |
+| :---:         | :---:                 | :---                      | :---              |
+| bio           | Greek                 | life                      | biology           |
+| log           | Greek                 | study of, reason, word    | logical           |
+| photo         | Greek                 | light                     | photograph        |
+| the           | Greek                 | to put, to place          | synthesis         |
+| gno           | Greek                 | to know                   | agnostic          |
+| (a)esth       | Greek                 | to feel, to perceive      | aesthetic         |
+| macro         | Greek                 | large                     | macroeconomics    |
+| micro         | Greek                 | small                     | microscope        |
+| scop          | Greek                 | to see, to look at        | stethoscope       |
+| morph         | Greek                 | shape, form               | metamorphosis     |
+| poly          | Greek                 | many                      | polygraph         |
+| olig          | Greek                 | few                       | oligarchy         |
+| phobia        | Greek                 | fear, fear of             | hydrophobia       |
+| graph         | Greek                 | to write                  | seismograph       |
+| vit(a)        | Latin                 | life                      | vitality          |
+| omni          | Latin                 | everything, all           | omniscient        |
+| aqua          | Latin                 | water                     | aquarium          |
+| terra         | Latin                 | earth                     | terrarium         |
+| fer           | Latin                 | to carry, carrier         | conifer           |
+| multi         | Latin                 | many                      | multipurpose      |
+| vidi/visi     | Latin                 | to see                    | visible           |
+| port(o/a)     | Latin                 | to bring, to carry        | transport         |
+| able/abil     | Latin                 | able, capable             | ability           |
+| mobl/mobil    | Latin                 | to move                   | automobile        |
 
 ## Vocabulary practice
 
-Identify the roots in each of the following words, give their language of origin, and their definitions. Some words will have more than one root from the lesson's vocabulary!
+**Practice Set A.** Identify the roots in each of the following words, give their language of origin, and their definitions. Some words will have more than one root from the lesson's vocabulary!
 
 1. infer
 2. morphology
 3. macroscopic
 4. diagnose
-5. anesthetic
+5. anesthesiologist
+6. photosynthesis
+7. aquifer
+8. graphable
+9. amphibian
+10. scopophobia
 
 ## Reflection Questions
 
-1. 
-2.
-3.
-4.
+1. Choose any three of the roots from this lesson. What part of speech do you think they come from, and why?
+2. Some roots have the same definition but are from different languages. Find a pair of roots with the same definition and look at their spellings. What might this tell you about the roots in the original Latin and Greek?
+3. Which roots did you know already before reading this lesson? In what contexts have you seen them? Which roots were unfamiliar?
