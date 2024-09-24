@@ -10,12 +10,12 @@ grandparent: Textbook
 
 ### Objectives
 
-1. Objective 1
-2. Objective 2
+1. Provide more vocabulary words and practice
+2. Prepare to look at scientific names
 
 ### Reading Material
 
-The reading maerial for this lesson.
+The reading material for this lesson.
 
 ### Vocabulary list
 

@@ -7,12 +7,11 @@ parent: Textbook
 
 ## Unit 1
 
-This'll be the Project 1 unit. Introduces bioscientific vocab for uses in naming and taxonomy. Outline of lessons:
+In Unit 1, you'll enter the world of Latin and Greek roots and learn how to identify and classify living organisms. The lessons are organized as follows:
 
-- Introduction to Greek and Latin
-- Language Quirks
+- Introduction to Word-Building
+- Latin and Greek Language Quirks
+- Building Vocabulary
 - Taxonomy
 - Scientific Naming Conventions
 - Project
-
-Need vocabulary lists at the end of each lesson. Possibly accompanied by readings?
