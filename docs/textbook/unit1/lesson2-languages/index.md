@@ -10,12 +10,13 @@ grandparent: Textbook
 
 ### Objectives
 
-1. Objective 1
-2. Objective 2
+1. Introduce the Latin and Greek alphabets
+2. Discuss transliteration from Greek to English and/or Latin
+3. Overview of common language patterns in word formation
 
 ### Reading Material
 
-The reading maerial for this lesson.
+The reading material for this lesson.
 
 ### Vocabulary list
 

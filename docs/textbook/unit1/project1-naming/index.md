@@ -17,9 +17,7 @@ grandparent: Textbook
 
 In this project, you will apply your understanding of bioscientific vocabulary by interpreting scientific names and matching them to the organisms they describe. Scientific names, often derived from Latin or Greek roots, convey essential information about the characteristics, habitat, or classification of an organism. By breaking down these names into their components, you can uncover their meanings and gain insights into the biology of each species. This project will enhance your ability to connect vocabulary with real-world applications in biology, reinforcing the foundational knowledge you've acquired in this course.
 
-## Assignment
-
-### Problem 1: Places, Please
+## Problem 1: Places, Please
 
 Some organisms' species are derived from the places that they inhabit or were discovered in. Based on the names of these organisms, tell where they can be found.
 
@@ -32,7 +30,7 @@ Some organisms' species are derived from the places that they inhabit or were di
 7. Chrysaora africana
 8. Rosa californica
 
-### Problem 2: Order in the Court
+## Problem 2: Order in the Court
 
 Look up the English name for each of the given orders. Interpret the scientific names and explain why these make sense (or don't!) for the types of organisms they describe.
 
@@ -45,7 +43,7 @@ Look up the English name for each of the given orders. Interpret the scientific 
 7. Carnivora
 8. Actiniaria
 
-### Problem 3: Appointment at the Genus Bar
+## Problem 3: Appointment at the Genus Bar
 
 You are given some lists of organisms that share a genus but differ in species. Match their scientific names to their English counterparts, then tell how you think the given species in this genus are differentiated from each other, from the following options:
 
@@ -53,7 +51,7 @@ You are given some lists of organisms that share a genus but differ in species. 
 * Geographic names
 * Discoverer names
 
-#### Problem 3.1: Panthera
+### Problem 3.1: Panthera
 
 1. Panthera leo
 2. Panthera tigris
@@ -65,7 +63,7 @@ B. Tiger
 C. Lion
 D. Leopard
 
-#### Problem 3.2: Morpho
+### Problem 3.2: Morpho
 
 1. Morpho sulkowskyi
 2. Morpho richardus
@@ -77,7 +75,7 @@ B. Empress Eugenie morpho
 C. Sulkowsky's morpho
 D. Godart's morpho
 
-#### Problem 3.3: Lilium
+### Problem 3.3: Lilium
 
 1. Lilium nepalense
 2. Lilium michiganense
@@ -90,7 +88,7 @@ C. Lily of Nepal
 D. Mt. Hood lily
 
 
-### Problem 4: Mythological Names
+## Problem 4: Mythological Names
 
 Each of the following organisms has a scientific name related to a figure from Greek mythology. For each organism, look up its English name. Then tell what figure from Greek mythology it's named after, and explain the connection between the figure and the organism in 1-2 sentences.
 
@@ -100,7 +98,7 @@ Each of the following organisms has a scientific name related to a figure from G
 4. *Narcissus poeticus*
 5. *Argusianus argus*
 
-### Problem 5: Dinosaurs
+## Problem 5: Dinosaurs
 
 Here are some popular dinosaurs (and dinosaur-adjacent reptiles), along with the definitions of their names. Based on these, write down what each of the bases mean.
 
@@ -125,7 +123,7 @@ Here are some popular dinosaurs (and dinosaur-adjacent reptiles), along with the
  <li>veloci-</li>
 </ol>
 
-### Problem 6: What's in a Name?
+## Problem 6: What's in a Name?
 
 For each of the organisms and their scientific names, provide a breakdown of all roots in the scientific name. Explain the meaning of each name based on its components, and give 1-2 sentences explaining why this name makes sense for the particular organism.
 
@@ -136,4 +134,4 @@ For each of the organisms and their scientific names, provide a breakdown of all
 5. Five-needle pine tree (*pinus parviflora*)
 6. Wood ear mushroom (*auricularia polytricha*)
 
-## Challenge: Ethnic names
+## Challenge Problem: Ethnic names
