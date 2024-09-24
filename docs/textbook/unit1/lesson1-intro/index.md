@@ -7,6 +7,10 @@ grandparent: Textbook
 ---
 
 # Lesson 1: Introduction to Bioscientific Word-Building
+{: .no_toc}
+
+1. TOC
+{:toc}
 
 ## Objectives
 
