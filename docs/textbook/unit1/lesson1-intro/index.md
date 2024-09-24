@@ -35,7 +35,7 @@ A little bit of grammar never hurt anyone! In fact, it's helpful to understand h
 
 ### Nouns
 
-A noun represents a person, place, thing, or idea. 
+A noun represents a person, place, thing, or idea. Many base-forming roots will be nouns.
 
 ### Adjectives
 
@@ -64,7 +64,7 @@ Let's look at some vocabulary in context. When learning new roots, it's often he
 | Root          | Language of origin    | Meaning                   | Example           |
 | :---:         | :---:                 | :---                      | :---              |
 | bio           | Greek                 | life                      | biology           |
-| log           | Greek                 | study of, reason, word    | logical           |
+| log(y)        | Greek                 | study of, reason, word    | logical           |
 | photo         | Greek                 | light                     | photograph        |
 | the           | Greek                 | to put, to place          | synthesis         |
 | gno           | Greek                 | to know                   | agnostic          |
@@ -77,6 +77,7 @@ Let's look at some vocabulary in context. When learning new roots, it's often he
 | olig          | Greek                 | few                       | oligarchy         |
 | phobia        | Greek                 | fear, fear of             | hydrophobia       |
 | graph         | Greek                 | to write                  | seismograph       |
+| op(s/t)       | Greek                 | to see, vision            | optical           |
 | vit(a)        | Latin                 | life                      | vitality          |
 | omni          | Latin                 | everything, all           | omniscient        |
 | aqua          | Latin                 | water                     | aquarium          |
@@ -85,12 +86,26 @@ Let's look at some vocabulary in context. When learning new roots, it's often he
 | multi         | Latin                 | many                      | multipurpose      |
 | vidi/visi     | Latin                 | to see                    | visible           |
 | port(o/a)     | Latin                 | to bring, to carry        | transport         |
-| able/abil     | Latin                 | able, capable             | ability           |
+| able/ible     | Latin                 | able, capable             | ability           |
 | mobl/mobil    | Latin                 | to move                   | automobile        |
+| pos(t)/posit  | Latin                 | to put, to place          | position          |
 
 ## Vocabulary practice
 
-**Practice Set A.** Identify the roots in each of the following words, give their language of origin, and their definitions. Some words will have more than one root from the lesson's vocabulary!
+**Practice Set A.** For each of the words and the underlined root, give its meaning and tell whether it is a prefix, base, or suffix.
+
+1. <ins>graph</ins>ite
+2. im<ins>port</ins>
+3. extra<ins>terr</ins>estrial
+4. sub<ins>aqua</ins>tic
+5. <ins>aqua</ins>marine
+6. zoo<ins>logy</ins>
+7. decom<ins>pose</ins>
+8. ex<ins>posit</ins>ion
+9. de<ins>posit</ins>
+10. pro<ins>gno</ins>sis
+
+**Practice Set B.** Identify the roots in each of the following words, give their language of origin, and their definitions. Some words will have more than one root from the lesson's vocabulary!
 
 1. infer
 2. morphology
@@ -98,7 +113,7 @@ Let's look at some vocabulary in context. When learning new roots, it's often he
 4. diagnose
 5. anesthesiologist
 6. photosynthesis
-7. aquifer
+7. biopsy
 8. graphable
 9. amphibian
 10. scopophobia
