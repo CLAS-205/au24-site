@@ -1,5 +1,5 @@
 ---
-title: Project 1
+title: Project 1: Scientific Names
 nav_order: 6
 layout: default
 parent: Unit 1
@@ -59,10 +59,12 @@ You are given some lists of organisms that share a genus but differ in species. 
 3. Panthera pardus
 4. Panthera onca
 
-A. Jaguar
-B. Tiger
-C. Lion
-D. Leopard
+<ol type="A">
+ <li>Jaguar</li>
+ <li>Tiger</li>
+ <li>Lion</li>
+ <li>Leopard</li>
+</ol>
 
 ### Problem 3.2: Morpho
 
@@ -71,10 +73,12 @@ D. Leopard
 3. Morpho godarti
 4. Morpho eugenia
 
-A. Richard's morpho
-B. Empress Eugenie morpho
-C. Sulkowsky's morpho
-D. Godart's morpho
+<ol type="A">
+ <li>Richard's morpho</li>
+ <li>Empress Eugenie morpho</li>
+ <li>Sulkowsky's morpho</li>
+ <li>Godart's morpho</li>
+</ol>
 
 ### Problem 3.3: Lilium
 
@@ -83,11 +87,12 @@ D. Godart's morpho
 3. Lilium washingtonianum
 4. Lilium columbianum
 
-A. Michigan lily
-B. Columbia tiger lily
-C. Lily of Nepal
-D. Mt. Hood lily
-
+<ol type="A">
+ <li>Michiagn lily</li>
+ <li>Columbia tiger lily</li>
+ <li>Lily of Nepal</li>
+ <li>Mt. Hood lily</li>
+</ol>
 
 ## Problem 4: Mythological Names
 
@@ -136,3 +141,13 @@ For each of the organisms and their scientific names, provide a breakdown of all
 6. Wood ear mushroom (*auricularia polytricha*)
 
 ## Challenge Problem: Ethnic names
+
+While Greek and Latin roots form the backbone of much scientific terminology, non-Greek and Latin languages can also contribute to scientific names. For example, some plants and animals keep indigenous names to honor cultural heritage or reflect local knowledge about the species. Using non-Greek and Latin languages can provide specific, culturally relevant descriptors that might not be captured by traditional naming conventions.
+
+For each of the following names, look up the language and culture that is used in the scientific name. Then tell the significance (in at least 1-2 sentences) that the organism has to that culture.
+
+1. Opuntia tehuacana
+2. Tuber lijiangense
+3. Akodon toba
+4. Esox masquinongy
+5. Sequoiadendron giganteum

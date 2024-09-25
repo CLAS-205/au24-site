@@ -48,7 +48,45 @@ All vocabulary from each unit and lesson can be found here.
 | mobl/mobil    | Latin                 | to move                   | automobile        |
 | pos(t)/posit  | Latin                 | to put, to place          | position          |
 | super         | Latin                 | over, above  excessive    | supercede         |
-| sub           | Latin                 | beneath, below            | submarine         |
 | ambi          | Latin                 | both, double              | ambiguous         |
 | trans         | Latin                 | across                    | translucent       |
-| con           | Latin                 | with                      | concur            |
+
+### Lesson 2
+
+| Root          | Language of origin    | Meaning                   | Example           |
+| :---:         | :---:                 | :---                      | :---              |
+| hypn(o)       | Greek                 | sleep                     | hypnosis          |
+| cine/kine     | Greek                 | movement                  | kinetic           |
+| dynam         | Greek                 | power                     | dynamic           |
+| erg           | Greek                 | energy                    | ergonomic         |
+| the           | Greek                 | to put, to place          | thesis            |
+| path(o)       | Greek                 | feeling, disease          | pathology         |
+| hydr(o)       | Greek                 | water                     | hydrant           |
+| neur(o)       | Greek                 | nerve                     | neurosis          |
+| top(o)        | Greek                 | place, location           | topology          |
+| trop          | Greek                 | to turn                   | thermotropism     |
+| cata          | Greek                 | against, very, down       | catastrophe       |
+| tele          | Greek                 | far, from afar            | telepathy         |
+| phon          | Greek                 | sound, voice, speech      | phonics           |
+| meta          | Greek                 | with, beyond, after       | metastasize       |
+| syn           | Greek                 | together, with            | synthesize        |
+| a/an          | Greek                 | not, without              | asexual           |
+| anti          | Greek                 | against, opposed to       | antitoxin         |
+| somn(i)       | Latin                 | sleep                     | insomnia          |
+| scrib/script  | Latin                 | to write, written         | prescribe         |
+| sens/sent     | Latin                 | to feel, to perceive      | sentient          |
+| corp          | Latin                 | body                      | corporeal         |
+| mar           | Latin                 | ocean                     | marine            |
+| cal           | Latin                 | heat                      | calorie           |
+| fac(t)/fic(t) | Latin                 | to make                   | factory           |
+| e/ex          | Latin                 | out of, outside, former   | expel             |
+| inter         | Latin                 | between                   | international     |
+| intra         | Latin                 | within                    | intramural        |
+| de            | Latin                 | down from, out of         | deduce            |
+| circu(m)      | Latin                 | around                    | circumscribe      |
+| ad*           | Latin                 | to, towards               | advance           |
+| sub*          | Latin                 | beneath, below            | submarine         |
+| con/com*      | Latin                 | with                      | concur            |
+| in*           | Latin                 | into, inside, on          | include           |
+| in*           | Latin                 | not, without              | include           |
+| ob*           | Latin                 | against, facing           | obtuse            |

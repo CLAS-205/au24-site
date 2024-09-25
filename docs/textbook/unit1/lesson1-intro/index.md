@@ -102,10 +102,8 @@ In later lessons, you will usually have a longer reading that goes into more det
 | mobl/mobil    | Latin                 | to move                   | automobile        |
 | pos(t)/posit  | Latin                 | to put, to place          | position          |
 | super         | Latin                 | over, above  excessive    | supercede         |
-| sub           | Latin                 | beneath, below            | submarine         |
 | ambi          | Latin                 | both, double              | ambiguous         |
 | trans         | Latin                 | across                    | translucent       |
-| con/com       | Latin                 | with                      | concur            |
 
 ## Vocabulary practice
 
