@@ -27,8 +27,4 @@ Note that since this book was designed specifically with the asynchronous, remot
 
 ## Getting in Touch
 
-I'd love to have your feedback! If you spot anything you like or dislike, please submit a Github issue[^1] or contact [Suh Young Choi](https://classics.washington.edu/people/suh-young-choi)!
-
------
-
-[^1]: In development.
+I'd love to have your feedback! If you spot anything you like or dislike, please submit a [Github issue](https://github.com/CLAS-205/au24-site/issues) or contact [Suh Young Choi](https://classics.washington.edu/people/suh-young-choi)!
