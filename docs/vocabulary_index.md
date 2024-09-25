@@ -5,7 +5,7 @@ nav_order: 2
 
 # Vocabulary
 
-This is where all the vocabulary is going to live, along with the units that the vocab was introduced in.
+All vocabulary from each unit and lesson can be found here.
 
 ## Unit 1
 
@@ -14,9 +14,9 @@ This is where all the vocabulary is going to live, along with the units that the
 | Root          | Language of origin    | Meaning                   | Example           |
 | :---:         | :---:                 | :---                      | :---              |
 | bio           | Greek                 | life                      | biology           |
-| log           | Greek                 | study of, reason, word    | logical           |
+| log(y)        | Greek                 | study of, reason, word    | logical           |
 | photo         | Greek                 | light                     | photograph        |
-| the           | Greek                 | to put, to place          | synthesis         |
+| thermo        | Greek                 | heat                      | thermometer       |
 | gno           | Greek                 | to know                   | agnostic          |
 | (a)esth       | Greek                 | to feel, to perceive      | aesthetic         |
 | macro         | Greek                 | large                     | macroeconomics    |
@@ -27,13 +27,28 @@ This is where all the vocabulary is going to live, along with the units that the
 | olig          | Greek                 | few                       | oligarchy         |
 | phobia        | Greek                 | fear, fear of             | hydrophobia       |
 | graph         | Greek                 | to write                  | seismograph       |
+| op(s/t)       | Greek                 | to see, vision            | optical           |
+| hyper         | Greek                 | over, above, excessive    | hyperbole         |
+| hypo          | Greek                 | under, beneath, below     | hypothermia       |
+| amphi         | Greek                 | both, double              | amphitheatre      |
 | vit(a)        | Latin                 | life                      | vitality          |
 | omni          | Latin                 | everything, all           | omniscient        |
 | aqua          | Latin                 | water                     | aquarium          |
 | terra         | Latin                 | earth                     | terrarium         |
-| fer           | Latin                 | to carry, carrier         | conifer           |
+| frug/fruct    | Latin                 | fruit                     | fructose          |
+| con(i)        | Latin                 | cone                      | conifer           |
+| mel(l)        | Latin                 | honey                     | mellifluous       |
+| fer           | Latin                 | to carry, carrier         | conference        |
 | multi         | Latin                 | many                      | multipurpose      |
+| magn(i)       | Latin                 | large                     | magnitude         |
+| parv(o)       | Latin                 | small                     | parvovirus        |
 | vidi/visi     | Latin                 | to see                    | visible           |
 | port(o/a)     | Latin                 | to bring, to carry        | transport         |
-| able/abil     | Latin                 | able, capable             | ability           |
+| able/ible     | Latin                 | able, capable             | ability           |
 | mobl/mobil    | Latin                 | to move                   | automobile        |
+| pos(t)/posit  | Latin                 | to put, to place          | position          |
+| super         | Latin                 | over, above  excessive    | supercede         |
+| sub           | Latin                 | beneath, below            | submarine         |
+| ambi          | Latin                 | both, double              | ambiguous         |
+| trans         | Latin                 | across                    | translucent       |
+| con           | Latin                 | with                      | concur            |
