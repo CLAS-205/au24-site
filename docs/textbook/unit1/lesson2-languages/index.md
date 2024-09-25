@@ -19,6 +19,9 @@ grandparent: Textbook
 
 ## The Greek Alphabet
 
+![The Greek and English alphabets, side-by-side. Image credit: Britannica](../../../assets/images/greek-alphabet.png)
+*The Greek and English alphabets. Image credit: Britannica*
+
 ## The Latin Alphabet
 
 ## Contraction and Assimilation
