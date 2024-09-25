@@ -7,6 +7,10 @@ grandparent: Textbook
 ---
 
 # Lesson 2: How Latin and Greek Work
+{: .no_toc}
+
+1. TOC
+{:toc}
 
 ## Objectives
 
@@ -21,6 +25,29 @@ grandparent: Textbook
 
 ![The Greek and English alphabets, side-by-side. Image credit: Britannica](../../../assets/images/greek-alphabet.png)
 *The Greek and English alphabets. Image credit: Britannica*
+
+For this class, you are not going to be tested on your ability to memorize the Greek alphabet. In any situation where you might have to read Greek terms in the original language, you will have the alphabet provided as a reference. Depending on your background, you might already be familiar with some of these letters, or the Greek language itself!
+
+Some Greek letters have similar sounds and shapes as their English counterparts:
+
+| Greek letter  | English letter    |
+| :---:         | :---:             |
+| Α α           | A a               |
+| Β β           | B b               |
+| E ε           | E e               |
+| Ι ι           | I i               |
+| Ζ ζ           | Z z               |
+| Κ κ           | K k               |
+| Μ μ           | M m               |
+| N ν           | N n               |
+| O o           | O o               |
+| T τ           | T t               |
+
+There are a couple that look tricky-- lowercase nu may be mistaken for a lowercase v, both uppercase and lowercase rho may look like P, uppercase upsilon may look like an uppercase y, and lowercase omega resembles a lowercase W.
+
+### Transliteration
+
+You may have noticed that there is no C or Y in the Greek alphabet. That's because, in Greek, K and C are the same letter; while U and Y are the same letter.
 
 ## The Latin Alphabet
 
@@ -103,4 +130,5 @@ grandparent: Textbook
 
 1. What was your experience with the Greek alphabet like before this lesson? In what contexts have you seen Greek letters or words in the original alphabet?
 2. What language(s) are you familiar with? Do those languages experience any contraction or assimilation? Give examples.
-3. Choose any three preposition roots from this lessons and give three examples each, of words you know that don't appear in this lesson but use those roots. (A total of 9 words, with their definitions)
+3. Choose any three preposition roots from this lesson and give three examples each, of words you know that don't appear in this lesson but use those roots. (A total of 9 words, with their definitions)
+4. Choose any three Greek roots from the vocabulary you know so far and try transliterating them back to Greek (don't use words that were used in Practice Set A!).
