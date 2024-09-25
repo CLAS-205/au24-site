@@ -31,7 +31,7 @@ For this class, you are not going to be tested on your ability to memorize the G
 Some Greek letters have similar sounds and shapes as their English counterparts:
 
 | Greek letter  | English letter    |
-| :---:         | :---:             |
+| :---          | :---              |
 | Α α           | A a               |
 | Β β           | B b               |
 | E ε           | E e               |

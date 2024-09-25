@@ -1,5 +1,5 @@
 ---
-title: Project 1: Scientific Names
+title: Project 1
 nav_order: 6
 layout: default
 parent: Unit 1
