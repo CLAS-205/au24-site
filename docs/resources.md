@@ -2,7 +2,6 @@
 title: Further Resources
 layout: default
 nav_order: 4
-nav_exclude: true
 ---
 
 A list of additional resources for the class can be found here, organized by topic.
