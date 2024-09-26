@@ -1,6 +1,5 @@
 ---
 title: Further Resources
-layout: default
 nav_order: 4
 ---
 
