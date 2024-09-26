@@ -115,11 +115,13 @@ Here are some popular dinosaurs (and dinosaur-adjacent reptiles), along with the
 6. Protoceratops - first horned face
 7. Iguanodon - iguana teeth
 8. Apatosaurus - deceptive lizard
+9. Ceratosaurus - horned lizard
 
 <ol type="A">
  <li>apato-</li>
- <li>-ceratops</li>
+ <li>-cerato-</li>
  <li>-odon</li>
+ <li>-ops</li>
  <li>proto-</li>
  <li>-raptor</li>
  <li>-saurus</li>
