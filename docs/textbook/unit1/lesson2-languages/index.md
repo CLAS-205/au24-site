@@ -131,7 +131,7 @@ Both of these Latin roots are similar, having one form before roots that start w
 - a + vert in *avert* and *aversion* use "a" rather than "ab", since *vert* starts with a consonant
 - ab + err in *aberrant* uses "ab", since *err* starts with a consonant
 
-However, there's not really a strong pattern to when to use "ex" vs "e" as a prefix.
+However, there's not really a strong pattern to when to use "ex" vs "e" as a prefix. You will never see "e" in front of a root that begins with a vowel, but you may see "ex" in front of roots that begin with consonants.
 
 - e + dent in *edentate* since *dent* starts with a consonant
 - ex + orbit in *exorbital* since *orbit* starts with a vowel
