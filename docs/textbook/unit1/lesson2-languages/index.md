@@ -48,7 +48,7 @@ Transliteration comes from the Latin roots **trans** (across) and **littera** (l
 
 There are a few Greek letters that have interesting patterns in English transliterations. Wherever you see a C or a CH in Greek, those were letters that were originally represented by a kappa (κ) or a chi (χ). So even though those letters make a K or a hard C sound, they will sometimes be represented in English with the letter C. This is because when we transliterate the kappa to English, we can use either a K or a C, since both letters make the same sound in English.
 
-The rho is the letter that looks something like a P. Sometimes in physics it’s used to represent density. Here, it represents the letter R. The Greek R sound is different from the English R sound, though, because the Greek R sounds is *aspirated* (it's a bit of a rolled-R sound). When transliterating rho to English or Latin, sometimes an H is added after the R to indicate that it’s aspirated. This doesn’t happen all the time, but it is something to be on the lookout for. 
+The rho is the letter that looks something like a P. Sometimes in physics it’s used to represent density. Here, it represents the letter R. The Greek R sound is different from the English R sound, though, because the Greek R sounds is *aspirated* (it's a bit of a rolled-R sound). When transliterating rho to English or Latin, sometimes an H is added after the R to indicate that it’s aspirated. This doesn’t happen all the time, but it is something to be on the lookout for.
 
 You’ll notice that H is not actually part of the Greek alphabet; whenever you see an H in the bases, prefixes, or suffixes, that tells you that there’s actually an aspirated letter. That’s also why the chi is spelled as CH instead of C. It’s a similar sound, but there’s an aspect of breathiness to it.
 
@@ -128,7 +128,14 @@ The Greek root *a* is often found as a prefix to mean "not". However, it has two
 
 Both of these Latin roots are similar, having one form before roots that start with consonants and another before roots that start with vowels. Be careful not to confuse the Latin *a* with the Greek *a*! You can usually use context clues to determine which one is which. The Latin *a* tends to attach to Latin verbs, while the Greek *a* tends to attach to Greek roots, regardless of their part of speech.
 
-* *evade*
+- a + vert in *avert* and *aversion* use "a" rather than "ab", since *vert* starts with a consonant
+- ab + err in *aberrant* uses "ab", since *err* starts with a consonant
+
+However, there's not really a strong pattern to when to use "ex" vs "e" as a prefix.
+
+- e + dent in *edentate* since *dent* starts with a consonant
+- ex + orbit in *exorbital* since *orbit* starts with a vowel
+- ex + tend in *extend*, even though *x* and *t* are both consonants
 
 ### Assimilation
 
