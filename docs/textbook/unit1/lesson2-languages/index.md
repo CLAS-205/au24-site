@@ -18,9 +18,6 @@ grandparent: Textbook
 2. Discuss transliteration from Greek to English and/or Latin
 3. Overview of common language patterns in word formation
 
-{: .warning }
-> This page is still under construction. Please check back soon!
-
 ## The Greek Alphabet
 
 ![The Greek and English alphabets, side-by-side. Image credit: Britannica](../../../../assets/images/greek-alphabet.png)
