@@ -68,7 +68,117 @@ The Latin alphabet is virtually the same as English, with the following exceptio
 - U and V are the same letter
 - I and J are the same letter
 
+Many Greek medical and mathematical terms bypassed Latin before coming into English, simply due to historical context. In the ancient Mediterranean, Latin was in wide use because of the spread and influence of the Roman empire. However, Greek tended to be used as the language of science because these studies originated in ancient Greece. Rather than inventing new words for the same concepts, Latin transliterated the Greek terms.
 
+Let's use the Greek word σφαιρα ("sphaira", pronounced “spy-ra”) as an example. The point of transliteration is to represent one alphabet with another, while retaining a pronunciation as close to the original as possible. 
+
+Transliterating σφαιρα letter-by-letter would give us "sphaira". However, the Latin language doesn't really use the diphthong "ai". Rather, it uses "ae". Thus, the Latin equivalent for σφαιρα would be *sphaera*.
+
+Now it's time for σφαιρα (sphaera) to pass to English. Since English and Latin use the same alphabets, we don't need to transliterate. However, just because the languages use the same alphabet doesn't mean that the letters will be pronounced the same way. Notably,
+
+* *ph* in English is usually pronounced as an "f" sound, rather than an aspirated "p"
+* *ae* in English is often pronounced the same as a short or long "e"
+
+Over time, both a's drop out, giving us *sphere* instead. In English, this word is pronounced like "sfeer", rather than like "spear".
+
+{: .note}
+> A diphthong is a group of two or more vowels that make one vowel sound. In this example, the diphthongs *ai* and *ae* both make the long *i* sound (like the word "eye")
+
+## Contraction and Assimilation
+
+Contraction and assimilation are two phenomena that occur in Latin and Greek that explain how and why some spelling patterns occur. Contraction exists in both languages, while assimilation is more exclusive to Latin preposition roots (at least, in this class). Many other world languages experience some degree of these phenomena, including English! 
+
+### Contraction
+
+Contraction happens when one or more letters are omitted from the pronunciation of a word or phrase. In written English, we often see this with the word "not" or a form of "to be" ("is", "are", "were", etc.) Here are some examples:
+
+- I + am = I'm
+- She + is = She's
+- Can + not = Can't
+- Will + not = Won't
+
+Some accents and dialects of English may also use contraction in the way words are pronounced, rather than how they're written:
+
+- In African-American Vernacular English and Southern American English, the "day" in days of the week may be pronounced closer to "dee" than "day". For example, "Sundee" instead of "Sunday", even though there is no change to the spelling of the word
+- Some New England accents drop the second *t* in "twenty", pronouncing the word closer to "twenny"
+
+Most of the contraction that you'll see in Latin and Greek belongs to the former category, where letters are dropped between words. Most often, the last letter of the first root will be dropped. Remember that each root can be considered its own word, so the following rules apply when two roots meet:
+
+1. Any root that ends in a vowel + any root that begins with a vowel or h
+2. Greek "a/an"
+3. Latin "a/ab" and "e/ex"
+
+#### Roots with vowels
+
+{: .note }
+> The vowels are *a*, *e*, *i*, *o*, and *u*. The consonants are all other letters.
+
+Many roots in both Greek and Latin will follow this rule. For example, let's look at the Greek root **dia** (meaning "through" or "across") and how it interacts with other roots:
+
+* dia + opt in *diopter* (a unit of measurement in refractive lenses)
+    * Note that the *a* drops out here, since *opt* begins with a vowel
+* dia + meter in *diameter* (the maximum linear distance between two points on a circle)
+    * Here, no letters are dropped since *m* is not a vowel
+
+#### Greek "a/an"
+
+The Greek root *a* is often found as a prefix to mean "not". However, it has two forms, depending on whether the following root begins with a consonant or vowel. The meaning of the root itself doesn't change. It's similar to the articles *a* and *an* in English,; we'd say "an apple" but "a banana".
+
+* *adynamia* comes from *a* + *dynam* (power). Adynamia is the lack of strength or movement, usually as a symptom of another disease.
+* *anesthetic* comes from *a* + *(a)esth* (to feel, to perceive). Anesthetics are drugs designed to induce full or partial numbness in the body.
+
+#### Latin "a/ab" and "e/ex"
+
+Both of these Latin roots are similar, having one form before roots that start with consonants and another before roots that start with vowels. Be careful not to confuse the Latin *a* with the Greek *a*! You can usually use context clues to determine which one is which. The Latin *a* tends to attach to Latin verbs, while the Greek *a* tends to attach to Greek roots, regardless of their part of speech.
+
+* *evade*
+
+### Assimilation
+
+**Assimilation** is a phenomenon almost exclusive to Latin prepositional roots. It's similar to contraction in the expected spelling of a root may change when it combines with another root. However, instead of dropping a letter, assimilation *changes* what the letter is. More specifically, assimilation changes the last consonant of the prepositional root to match the first consonant of the root that follows.
+
+Roots that undergo assimilation are marked with an asterisk (*) in the vocabulary. They will almost always be found as prefixes when they are assimilated. Here are some examples:
+
+* con + loc in *collocate*
+* ad + tend in *attend*
+* sub + port in *support*
+
+However, each of these also has instances where they *don't* assimilate:
+
+* con + vert in *convert*
+* ad + vis in *advise*
+* sub + mar in *submarine*
+
+When do you know whether a preposition assimilates or not? We'll need to do a brief linguistic detour to figure out how and why this happens.
+
+![A chart of consonant families](../../../../assets/images/consonant-families.png)
+
+These categories– labials, palatals, dentals, nasals and liquids–- are named for the part of your mouth that the sounds originate from. *Labial* is from the Latin root **labi**, which means "lips". When you make these letter sounds and you think about where the sounds originate, you'll notice that they begin near the front of your mouth at your lips. 
+
+*Palatals* are **c**, **k** and **g**. All of these sounds will start at the roof of your mouth, which is called the *palate.* 
+
+The root of *dental* is **dent**, which means that they start at your teeth. These are the consonants **t**, **d**, and **f**. F is a bit of a special case because it does begin at your teeth, but your lips are also involved. The proper linguistic term is that f is a *labio-dental*, because it involves both the lips and the teeth, but that distinction isn’t actually super important here. As such, you can see it in both the categories for labials and dentals.
+
+The *nasals* technically begin in your mouth, but they’re called “nasals” because they also involve the nose. These are the the consonants **n** and **m**, and the combination **ng**.
+
+Finally, there are *liquids*, which are not named for a part of the mouth but for their more fluid nature, the way they sound. This is **l** and **r**.
+
+{: .note }
+> Not all the English consonants are represented in this table. For example, the letters s and v are not in this table. This table only shows the consonants that tend to undergo assimilation.
+
+Assimilation happens when the final consonant of a preposition is in the same family as the first consonant of the following root. To determine whether a preposition assimilates, we check the last consonant of a prefix and see whether it's the same as the first consonant of the following root. The converse of that is that if the final consonant of the preposition does not have the same family as the first consonant of the following root, then the preposition doesn't assimilate. 
+
+There are a couple of extra rules:
+
+1. Liquids will assimilate any preposition except *sub*
+2. Dentals can assimilate to *s*
+
+Let's break down some of the earlier examples. 
+
+* In the word *collocate*, we see that the *n* in **con** is a nasal. The *l* in **loc** is a liquid. Though they're not in the same family, we know from Rule 1 that liquids can assimilate any preposition. Thus, the *n* in **con** turns into another *l*.
+* In the word *convert*, we see that the *n* in **con** is a nasal. However, the *v* of **vert** is not listed in the table. It doesn't ever assimilate any prepositions. Thus, **con** is left as it is.
+
+You are not responsible for memorizing this consonant chart to say which families are where. You can always come back and refer to this if you're stuck on whether a prefix is assimilated or not. This is just another way to figure out why these prefixes are assimilated and why they look the way they do. 
 
 
 ## Vocabulary list
@@ -80,12 +190,15 @@ The Latin alphabet is virtually the same as English, with the following exceptio
 | dynam         | Greek                 | power                     | dynamic           |
 | erg           | Greek                 | energy                    | ergonomic         |
 | the           | Greek                 | to put, to place          | thesis            |
+| meter/metry   | Greek                 | measurement               | geometry          |
 | path(o)       | Greek                 | feeling, disease          | pathology         |
 | hydr(o)       | Greek                 | water                     | hydrant           |
 | neur(o)       | Greek                 | nerve                     | neurosis          |
 | top(o)        | Greek                 | place, location           | topology          |
+| spher(e)      | Greek                 | sphere, globe             | hemisphere        |
 | trop          | Greek                 | to turn                   | thermotropism     |
 | cata          | Greek                 | against, very, down       | catastrophe       |
+| dia           | Greek                 | through, across           | diagonal          |
 | tele          | Greek                 | far, from afar            | telepathy         |
 | phon          | Greek                 | sound, voice, speech      | phonics           |
 | meta          | Greek                 | with, beyond, after       | metastasize       |
@@ -96,9 +209,17 @@ The Latin alphabet is virtually the same as English, with the following exceptio
 | scrib/script  | Latin                 | to write, written         | prescribe         |
 | sens/sent     | Latin                 | to feel, to perceive      | sentient          |
 | corp          | Latin                 | body                      | corporeal         |
+| spir          | Latin                 | breath, to breathe        | respirator        |
+| spect         | Latin                 | to look                   | inspect           |
+| labi(a)       | Latin                 | lips                      | labial            |
+| dent          | Latin                 | tooth                     | dentist           |
+| loc           | Latin                 | place                     | location          |
 | mar           | Latin                 | ocean                     | marine            |
 | cal(or)       | Latin                 | heat                      | calorie           |
 | fac(t)/fec(t) | Latin                 | to make                   | factory           |
+| tend(e/o)     | Latin                 | to stretch                | extend            |
+| vert/vers     | Latin                 | to turn                   | invert            |
+| a/ab          | Latin                 | down from, away from      | abduct            |
 | e/ex          | Latin                 | out of, outside, former   | expel             |
 | inter         | Latin                 | between                   | international     |
 | intra         | Latin                 | within                    | intramural        |
@@ -143,6 +264,19 @@ The Latin alphabet is virtually the same as English, with the following exceptio
 13. incorporeal
 14. sensation
 15. cinematic
+
+**Practice Set C.** Tell whether the following preposition and root combinations will experience assimilation or not. (Hint: Recall that assimilation is exclusive to Latin prepositions, and refer to the rules in [Assimilation](#assimilation))
+
+1. con + fect
+2. ad + scrib
+3. ob + port
+4. sub + aqua
+5. hyper + therm
+6. super + dynam
+7. in + fer
+8. de + cal
+9. a + hydro
+10. in + somni
 
 ## Reflection Questions
 
