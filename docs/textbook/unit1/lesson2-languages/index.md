@@ -15,7 +15,7 @@ grandparent: Textbook
 ## Objectives
 
 1. Introduce the Latin and Greek alphabets
-2. Discuss transliteration from Greek to English and/or Latin
+2. Discuss transliteration from Greek to Latin and English
 3. Overview of common language patterns in word formation
 
 ## The Greek Alphabet
