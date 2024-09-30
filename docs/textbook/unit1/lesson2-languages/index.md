@@ -179,11 +179,10 @@ There are a couple of extra rules:
 
 Let's break down some of the earlier examples. 
 
-* In the word *collocate*, we see that the *n* in **con** is a nasal. The *l* in **loc** is a liquid. Though they're not in the same family, we know from Rule 1 that liquids can assimilate any preposition. Thus, the *n* in **con** turns into another *l*.
-* In the word *convert*, we see that the *n* in **con** is a nasal. However, the *v* of **vert** is not listed in the table. It doesn't ever assimilate any prepositions. Thus, **con** is left as it is.
+- In the word *collocate*, we see that the *n* in **con** is a nasal. The *l* in **loc** is a liquid. Though they're not in the same family, we know from Rule 1 that liquids can assimilate any preposition. Thus, the *n* in **con** turns into another *l*.
+- In the word *convert*, we see that the *n* in **con** is a nasal. However, the *v* of **vert** is not listed in the table. It doesn't ever assimilate any prepositions. Thus, **con** is left as it is.
 
-You are not responsible for memorizing this consonant chart to say which families are where. You can always come back and refer to this if you're stuck on whether a prefix is assimilated or not. This is just another way to figure out why these prefixes are assimilated and why they look the way they do. 
-
+You are not responsible for memorizing this consonant chart to say which families are where. You can always come back and refer to this if you're stuck on whether a prefix is assimilated or not. This is just another way to figure out why these prefixes are assimilated and why they look the way they do.
 
 ## Vocabulary list
 
