@@ -10,11 +10,9 @@ grandparent: Textbook
 
 ## Objectives
 
-1. Provide more vocabulary words and practice
-2. Prepare to look at scientific names
-
-{: .warning }
-> This page is still under construction. Please check back soon!
+1. Look at Greek and Latin morphology
+2. Introduce suffixes
+3. Prepare to look at scientific names
 
 ## Morphology Crash Course
 
