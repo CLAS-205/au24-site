@@ -36,6 +36,7 @@ Color words from both languages are used in scientific naming, hence the two tab
 | flav(o)       | flavus/flava              | yellow        |
 | candid(o)     | candidus/candida          | bright, white |
 | virid         | viridis                   | green         |
+| pall(i)       | pallidus/pallida          | pale          |
 
 #### Greek
 
@@ -164,20 +165,6 @@ Furthermore, engaging with this discourse might encourage a more holistic approa
 | lepid(o)  | Greek                     | scale (as of a fish) | leprosy    |
 | cole(o)   | Greek                     | sheath            | coleoptile    |
 | theca     | Greek                     | case              | apothecary    |
-| alb           | Latin                | white         | albino        |
-| rub/ruf       | Latin    | red           | rubella       |
-| nigr          | Latin               | black         | nigrescent    |
-| cyan(o)       | Latin              | blue          | cyanide       |
-| flav(o)       | Latin              | yellow        | flavin        |
-| candid(o)     | Latin          | bright, white | candid        |
-| virid         | Latin                  | green         | viridian      |
-
-| scut(a)   | Latin                     | shield            | scute         |
-| squam(a)  | Latin                     | scale (as of a fish) | squamous   |
-| bulb      | Latin                     | onion, onion-like | bulbous       |
-| set(a)    | Latin                     | bristle           | setaceous     |
-| flor(a)   | Latin                     | flower            | floral        |
-| stri(a)   | Latin                     | groove, stripe    | striated      |
 | platy     | Greek                     | flat              | platypus      |
 | brachy    | Greek                     | short             | brachyodont   |
 | acr(o)    | Greek                     | high, tall        | acropolis     |
@@ -185,6 +172,20 @@ Furthermore, engaging with this discourse might encourage a more holistic approa
 | brady     | Greek                     | slow              | bradylogia    |
 | ambly     | Greek                     | dull              | amblyacusia   |
 | carchar   | Greek                     | sharp, jagged     | carcharias    |
+| alb           | Latin                | white         | albino        |
+| rub/ruf       | Latin    | red           | rubella       |
+| nigr          | Latin               | black         | nigrescent    |
+| cyan(o)       | Latin              | blue          | cyanide       |
+| flav(o)       | Latin              | yellow        | flavin        |
+| candid(o)     | Latin          | bright, white | candid        |
+| virid         | Latin                  | green         | viridian      |
+| pall(i)       | Latin          | pallidus/pallida          | pallor       |
+| scut(a)   | Latin                     | shield            | scute         |
+| squam(a)  | Latin                     | scale (as of a fish) | squamous   |
+| bulb      | Latin                     | onion, onion-like | bulbous       |
+| set(a)    | Latin                     | bristle           | setaceous     |
+| flor(a)   | Latin                     | flower            | floral        |
+| stri(a)   | Latin                     | groove, stripe    | striated      |
 | long      | Latin                     | long              | elongate      |
 | brev(i)   | Latin                     | short             | brevity       |
 | parv(o)   | Latin                     | small             | parvovirus    |
