@@ -87,7 +87,7 @@ You are given some lists of organisms that share a genus but differ in species. 
 4. Lilium columbianum
 
 <ol type="A">
- <li>Michiagn lily</li>
+ <li>Michigan lily</li>
  <li>Columbia tiger lily</li>
  <li>Lily of Nepal</li>
  <li>Mt. Hood lily</li>

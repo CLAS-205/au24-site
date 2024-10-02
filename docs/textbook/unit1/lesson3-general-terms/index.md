@@ -130,8 +130,6 @@ Because Latin and Greek have a higher degree of inflection than English, Anglici
 | exo           | Greek                 | outside                   | exoskeleton       |
 | ec(s)         | Greek                 | out of                    | ecstasy           |
 | en            | Greek                 | within, into              | endemic           |
-| spec(i)       | Latin                 | type, species             | species           |
-| gen           | Latin                 | family, clan, type        | genetics          |
 | bacter        | Latin                 | rod                       | bacteria          |
 | verb          | Latin                 | word                      | verbal            |
 | cut(a)        | Latin                 | skin                      | cuticle           |
