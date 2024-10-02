@@ -65,7 +65,7 @@ Greek, on the other hand, contributes to many of the root words used to describe
         <p>Though the practice of naming, classifying, and identifying plant and animal species was vital to the development of early civilizations (as it was important to know which plants were edible, medicinal, and poisonous), the first widely-used system of classification in the West came from the Greek philosopher <b>Aristotle</b>. In the 4th century BCE, Aristotle introduced a hierarchical classification system based on shared characteristics among living beings. He divided organisms into two main categories: plants and animals, further subdividing them based on observable traits such as habitat and physical attributes.</p>
     </div>
     <div style="flex: 0 0 auto;">
-        <img src="../../../../assets/images/aristotle.png" alt="A bust of the Greek philosopher Aristotle." style="max-width: 50%; height: auto;">
+        <img src="../../../../assets/images/aristotle.png" alt="A bust of the Greek philosopher Aristotle." style="max-width: 30%; height: auto;">
         <figcaption style="text-align: left; margin-top: 5px;"><i>A bust of Aristotle. Image credit: Wikipedia</i></figcaption>
     </div>
 </div>
@@ -77,13 +77,15 @@ For example, one of the distinguishing characteristics for dividing animal categ
 {: .note}
 > Though Aristotle was misguided in the idea of distinguishing whether animals had blood or not, the *Enhaima* and *Anhaima* categories broadly map onto the modern biologist's *vertebrates* and *invertebrates*.
 
-### Middle Ages and Renaissance
+### Middle Ages
 
 With the fall of the Roman Empire, much of the dissemination of knowledge and science from the Ancient Greek world also fell away. During the Middle Ages in Europe, the study of taxonomy came to a standstill as classical texts were largely ignored in favor of religious ones. This period also saw the compilation of herbals, which were essential texts that categorized plants based on their uses rather than strictly their biological characteristics. However, Islamic scholars from the 8th and 9th centuries onward preserved many classical texts, including Aristotle's philosophies and developed more sophisticated classifications that included additional criteria. Many of these scholars were agriculturists, botanists, and zoologists both interested in theoretical research, the practicalities of raising crops and livestock, and how to treat illnesses.
 
-One such scholar was Abū Ḥanīfa Aḥmad ibn Dāwūd Dīnawarī (Al-Dinawari) in the mid-9th century, who worked in the early Greek tradition set forth by Aristotle. Whereas Aristotle and many later European scholars believed in a fixed number of species on Earth, Al-Dinawari's work documents how plants can evolve and diversify over time. Al-Dinawari's most famous work was his *Book of Plants*, for which he is also called the founder of Arabic botany.
+One such scholar was **Abū Ḥanīfa Aḥmad ibn Dāwūd Dīnawarī (Al-Dinawari)** in the mid-9th century, who worked in the early Greek tradition set forth by Aristotle. Whereas Aristotle and many later European scholars believed in a fixed number of species on Earth, Al-Dinawari's work documents how plants can evolve and diversify over time. Al-Dinawari's most famous work was his *Book of Plants*, for which he is also called the founder of Arabic botany.
 
-Around the same time, Abu Uthman Amr ibn Bahr al-Kinani al-Basri (al-Jahiz) wrote his *Book of Animals*. There is debate as to how much his work was influenced by Aristotle, but the book itself shares some philosophical and organizational principles. al-Jahiz also took note of animals' habitats and behaviors in addition to their physical characteristics. He also posed a theory called the "struggle for existence", which claims that animasl compete with each other for natural resources like food and shelter. Those that survive go on to produce offspring that inherit their traits. al-Jahiz's theory of the "struggle for existence" can in some ways be seen as a precursor to Darwin's "survival of the fittest".
+Around the same time, **Abu Uthman Amr ibn Bahr al-Kinani al-Basri (al-Jahiz)** wrote his *Book of Animals*. There is debate as to how much his work was influenced by Aristotle, but the book itself shares some philosophical and organizational principles. al-Jahiz also took note of animals' habitats and behaviors in addition to their physical characteristics. He also posed a theory called the "struggle for existence", which claims that animasl compete with each other for natural resources like food and shelter. Those that survive go on to produce offspring that inherit their traits. al-Jahiz's theory of the "struggle for existence" can in some ways be seen as a precursor to Darwin's "survival of the fittest".
+
+### Renaissance
 
 The Renaissance marked a renewed interest in nature and science, leading to significant advancements in taxonomy. The invention of the printing press allowed for the widespread distribution of scientific texts, facilitating the sharing of knowledge among scholars.
 
@@ -102,7 +104,7 @@ The Renaissance marked a renewed interest in nature and science, leading to sign
         <p>The work of French naturalist and botanist <b>Joseph Pitton de Tournefort</b> in the late 17th century also played a pivotal role in taxonomy. Tournefort is best known for his classification of plants, which he organized based on their floral structures. His system focused on the physical characteristics of plants, rather than a strict hierarchical system. Tournefort's influence was significant, as he established the concept of a <i>genus</i>, which later taxonomies adopted and expanded upon. His classifications emphasized the importance of morphology in understanding plant relationships, paving the way for more systematic botanical studies.</p>
     </div>
     <div style="flex: 0 0 auto;">
-        <img src="../../../../assets/images/tournefort.jpg" alt="The French naturalist Joseph Pitton de Tournefort." style="max-width: 70%; height: auto;">
+        <img src="../../../../assets/images/tournefort.jpg" alt="The French naturalist Joseph Pitton de Tournefort." style="max-width: 30%; height: auto;">
         <figcaption style="text-align: left; margin-top: 5px;"><i>Joseph Pitton de Tournefort. Image credit: Wikipedia</i></figcaption>
     </div>
 </div>
@@ -114,7 +116,7 @@ The Renaissance marked a renewed interest in nature and science, leading to sign
         <p>Much of the contemporary taxonomic system owes greatly to Carl Linnaeus, an 18th-century Swedish naturalist and botanist. Linnaeus introduced a binomial nomenclature system in the 18th century, which revolutionized taxonomy by providing a standardized method for naming species. Each organism was assigned a two-part Latin name, consisting of the genus and species. This system not only brought clarity and consistency to naming practices but also facilitated communication among scientists worldwide. Linnaeus’s works, particularly *Systema Naturae*, systematically classified thousands of species, providing a framework that is still in use today.</p>
     </div>
     <div style="flex: 0 0 auto;">
-        <img src="../../../../assets/images/linnaeus.jpg" alt="Swedish naturalist Carl Linnaeus" style="max-width: 50%; height: auto;">
+        <img src="../../../../assets/images/linnaeus.jpg" alt="Swedish naturalist Carl Linnaeus" style="max-width: 30%; height: auto;">
         <figcaption style="text-align: left; margin-top: 5px;"><i>Portrait of Carl Linnaeus by Alexander Roslin. Image credit: Wikipedia</i></figcaption>
     </div>
 </div>
