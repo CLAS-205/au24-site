@@ -7,6 +7,10 @@ grandparent: Textbook
 ---
 
 ## Lesson 5: Naming Conventions
+{: .no_toc}
+
+1. TOC
+{:toc}
 
 ### Objectives
 

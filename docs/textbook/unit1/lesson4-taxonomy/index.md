@@ -7,6 +7,10 @@ grandparent: Textbook
 ---
 
 # Lesson 4: Taxonomy
+{: .no_toc}
+
+1. TOC
+{:toc}
 
 ## Objectives
 

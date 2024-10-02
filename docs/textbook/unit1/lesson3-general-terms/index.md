@@ -7,6 +7,10 @@ grandparent: Textbook
 ---
 
 # Lesson 3: Building Vocabulary
+{: .no_toc}
+
+1. TOC
+{:toc}
 
 ## Objectives
 
