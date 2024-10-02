@@ -17,6 +17,8 @@ search_exclude: true
 
 ## Order-Rank Naming
 
+In the previous lesson, we saw how each living organism is classified according to the **order-rank system**. Aside from the genera that are named after people, most of the ranks will be able to tell you something specific about the organisms in that group.
+
 ## Common Names vs. Scientific Names
 
 ## Decolonizing Names
@@ -27,3 +29,17 @@ In November of 2023, the American Ornithological Society announced that it would
 
 | Root          | Language of origin    | Meaning                   | Example           |
 | :---:         | :---:                 | :---                      | :---              |
+
+## Vocabulary Practice
+
+**Practice Set A.**
+
+**Practice Set B.**
+
+## Reflection Questions
+
+1.
+2.
+3.
+4.
+5. 
