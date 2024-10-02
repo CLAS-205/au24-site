@@ -66,13 +66,15 @@ Greek, on the other hand, contributes to many of the root words used to describe
 
 <div style="display: flex; align-items: center;">
     <div style="flex: 1; margin-right: 20px;">
-        <p>Though the practice of naming, classifying, and identifying plant and animal species was vital to the development of early civilizations (as it was important to know which plants were edible, medicinal, and poisonous), the first widely-used system of classification in the West came from the Greek philosopher <b>Aristotle</b>. In the 4th century BCE, Aristotle introduced a hierarchical classification system based on shared characteristics among living beings. He divided organisms into two main categories: plants and animals, further subdividing them based on observable traits such as habitat and physical attributes.</p>
+        <p>Though the practice of naming, classifying, and identifying plant and animal species was vital to the development of early civilizations (as it was important to know which plants were edible, medicinal, and poisonous), the first widely-used system of classification in the West came from the Greek philosopher <b>Aristotle</b>. </p>
     </div>
     <div style="flex: 0 0 auto;">
         <img src="../../../../assets/images/aristotle.png" alt="A bust of the Greek philosopher Aristotle." style="max-width: 30%; height: auto;">
         <figcaption style="text-align: left; margin-top: 5px;"><i>A bust of Aristotle. Image credit: Wikipedia</i></figcaption>
     </div>
 </div>
+
+In the 4th century BCE, Aristotle introduced a hierarchical classification system based on shared characteristics among living beings. He divided organisms into two main categories: plants and animals, further subdividing them based on observable traits such as habitat and physical attributes.
 
 However, Aristotle's system had its flaws. Since microscopes would not be invented until nearly two millennia later, Aristotle's system does not include microscopic organisms, such as plankton, amoeba, bacteria, or protists. Further, his method of rationalizing about plants and animals was quite different from how modern biologists might use DNA sequencing or empirical research to determine how species are related to one another. As such, some of Aristotle's classifications turned out to be misguided or straight-out wrong.
 
