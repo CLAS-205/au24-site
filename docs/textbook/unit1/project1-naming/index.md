@@ -105,7 +105,7 @@ Each of the following organisms has a scientific name related to a figure from G
 
 ## Problem 5: Dinosaurs
 
-Here are some popular dinosaurs (and dinosaur-adjacent reptiles), along with the definitions of their names. Based on these, write down what each of the bases mean.
+Here are some popular dinosaurs (and dinosaur-adjacent reptiles), along with the definitions of their names. 
 
 1. Velociraptor - speedy thief
 2. Stegosaurus - roofed lizard
@@ -116,6 +116,8 @@ Here are some popular dinosaurs (and dinosaur-adjacent reptiles), along with the
 7. Iguanodon - iguana teeth
 8. Apatosaurus - deceptive lizard
 9. Ceratosaurus - horned lizard
+
+Based on these, write down what each of the following bases mean.
 
 <ol type="A">
  <li>apato-</li>
