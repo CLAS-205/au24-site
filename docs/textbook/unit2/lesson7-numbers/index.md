@@ -8,21 +8,24 @@ nav_exclude: true
 search_exclude: true
 ---
 
-## Lesson 7: Numbers
+# Lesson 7: Numbers
 
-### Objectives
+## Objectives
 
-1. Objective 1
-2. Objective 2
+1. Become familiar with Greek and Latin number prefixes
+2. Learn the basics of Roman numerals
 
-### Reading Material
+## Number Prefixes
 
-The reading maerial for this lesson.
+## Roman Numerals
 
-### Vocabulary list
+## Vocabulary list
 
 A list of vocabulary for this lesson
 
-### Reading Questions
+## Reflection Questions
 
-Questions from which we'll pull the weekly reflections.
+1.
+2.
+3.
+4.

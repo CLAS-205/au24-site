@@ -8,21 +8,21 @@ nav_exclude: true
 search_exclude: true
 ---
 
-## Lesson 6: Suffixes
+# Lesson 8: Names in Chemistry
 
-### Objectives
+## Objectives
 
 1. Objective 1
 2. Objective 2
 
-### Reading Material
+## Reading Material
 
 The reading maerial for this lesson.
 
-### Vocabulary list
+## Vocabulary list
 
 A list of vocabulary for this lesson
 
-### Reading Questions
+## Reflection Questions
 
 Questions from which we'll pull the weekly reflections.
