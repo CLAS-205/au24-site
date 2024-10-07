@@ -95,7 +95,7 @@ You are given some lists of organisms that share a genus but differ in species. 
 
 ## Problem 4: Mythological Names
 
-Each of the following organisms has a scientific name related to a figure from Greek mythology. For each organism, look up its English name. Then tell what figure from Greek mythology it's named after, and explain the connection between the figure and the organism in 1-2 sentences.
+Each of the following organisms has a scientific name related to a figure from Greek mythology. For each organism, look up its English name. Then tell what figure from Greek mythology it's named after, and explain the connection between the figure and the organism in 1-2 sentences. (It's OK to look up more information on the figures if you're not familiar with them!)
 
 1. *Nestor notabilis*
 2. *Dynastes hercules*
