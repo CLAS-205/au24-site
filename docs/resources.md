@@ -8,10 +8,16 @@ A list of additional resources for the class can be found here, organized by top
 ## Greek and Latin Roots and Wordbuilding
 
 - *Bioscientific Terminology*. Donald M. Ayers, University of Arizona Press, 1972.
-- [Khan Academy's Greek and Latin Roots video](https://www.khanacademy.org/ela/cc-4th-reading-vocab/x5ea2e43787f7791b:cc-4th-superheroes/x5ea2e43787f7791b:applying-vocabulary-knowledge/v/latin-and-greek-roots-and-affixes-reading) 
+- [Latin and Greek roots and affixes | Khan Academy](https://www.youtube.com/watch?v=fiaPqgwJFo4) 
+- [Latin and Greek Root Words - English Language and Vocabulary Development (podcast by Innovative Literacy)](https://www.youtube.com/playlist?list=PLLQh1KcEsatLzrxMxwbUacD68qcPh6FOc)
 - [Wikipedia's List of Latin and Greek words commonly used in synthetic names](https://en.wikipedia.org/wiki/List_of_Latin_and_Greek_words_commonly_used_in_systematic_names)
 
 ## Taxonomy and Classification
 
 - *What Linnaeus Saw: A Scientist's Quest to Name Every Living Thing*. Karen Magnuson Beil, W. W. Norton & Company, 2019.
 - *Naming Nature: The Clash Between Instinct and Science*. Carol Kaesuk Yoon, W. W. Norton & Company, 2009.
+- *The Man Who Organized Nature: The Life of Linnaeus*. Gunnar Broberg, tr. Anna Paterson, Princeton University Press, 2023.
+- *Every Living Thing: The Great and Deadly Race to Know All Life*. Jason Roberts, Random House, 2024.
+- [How Do We Categorize Plants? - Crash Course Botany](https://www.youtube.com/watch?v=rrLZPDGNr6w)
+- [Taxonomy: Life's Filing System - Crash Course Biology](https://www.youtube.com/watch?v=F38BmgPcZ_I)
+
