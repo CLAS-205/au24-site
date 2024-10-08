@@ -16,6 +16,3 @@ In Unit 1, you'll enter the world of Latin and Greek roots and learn how to iden
 - Taxonomy
 - Scientific Naming Conventions
 - Project
-
-{: .warning }
-> Parts of this unit are still under construction. Please check back soon!
