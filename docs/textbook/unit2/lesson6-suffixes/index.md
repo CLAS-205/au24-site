@@ -12,12 +12,14 @@ search_exclude: true
 
 ## Objectives
 
-1. Become familiar with general endings
-2. Introduce compound endings
+1. Become familiar with common endings in bioscientific vocabulary
+2. Learn how endings affect parts of speech
+3. Introduce compound endings
 
 ## Endings as Suffixes
 
-Suffixes are roots that attach to the ends of bases that can change the part of speech of the entire word. The suffixes that we’ll see in the book will create nouns, adjectives, and verbs.
+**Suffixes** are roots that attach to the ends of words. So far, we've seen how some roots can change between being prefixes, bases, or suffixes depending on where they're found in a term. However, there are some root patterns that are usually found *only* at the ends of words. To distinguish these from suffixes in general, we'll call these roots **endings**. Endings differ from other roots in that they can't stand on their own. However, they do govern the part of speech of the entire word&mdash; creating adjectives, nouns, or verbs.
+
 Similar to how prefixes go before a base, suffixes go behind. So in these examples, the suffix -ac goes behind the base CARDI, which makes it an adjective meaning “heart-related”; and then -ic goes behind CHROMAT, which gives it the sense of something being “color-related”.
 
 Both prefixes and suffixes can occur in the middle of a word or team up. So in this first case, you have the word spheroidal. -oid is a suffix which means “having the shape of”, or “having the form of”, which you’ll notice in the middle of the word. Similarly in pediatrician, the suffix -ic is occurring in the middle of the word. Now in both of these examples, they also have another suffix happening after them. In spheroidal,  you have -oid and -al. In the word pediatrician, you have -ic and -ian.
