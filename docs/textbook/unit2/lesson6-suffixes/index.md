@@ -20,28 +20,55 @@ search_exclude: true
 
 **Suffixes** are roots that attach to the ends of words. So far, we've seen how some roots can change between being prefixes, bases, or suffixes depending on where they're found in a term. However, there are some root patterns that are usually found *only* at the ends of words. To distinguish these from suffixes in general, we'll call these roots **endings**. Endings differ from other roots in that they can't stand on their own. However, they do govern the part of speech of the entire word&mdash; creating adjectives, nouns, or verbs.
 
-Similar to how prefixes go before a base, suffixes go behind. So in these examples, the suffix -ac goes behind the base CARDI, which makes it an adjective meaning “heart-related”; and then -ic goes behind CHROMAT, which gives it the sense of something being “color-related”.
+Let's look at some examples:
 
-Both prefixes and suffixes can occur in the middle of a word or team up. So in this first case, you have the word spheroidal. -oid is a suffix which means “having the shape of”, or “having the form of”, which you’ll notice in the middle of the word. Similarly in pediatrician, the suffix -ic is occurring in the middle of the word. Now in both of these examples, they also have another suffix happening after them. In spheroidal,  you have -oid and -al. In the word pediatrician, you have -ic and -ian.
+- **cardi** + *-ac* = cardiac, "heart-related"
+- **chromat** + *-ic* = chromatic, "color-related"
+- **spher** + *-oid* = spheroid, "sphere-shaped"
 
-One of the key differences between endings and the other roots (prefixes and bases) in addition to position is that suffixes themselves are not actually from any specific part of speech. They are derived from patterns in how adjectives, verbs, and some nouns are formed in Greek.
+{: .note}
+> To distinguish endings from other roots, we'll always put a - in front of them, as above.
 
-[Practical considerations]
-For the purposes of this class, all suffixes create only one part of speech. That means that any suffix introduced in an adjectives lesson, for example, will only create adjectives. Later, we’ll see suffixes that create nouns or verbs, but those suffixes will only create nouns or only create verbs. So when we talk about adjective-forming suffixes in this lesson, that means that words that end in any of the suffixes here will be adjectives. Practically speaking, that means you’ll always see them in a descriptive context, usually for other nouns.
+One of the key differences between endings and the other roots in addition to position is that endings themselves are not actually from any specific part of speech. They are derived from patterns in how adjectives, verbs, and some nouns are formed in Greek and Latin, as we've seen in Lesson 3.
 
-That being said, the book does talk about some cases where the meaning of some adjectives has drifted over time to create nouns. For example, the word “thermodynamic” is an adjective whose literal meaning is something close to “pertaining to the movement of heat”. However, when you ad an “s” at the end to create “thermodynamics”, this definition becomes a certain field or area of study, and that itself is a noun. The main takeaway here is that while they’re not all practically adjectives, they all are descriptive words in some sense. And whenever you see these words on assessments or handouts, be sure you’re paying close attention to the original meanings of these suffixes so you know how the words are being used.
+For our purposes, most endings create only one part of speech. That means that any ending introduced in the adjectives table, for example, will only create adjectives. However, there are some cases where it's not clear what part of speech is created from an ending. For example, **hydrate** can be a verb, meaning to fill something with water. **Hydrate** can also be a noun indicating a hydrogen compound. To avoid ambiguity in assignments, we'll use the following shorthand:
+
+- (n.) for nouns
+- (a.) for adjectives
+- (v.) for verbs
+
+{: .note}
+> Context is also important! Be sure you’re paying close attention to the original meanings of these suffixes so you know how the words are being used.
 
 ### Noun-Forming Endings
 
-(Copy content from Lessons 7-10)
+As the name suggests, **noun-forming endings** are endings that form nouns. Generally, these endings will denote a quality, process, or state of being. The language of origin is omitted from these charts because the origin of an ending doesn't really affect whether it attaches to Greek roots or Latin roots. 
+
+Common noun-forming endings include:
+
+| Root          | Meaning                       | Example           |
+| :---:         | :---                          | :---              |
+| -ter/-tor     | means of, place for           | theater           |
+| -ist/-ast     | one who                       | dentist           |
+| -te/-t        | one who, that which           | gamete            |
+| -ia/-y        | state of, condition, quality  | dyslexia          |
+| -ism          | condition of                  | alcoholism        |
+| -sis/-sia/-sy | act of, process of            | thesis            |
+| -ma/-m/-me    | result of                     | enzyme            |
+| -oma(t)       | tumor of                      | sarcoma           |
+| -osis         | disease of                    | psychosis         |
+| -itis         | inflammation of               | appendicitis      |
+| -in/-ine      | chemical substance of         | morphine          |
+| -us           | individual, person who        | sarcophagus       |
+| -id           | related to, resembling        | arachnid          |
+| (Start Latin suffixes)      
+
+{: .note}
+> This is not an exhaustive list. We'll see more noun-forming endings and their specific use cases in Lesson 8.
 
 ### Adjective-Forming Endings
 
-The book will tell you that the suffixes you’ve learned today are adjective-forming suffixes. This means that the endings from today’s lesson will turn their respective words into adjectives.
-
-One thing to note is that, especially with words containing multiple suffixes, is that the last root will determine what part of speech the word is. Not every word will end in a suffix, but if it does, that suffix will determine the part of speech for the whole word– whether it’s a noun, an adjective, or a verb.
-
-Let’s revisit an earlier example, using the two suffixes in spheroidal. Let’s start by breaking down this word into its roots. First, we have the base SPHER-, which means “sphere” in English; then the suffix -oid, meaning “having the shape of”; finally, the suffix -al, meaning “like” or “having the character of”. The base is a noun. Adding -oid changes SPHER- to spheroid and creates an adjective. Adding -al on top of that gives us spheroidal and lets us know that this word is an adjective. Now, in this example, we had two different suffixes with the same part of speech. It’s possible for some words to contain suffixes that create differing parts of speech. The important thing to remember is whatever suffix comes at the end of a word determines the part of speech of the entire word.
+Endings in this table turn their words into adjectives. Many of these overlap with suffixes that you've seen in Lesson 3. Unlike nouns, it's harder to give definitions for adjective-forming endings. Many of them will amount to "like", "related to", or "pertaining to". It's easier to see the force of these endings in context.
 
 ### Verb-Forming Endings
 
@@ -49,26 +76,31 @@ Compared to noun-forming and adjective-forming suffixes, the verb-forming suffix
 
 ## Compound Endings
 
-It's possible for one word to have many endings tacked onto each other! The rule of thumb is that the *very last* ending is what determines what part of speech a term is. (Copy "pediatrician" example from Lesson 4 here)
+It's possible for one word to have many endings tacked onto each other! The rule of thumb is that the *very last* ending is what determines what part of speech a term is.
+
+Let’s revisit an earlier example, using the two suffixes in spheroidal. Let’s start by breaking down this word into its roots. First, we have the base SPHER-, which means “sphere” in English; then the suffix -oid, meaning “having the shape of”; finally, the suffix -al, meaning “like” or “having the character of”. The base is a noun. Adding -oid changes SPHER- to spheroid and creates an adjective. Adding -al on top of that gives us spheroidal and lets us know that this word is an adjective. Now, in this example, we had two different suffixes with the same part of speech. It’s possible for some words to contain suffixes that create differing parts of speech. The important thing to remember is whatever suffix comes at the end of a word determines the part of speech of the entire word.
+
+Both prefixes and suffixes can occur in the middle of a word or team up. So in this first case, you have the word spheroidal. -oid is a suffix which means “having the shape of”, or “having the form of”, which you’ll notice in the middle of the word. Similarly in pediatrician, the suffix -ic is occurring in the middle of the word. Now in both of these examples, they also have another suffix happening after them. In spheroidal,  you have -oid and -al. In the word pediatrician, you have -ic and -ian.
 
 ## Vocabulary list
 
-A list of vocabulary for this lesson
+| Root          | Language of origin    | Meaning                   | Example           |
+| :---:         | :---:                 | :---                      | :---              |
 
 ## Vocabulary Practice
 
-**Practice Set A:** Based on the final ending in each word, tell what part of speech it is.
+**Practice Set A:** Based on the final ending in each word, tell what part of speech it is. (If it could be multiple, give all possibilities.)
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1. thermodynamic
+2. thermodynamics
+3. analysis
+4. melanoma
+5. petrify
+6. petrification
+7. arrhythmia
+8. dystrophy
+9. convalescent
+10. synthesize
 
 **Practice Set B:** Identify the roots in each of the following words, give their language of origin, and their definitions. Then, following the guidelines in Lesson 4, arrange the definitions of the individual roots to create a literal definition.
 

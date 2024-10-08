@@ -38,7 +38,15 @@ Number bases might already be familiar to you if you've used the metric system a
 
 Chances are that you have seen the Roman number system at least once before reading this chapter.The basic idea behind the Roman number system is that you have different letters that represent numeric values.
 
-Now, the specific letters are given in this chart here. If you've not seen the symbols from the last three rows, these kind of look like an oval with some lines in it, or concentric ovals. That's perfectly all right.
+| Hindu-Arabic Numeral  | Roman Numeral |
+| :---:                 | :---:         |
+| 1                     | I             |
+| 5                     | V             |
+| 10                    | X             |
+| 50                    | L             |
+| 100                   | C             |
+| 500                   | D             |
+| 1000                  | M             |
 
 The letter M is more commonly used to represent 1000. This was actually something, an invention more represented in the medieval period, where I think it was partially because M stands for milia, which is the Latin word for 1000. And so M became the much more common representation of this number and is still used today.
 
@@ -46,7 +54,7 @@ And the symbols for 10,000 and 100,000 are practically never used. Even in ancie
 
 So I mentioned that M was adopted as the more common representation of 1000 because the word milia, which means 1000, also begins with M. And similarly, the word centum, which means 100, starts with a C. And maybe that's why they used a C. But if we try to apply that logic to the other numbers in this table, something doesn't really hold up. For example, the number one in Latin is unus, which begins with a U, and yet its symbol is an I. The number five in Latin is quinque, which begins with a Q, very much not a V. The word for ten is decem, which begins with a D, and yet D is used for 500. So where did all of that come from?
 
-[Origins of Roman Number System]
+### Number Symbols
 Well, let's think a little bit more broadly for a moment and think about just the fact that letters are used to represent numbers. In the modern world, it might seem a little strange that you can have letters representing numbers, because what if you have two numbers that begin with the same letter? Like in English, for example, four and five both begin with F. What would you do with that?
 
 Well, in the ancient Mediterranean, especially in Greek, Hebrew, and Phoenician alphabets, the number value that's associated with the letter usually has nothing to do with the way that the number is pronounced. 
@@ -60,7 +68,7 @@ I also wanted to just make a side note briefly that a similar phenomenon occurs 
 
 But there's one thing that you'll notice that's kind of different between the Roman number system and the Greek, Hebrew, or Phoenician systems. And that is not every letter in the Roman alphabet actually gets a number. You only have seven letters that are actually actively used and seven values associated with them. Now, where did that come from?
 
-[Origins of Roman Number System]
+### Origins of Roman Number System
 Well, the most common theory is that this system of numbering and reckoning symbols was adopted from the Etruscan number system, which looks like this.
 
 And as you can see, if we put the Latin counterparts underneath, the same numbers are being represented with perhaps some different symbols. 1, 5, and 10 actually have the same symbols in the Latin and Etruscan alphabet; it's 50, 100, 500, and 1000 that are given different symbols. But the fact remains that you have the same number of symbols and you have the same numbers that are being symbolized.
@@ -109,11 +117,25 @@ However, if you were curious as to which system was more often used in Ancient R
 
 ## Vocabulary list
 
-A list of vocabulary for this lesson
+| Root          | Language of origin    | Meaning                   | Example           |
+| :---:         | :---:                 | :---                      | :---              |
 
 ## Vocabulary practice
 
-**Practice Set A:**
+**Practice Set A:** Complete each word with the root that matches the given number and language.
+
+1. 
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+
+**Practice Set B:**
 
 1.
 2.
@@ -126,9 +148,35 @@ A list of vocabulary for this lesson
 9.
 10.
 
+**Practice Set C:** Convert each of the Hindu-Arabic numerals to Roman numerals.
+
+1. 6
+2. 11
+3. 14
+4. 29
+5. 34
+6. 147
+7. 351
+8. 879
+9. 2900
+10. 3158
+
+**Practice Set D:** Convert each of the Roman numerals to Hindu-Arabic numerals. (Some numerals will follow additive conventions; others will follow subtractive conventions!)
+
+1. IV
+2. IIII
+3. XVI
+4. XLII
+5. LXXXV
+6. CCXLIX
+7. CDL
+8. MCMII
+9. MDCCCCVIIII
+10. MMMDCLXXVI
+
 ## Reflection Questions
 
 1. What are some contexts that you've seen Roman numerals in before? Give specific examples.
 2. What do you think is one reason why the subtractive system was adopted later in history than the additive system?
 3. Some of the number words have similarities in spelling between Latin and Greek. What might this tell you about similarities between the two languages?
-4.
+4. The Romans had no symbol for the number 0. Would you add one? Why or why not?

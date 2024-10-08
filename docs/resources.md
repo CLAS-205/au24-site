@@ -21,3 +21,11 @@ A list of additional resources for the class can be found here, organized by top
 - [How Do We Categorize Plants? - Crash Course Botany](https://www.youtube.com/watch?v=rrLZPDGNr6w)
 - [Taxonomy: Life's Filing System - Crash Course Biology](https://www.youtube.com/watch?v=F38BmgPcZ_I)
 
+## Roman Numerals
+
+- [Numbers in Latin, by LatinTutorial](https://www.youtube.com/watch?v=8sY8ykRXAZs&list=PL1F845F5CED131FCB&index=15) *(Note that this video talks about the Latin language in more depth as well)*
+
+## Chemical Names, Elements, and Compounds
+
+- *Elements: A Visual Exploration of Every Known Atom in the Universe*. Theodore Gray, Nick Mann, Black Dog & Leventhal, 2009
+- *Molecules: The Elements and the Architecture of Everything*. Theodore Gray, Nick Mann, Black Dog & Leventhal 2014
