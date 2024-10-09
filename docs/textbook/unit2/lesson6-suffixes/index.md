@@ -128,7 +128,11 @@ In addition to the endings introduced in this lesson, be familiar with the follo
 | thea          | Greek                 | to view, to watch         | theatrics         |
 | gam(e)        | Greek                 | to marry, to join         | monogamy          |
 | lex(i)        | Greek                 | to read                   | lexicon           |
+| ly(s)         | Greek                 | to dissolve, to loosen    | dialysis          |
 | zym(e)        | Greek                 | fermented, leaven         | enzyme            |
+| petr/peter    | Greek                 | rock                      | saltpeter         |
+| rhe(u)/rrh(ea)    | Greek                 | to flow                   | rheumatism    |
+| rhythm        | Greek                 | regularity, flow          | rhythmic          |
 | mol(e)        | Latin                 | weight, heaviness         | molar             |
 | dorm/dormit   | Latin                 | to sleep                  | dormant           |
 | fort/fors     | Latin                 | strong                    | fortissimo        |

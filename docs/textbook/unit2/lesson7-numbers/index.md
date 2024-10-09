@@ -199,7 +199,7 @@ For now, it suffices that you know how to read and interpret Roman numerals.
 7. __\__\__\__\__\__\__\__\__\__meter (1000, Greek)
 8. __\__\__\__\__\__\__\__\__\__pus (8, Latin)
 9. __\__\__\__\__\__\__\__\__\_\_a\_\_\__\__\__\__\__\__\__\__\__imal (6, Greek) + (10, Latin)
-10. __\__\__\__\__\__\__\__\__\_\_kai\_\_\__\__\__\__\__\__\__\__\__phobia (3, Greek) + (10, Greek)
+10. __\__\__\__\__\__\__\__\__\_\_skai\_\_\__\__\__\__\__\__\__\__\__phobia (3, Greek) + (10, Greek)
 
 **Practice Set B:** Convert each of the Hindu-Arabic numerals to Roman numerals.
 
