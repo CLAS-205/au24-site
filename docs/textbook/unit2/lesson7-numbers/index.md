@@ -48,11 +48,12 @@ Chances are that you have seen the Roman number system at least once before read
 | 500                   | D             |
 | 1000                  | M             |
 
-The letter M is more commonly used to represent 1000. This was actually something, an invention more represented in the medieval period, where I think it was partially because M stands for milia, which is the Latin word for 1000. And so M became the much more common representation of this number and is still used today.
+The letter M is more commonly used to represent 1000. In Roman times, the symbol ↀ was used for 1000 instead of M. During medieval times, the ↀ gradually transformed into an M. This was also convenient since the word for 1000 is *milia* in Latin.
 
-And the symbols for 10,000 and 100,000 are practically never used. Even in ancient Rome, these symbols were used as kind of a shorthand to represent really large numbers, but they were not often used because the Romans didn’t usually deal with numbers this large. That's probably why you've not seen them before. I just included them in this table because I thought it was really interesting that Microsoft PowerPoint actually had these symbols in its symbol inventory. And I couldn't miss the opportunity to just share these funny-looking symbols with you.
+{: .note}
+> There also technically exist symbols for 10,000 and 100,000; which are ↂ and ↈ, respectively. These are extremely rare in the Roman world, and practically never used in the modern day.
 
-So I mentioned that M was adopted as the more common representation of 1000 because the word milia, which means 1000, also begins with M. And similarly, the word centum, which means 100, starts with a C. And maybe that's why they used a C. But if we try to apply that logic to the other numbers in this table, something doesn't really hold up. For example, the number one in Latin is unus, which begins with a U, and yet its symbol is an I. The number five in Latin is quinque, which begins with a Q, very much not a V. The word for ten is decem, which begins with a D, and yet D is used for 500. So where did all of that come from?
+Similarly to how M came to represent 1000 from *milia*, the word centum, which means 100, starts with a C. And maybe that's why they used a C. But if we try to apply that logic to the other numbers in this table, something doesn't really hold up. For example, the number one in Latin is unus, which begins with a U, and yet its symbol is an I. The number five in Latin is quinque, which begins with a Q, very much not a V. The word for ten is decem, which begins with a D, and yet D is used for 500. So where did all of that come from?
 
 ### Number Symbols
 Well, let's think a little bit more broadly for a moment and think about just the fact that letters are used to represent numbers. In the modern world, it might seem a little strange that you can have letters representing numbers, because what if you have two numbers that begin with the same letter? Like in English, for example, four and five both begin with F. What would you do with that?

@@ -4,8 +4,6 @@ nav_order: 1
 layout: default
 parent: Unit 2
 grandparent: Textbook
-nav_exclude: true
-search_exclude: true
 ---
 
 # Lesson 6: Word Endings
@@ -42,7 +40,9 @@ For our purposes, most endings create only one part of speech. That means that a
 
 ### Noun-Forming Endings
 
-As the name suggests, **noun-forming endings** are endings that form nouns. Generally, these endings will denote a quality, process, or state of being. The language of origin is omitted from these charts because the origin of an ending doesn't really affect whether it attaches to Greek roots or Latin roots. 
+As the name suggests, **noun-forming endings** are endings that form nouns. Generally, these endings will denote a quality, process, or state of being. The language of origin is omitted from these charts because the origin of an ending doesn't really affect whether it attaches to Greek roots or Latin roots.
+
+Endings with an asterisk (\*) have identical forms that have different definitions and consequently form different parts of speech. This is an unfortunate side effect of Anglicization of Latin and Greek. For example, *-ary* (n.) and *-ary* (a.) would be distinguished in Latin by the endings *-arium* and *-arius*, respectively. However, during Anglicization, both of these endings dropped their last syllable (which would have been inflected), resulting in two different *-ary*s.
 
 Common noun-forming endings include:
 
@@ -60,8 +60,20 @@ Common noun-forming endings include:
 | -itis         | inflammation of               | appendicitis      |
 | -in/-ine      | chemical substance of         | morphine          |
 | -us           | individual, person who        | sarcophagus       |
-| -id           | related to, resembling        | arachnid          |
-| (Start Latin suffixes)      
+| -(o)id        | related to, resembling        | arachnid          |
+| -oid          | resembling, having the shape of   | meteoroid     |
+| -ory/-ary     | place for, location of        | dormitory         |
+| -orium/-arium | place for, location of        | aquarium          |
+| -itude        | state of, state of having     | fortitude         |
+| -ity/-ety/-ty | state of, state of having     | brevity           |
+| -ence/-ance   | state of being                | resemblance       |
+| -ency/-ancy   | state of being                | residency         |
+| -(t)ion       | process of, state of, act of  | motion            |
+| -ure          | act of, result of             | capture           |
+| -men(t/tum)   | result of, means of           | regimen, momentum |
+| -cle/-cule    | result of, means of           | spiracle, molecule |
+| -culum        | result of, means of           | curriculum        |
+| -um           | result of, means of           | spectrum          |
 
 {: .note}
 > This is not an exhaustive list. We'll see more noun-forming endings and their specific use cases in Lesson 8.
@@ -70,22 +82,66 @@ Common noun-forming endings include:
 
 Endings in this table turn their words into adjectives. Many of these overlap with suffixes that you've seen in Lesson 3. Unlike nouns, it's harder to give definitions for adjective-forming endings. Many of them will amount to "like", "related to", or "pertaining to". It's easier to see the force of these endings in context.
 
+| Root          | Meaning                           | Example                   |
+| :---:         | :---                              | :---                      |
+| -(i/e)al      | like, pertaining to, related to   | thermal, radial, boreal   |
+| -(i)an        | being, related to                 | circadian                 |
+| -(i/e/u)ous   | having, related to                | heterogeneous             |
+| -ic/-tic/-ac  | like, related to                  | centric, static, cardiac  |
+| -ile/-il      | like, related to                  | virile                    |
+| -ar           | like, pertaining to, related to   | muscular                  |
+| -ine          | resembling, related to            | marine                    |
+| -ary/-ory     | resembling, pertaining to         | sanguinary, mandatory     |
+| -ate/-ite     | having, resembling, characterized by  | accurate              |
+| -ent/-ant     | having, being, like               | reagent, reactant         |
+| -aceous       | like, resembling, bearing         | setaceous                 |
+| -able/-ible   | capable, able to                  | agile                     |
+| -ive          | tending to, like, characterized by being  | creative          |
+| -itious       | resembling, characterized by      | fictitious                |
+| -acious       | inclined to, characterized by     | tenacious                 |
+
 ### Verb-Forming Endings
 
-Compared to noun-forming and adjective-forming suffixes, the verb-forming suffixes are few. Still, it's important to know these since they usually denote a process that something undergoes, rather than direct action.
+Compared to noun-forming and adjective-forming suffixes, the verb-forming suffixes are few. These since they usually denote a process that something undergoes, rather than direct action. Like adjectives, it's sometimes hard to see the force of the ending in the definition of the word. Usually, it'll just be an indicator that the word is a verb, which you can define with the infinitive definitions as outlined in Lesson 1.
+
+| Root          | Meaning                       | Example           |
+| :---:         | :---                          | :---              |
+| -ize          | to do, to treat with          | oxidize           |
+| -ate          | to do, to treat with          | circulate         |
+| -fy           | to do, to cause, to make      | calcify           |
 
 ## Compound Endings
 
-It's possible for one word to have many endings tacked onto each other! The rule of thumb is that the *very last* ending is what determines what part of speech a term is.
+It's possible for one word to have many endings tacked onto each other! The rule of thumb is that the *very last* ending is what determines what part of speech a term is. Here are some examples:
 
-Let’s revisit an earlier example, using the two suffixes in spheroidal. Let’s start by breaking down this word into its roots. First, we have the base SPHER-, which means “sphere” in English; then the suffix -oid, meaning “having the shape of”; finally, the suffix -al, meaning “like” or “having the character of”. The base is a noun. Adding -oid changes SPHER- to spheroid and creates an adjective. Adding -al on top of that gives us spheroidal and lets us know that this word is an adjective. Now, in this example, we had two different suffixes with the same part of speech. It’s possible for some words to contain suffixes that create differing parts of speech. The important thing to remember is whatever suffix comes at the end of a word determines the part of speech of the entire word.
+- *spheroidal* has two endings: *-oid* and *-al*. We know that *-oid* creates nouns and *-al* creates adjectives. Since *-al* is the last ending in this word, we know that *spheroidal* must also be an **adjective**.
+- *regularity* has two endings: *-ar* and *-ity*. We know that *-ar* creates adjectives and *-ity* creates nouns. Since *-ity* is the last ending in this word, we know that *regularity* must be a **noun**.
 
-Both prefixes and suffixes can occur in the middle of a word or team up. So in this first case, you have the word spheroidal. -oid is a suffix which means “having the shape of”, or “having the form of”, which you’ll notice in the middle of the word. Similarly in pediatrician, the suffix -ic is occurring in the middle of the word. Now in both of these examples, they also have another suffix happening after them. In spheroidal,  you have -oid and -al. In the word pediatrician, you have -ic and -ian.
+Be careful, though! Some endings might look like compounds, when they're actually not! For example, the ending *-ary* might look like a compound of *-ar* and *-y*. Most of the endings that you'll need for this class can be found here. If you're ever unsure whether an ending is a compound or not, try searching through the tables here first!
 
 ## Vocabulary list
 
+In addition to the endings introduced in this lesson, be familiar with the following roots:
+
 | Root          | Language of origin    | Meaning                   | Example           |
 | :---:         | :---:                 | :---                      | :---              |
+| thea          | Greek                 | to view, to watch         | theatrics         |
+| gam(e)        | Greek                 | to marry, to join         | monogamy          |
+| lex(i)        | Greek                 | to read                   | lexicon           |
+| zym(e)        | Greek                 | fermented, leaven         | enzyme            |
+| mol(e)        | Latin                 | weight, heaviness         | molar             |
+| dorm/dormit   | Latin                 | to sleep                  | dormant           |
+| fort/fors     | Latin                 | strong                    | fortissimo        |
+| simil/sembl   | Latin                 | alike, similar            | similarity        |
+| sid/sed       | Latin                 | to sit                    | sediment          |
+| mo(v/t)       | Latin                 | to move                   | movement          |
+| capt/cept     | Latin                 | to catch, to get          | capture           |
+| curr          | Latin                 | to run                    | current           |
+| centr         | Latin                 | middle, center            | central           |
+| cur           | Latin                 | to care for, to oversee   | curator           |
+| serv          | Latin                 | to serve, to save         | servant           |
+| ag/act(i)      | Latin                 | to do, to drive, to force | agent             |
+| duc(t)        | Latin             | to lead           | ductile       |
 
 ## Vocabulary Practice
 
@@ -99,26 +155,26 @@ Both prefixes and suffixes can occur in the middle of a word or team up. So in t
 6. petrification
 7. arrhythmia
 8. dystrophy
-9. convalescent
+9. coagulate
 10. synthesize
 
-**Practice Set B:** Identify the roots in each of the following words, give their language of origin, and their definitions. Then, following the guidelines in Lesson 4, arrange the definitions of the individual roots to create a literal definition.
+**Practice Set B:** Identify the roots in each of the following words, give their language of origin, and their definitions. Also give their part of speech. Then, following the guidelines in Lesson 4, arrange the definitions of the individual roots to create a literal definition.
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
-11.
-12.
-13.
-14.
-15.
+1. curator
+2. captive
+3. sedimentary
+4. amphitheater
+5. molecular
+6. momentum
+7. concentric
+8. concentration
+9. recurrence
+10. conduct
+11. inception
+12. resemblance
+13. bradylexia
+14. gamete
+15. polygamous
 
 ## Reflection Questions
 
