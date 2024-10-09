@@ -203,7 +203,6 @@ All vocabulary from each unit and lesson can be found here.
 | flav(o)       | Latin              | yellow        | flavin        |
 | candid(o)     | Latin          | bright, white | candid        |
 | virid         | Latin                  | green         | viridian      |
-
 | scut(a)   | Latin                     | shield            | scute         |
 | squam(a)  | Latin                     | scale (as of a fish) | squamous   |
 | bulb      | Latin                     | onion, onion-like | bulbous       |
@@ -222,3 +221,30 @@ All vocabulary from each unit and lesson can be found here.
 | parv(o)   | Latin                     | small             | parvovirus    |
 | magn(i/o) | Latin                     | large             | magnitude     |
 | alt(o)    | Latin                     | tall, deep        | altitude      |
+
+## Unit 2
+
+### Lesson 6
+
+{: .note}
+> This lesson also introduced many endings, which are best referenced on the Lesson page.
+
+| Root          | Language of origin    | Meaning                   | Example           |
+| :---:         | :---:                 | :---                      | :---              |
+| thea          | Greek                 | to view, to watch         | theatrics         |
+| gam(e)        | Greek                 | to marry, to join         | monogamy          |
+| lex(i)        | Greek                 | to read                   | lexicon           |
+| zym(e)        | Greek                 | fermented, leaven         | enzyme            |
+| mol(e)        | Latin                 | weight, heaviness         | molar             |
+| dorm/dormit   | Latin                 | to sleep                  | dormant           |
+| fort/fors     | Latin                 | strong                    | fortissimo        |
+| simil/sembl   | Latin                 | alike, similar            | similarity        |
+| sid/sed       | Latin                 | to sit                    | sediment          |
+| mo(v/t)       | Latin                 | to move                   | movement          |
+| capt/cept     | Latin                 | to catch, to get          | capture           |
+| curr          | Latin                 | to run                    | current           |
+| centr         | Latin                 | middle, center            | central           |
+| cur           | Latin                 | to care for, to oversee   | curator           |
+| serv          | Latin                 | to serve, to save         | servant           |
+| ag/act(i)     | Latin                 | to do, to drive, to force | agent             |
+| duc(t)        | Latin                 | to lead                   | ductile           |

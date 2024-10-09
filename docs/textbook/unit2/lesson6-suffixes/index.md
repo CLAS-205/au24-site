@@ -140,8 +140,8 @@ In addition to the endings introduced in this lesson, be familiar with the follo
 | centr         | Latin                 | middle, center            | central           |
 | cur           | Latin                 | to care for, to oversee   | curator           |
 | serv          | Latin                 | to serve, to save         | servant           |
-| ag/act(i)      | Latin                 | to do, to drive, to force | agent             |
-| duc(t)        | Latin             | to lead           | ductile       |
+| ag/act(i)     | Latin                 | to do, to drive, to force | agent             |
+| duc(t)        | Latin                 | to lead                   | ductile           |
 
 ## Vocabulary Practice
 
