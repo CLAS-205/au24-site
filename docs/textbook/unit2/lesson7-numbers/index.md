@@ -4,8 +4,6 @@ nav_order: 2
 layout: default
 parent: Unit 2
 grandparent: Textbook
-nav_exclude: true
-search_exclude: true
 ---
 
 # Lesson 7: Numbers
@@ -21,18 +19,36 @@ Number bases might already be familiar to you if you've used the metric system a
 
 | Definition            | Latin form        | Greek form        |
 | :---                  | :---              | :---              |
+| half (1/2)            | semi              | hemi              |
 | one (1)               | uni               | mono              |
-| two (2)               | duo, bi           | di                |
-| three (3)             | ter               | tri               |
+| two (2)               | du(o), bi         | di                |
+| three (3)             | tri               | tri               |
 | four (4)              | quad/quatr        | tetr(a)           |
 | five (5)              | quinqu            | pent(a)           |
 | six (6)               | sex(a)            | hex(a)            |
-| seven (7)             | sept(a)           | hept(a)           |
-| eight (8)             | octa(v)           | oct(a)            |
-| nine (9)              | non(a)            | enne(a)           |
+| seven (7)             | sept(em)          | hept(a)           |
+| eight (8)             | oct               | oct(a)            |
+| nine (9)              | nov(em)           | enne(a)           |
 | ten (10)              | dec(i)            | dec(a)            |
 | one hundred (100)     | cent(i)           | hect(a)           |
 | one thousand (1000)   | mill(i)           | kil(o)            |
+
+What you saw above were **cardinal** numbers, or counting numbers. There are a few roots that come from **ordinal** numbers:
+
+| Definition            | Latin form        | Greek form        |
+| :---                  | :---              | :---              |
+| first                 | prim(a)           | prot(o)           |
+| second                | second/secund     | deut(er)          |
+| third                 | terti/tern*       | ---               |
+| fourth                | quart/quatern*    | ---               |
+| fifth                 | quint/quin*       | ---               |
+| sixth                 | sext              | ---               |
+| seventh               | septim            | ---               |
+| eighth                | octav             | ---               |
+| ninth                 | non               | ---               |
+| tenth                 | decim             | ---               |
+
+For the roots marked with an asterisk (\*), the force of the roots ending in *-n* is more akin to "X times" or "the Xth time". For example, **tern** means "3 times" or "the 3rd time".
 
 ## Roman Numerals
 
@@ -48,108 +64,144 @@ Chances are that you have seen the Roman number system at least once before read
 | 500                   | D             |
 | 1000                  | M             |
 
-The letter M is more commonly used to represent 1000. In Roman times, the symbol ↀ was used for 1000 instead of M. During medieval times, the ↀ gradually transformed into an M. This was also convenient since the word for 1000 is *milia* in Latin.
+The letter **M** is more commonly used to represent 1000. In Roman times, the symbol ↀ was used for 1000 instead of M. During medieval times, the ↀ gradually transformed into an M. This was also convenient since the word for 1000 is *milia* in Latin.
 
 {: .note}
 > There also technically exist symbols for 10,000 and 100,000; which are ↂ and ↈ, respectively. These are extremely rare in the Roman world, and practically never used in the modern day.
 
-Similarly to how M came to represent 1000 from *milia*, the word centum, which means 100, starts with a C. And maybe that's why they used a C. But if we try to apply that logic to the other numbers in this table, something doesn't really hold up. For example, the number one in Latin is unus, which begins with a U, and yet its symbol is an I. The number five in Latin is quinque, which begins with a Q, very much not a V. The word for ten is decem, which begins with a D, and yet D is used for 500. So where did all of that come from?
+Similarly to how **M** came to represent 1000 from *milia*, we can also see a connection between *centum* and **C** for 100. However, that logic doesn't apply to the other numbers in this table. You don't even need to be familiar with Latin for this! You can reference the roots in the [Number Prefixes](##number-prefixes) section. Note these discrepancies:
+
+- 1 in Latin is *unus*, but its symbol is **I**
+- 5 in Latin is *quinque*, but its symbol is **V**.
+- 10 in Latin is *decem*, which begins with a **D**, and yet D is used for 500. Curious...
 
 ### Number Symbols
-Well, let's think a little bit more broadly for a moment and think about just the fact that letters are used to represent numbers. In the modern world, it might seem a little strange that you can have letters representing numbers, because what if you have two numbers that begin with the same letter? Like in English, for example, four and five both begin with F. What would you do with that?
+In the modern world, it might seem a little strange that you can have letters representing numbers, because what if you have two numbers that begin with the same letter? Like in English, for example, four and five both begin with F. What would you do with that?
 
-Well, in the ancient Mediterranean, especially in Greek, Hebrew, and Phoenician alphabets, the number value that's associated with the letter usually has nothing to do with the way that the number is pronounced. 
-So, for example, in this Greek alphabet here, the numbers are just assigned in the order of the alphabet. The number one in Greek can be hen or mia. There's different words for those, depending on if you have one of a feminine thing or one of a masculine thing. The idea is that the number one is not necessarily associated with any particular letter; it just happens to be assigned that way in the numbering system, because there's an alphabetical system in place, and it avoids having to invent new symbols for these numbers.
+In the ancient Greek, Hebrew, and Phoenician alphabets, the number value that's associated with the letter usually has nothing to do with the way that the number is pronounced.
 
-A similar idea happens in the Hebrew alphabet as well, where you just systematically go and you assign numerical values to every letter in the alphabet. In Hebrew, the number one is ekhad or akhat (again depending on gender), which both happen to begin with aleph, the first letter. But when we get to the number two, we have the letter bet, but the word for “two” is either sh’nayim or sh’tayim, which both begin with the letter shin.
+![Image of the Greek alphabet with numeric values](../../../../assets/images/greek-alphabet-nuimbers.png)
 
-And the same thing happens in Phoenician as well. I’m not as familiar with the Phoenician alphabet, so I couldn’t tell you what the actual words for their numbers are, but the same number-letter assignment happens in their alphabet.
+Note how in the Greek alphabet pictured above, the numbers are just assigned in the order of the alphabet. In Ancient Greek, the number one in Greek is pronounced "heis" (εἷς), "mia" (μίᾰ), or "hen" (ἕν), depending on grammatical gender. None of those begin with alpha! The takeaway is that the number one is not necessarily associated with any particular letter; it just happens to be assigned that way in the numbering system. Using an alphabetical system to represent numbers avoids the problem of having to invent new symbols for numbers&mdash; particularly for societies that didn't conceive of the number 0.
 
-I also wanted to just make a side note briefly that a similar phenomenon occurs in computer programming as well, when we think about the ASCII table. Now, if you're not familiar, ASCII stands for American Standard Code for Information Interchange. What it means is that the ASCII table is just a representation of a bunch of different alphanumeric characters and other symbols like punctuation that can be found on a standard keyboard. Each one of these is given a specific numerical value so that a computer can understand the number value and use that in a program. So these are also, they are systematically defined, but they're also sort of arbitrary what numbers go with what symbols. So the idea of letters being used to represent numbers, but not necessarily having sort of a verbal or linguistic connection to them, is something that's quite prevalent in the ancient world. And part of that goes into the Roman number system as well.
 
-But there's one thing that you'll notice that's kind of different between the Roman number system and the Greek, Hebrew, or Phoenician systems. And that is not every letter in the Roman alphabet actually gets a number. You only have seven letters that are actually actively used and seven values associated with them. Now, where did that come from?
+![The Hebrew alphabet, with numerals.](../../../../assets/images/hebrew-alphabet.png)
+
+A similar idea happens in the Hebrew alphabet as well, where numerical values are systematically assigned to every letter in the alphabet. In Hebrew, the number one is ekhad (אחד) or akhat (אחת) &mdash;again depending on gender&mdash;, which both happen to begin with aleph (א), the first letter. But when we get to the number two, we have the letter bet (ב), but the word for "two" is either sh’nayim (שְׁנַיִם) or sh’tayim (שְׁתַּיִם), which both begin with the letter shin (ש).
+
+{: .note}
+> Side note: A similar thing happens with ASCII values in computer programming! Letters and symbols are systematically given numeric values that often have no connection to the symbols themselves.
 
 ### Origins of Roman Number System
-Well, the most common theory is that this system of numbering and reckoning symbols was adopted from the Etruscan number system, which looks like this.
 
-And as you can see, if we put the Latin counterparts underneath, the same numbers are being represented with perhaps some different symbols. 1, 5, and 10 actually have the same symbols in the Latin and Etruscan alphabet; it's 50, 100, 500, and 1000 that are given different symbols. But the fact remains that you have the same number of symbols and you have the same numbers that are being symbolized.
+One difference between the Roman number system and the Greek and Hebrew systems is not every letter in the Roman alphabet actually gets a number. Every letter in the Greek and Hebrew alphabets is assigned a numeric value, but only seven letters out of the entire Latin alphabet have numbers.
 
-Here’s another visualization that represents the evolution of how one theory of how the Etruscan numbers would have become their Roman counterparts. So in this first line here, we have the symbol for 50, which kind of looks like a V with three lines in it that eventually starts to look like an arrow pointing down. And then that kind of opens up into a sort of lowercase T figure. And then if you chop that figure in half vertically, you get something like an L, which looks closer to a letter that the Romans would have recognized. And because letters were commonly used to represent numbers, they adopted the L to represent 50, probably because it might have been the closest letter they had to the Etruscan symbol that already existed. Similar stories for C and D and M.
+The most common theory behind this is that this system of numbering and reckoning symbols was adopted from the Etruscan number system, which looks like this:
+
+![The Etruscan numerals, next to the Latin numerals](../../../../assets/images/etruscan.png)
+
+The similarities between the Latin and Etruscan number symbols become more apparent. 1, 5, and 10 actually have the same symbols in the Latin and Etruscan alphabet; it's 50, 100, 500, and 1000 that are given different symbols. But the fact remains that we see the same number of symbols and the same numbers are being symbolized. (The Etruscans aren't assigning a symbol for 2, for example.)
+
+Here’s another visualization that represents the evolution of how one theory of how the Etruscan numbers would have evolved into their Roman counterparts. 
+
+![The Etruscan numerals, next to the Latin numerals](../../../../assets/images/etruscan-evolution.png)
 
 Now, this is just a theory, so it might not have really happened like this, but it's one of the ways that we think these letters could have started to be used by the Romans to represent their numbers.
 
 ### Additive System
 
-Now, you'll notice that in a numeric system like the Greek alphabet, there was a lot more variety of numbers. You had numbers in between. For example, there were letters to represent two, three, four, five, six, seven, eight, and nine, whereas the Roman number system doesn't really have that. Now, that doesn't mean that the Romans didn't have a concept of numbers in between 1, 5, 10, 50, 100, and so on.
+Now, just because the Roman number system was limited to seven symbols doesn't mean that the Romans didn't have a concept of numbers in between 1, 5, 10, 50, 100, and so on.
 
-What they did instead was they used something called the additive system to represent these other numbers. Now, the basic principle behind the additive system is that whenever you're creating a number, you use the fewest letters that add up to the larger number.
+What they did instead was they used something called the additive system to represent these other numbers. The basic principle behind the additive system is that we use the fewest letters possible that add up to the number we want to represent. These letters are then arranged from greatest to least. To interpret the numeral, the value of each symbol is added together.
 
-And then you arrange all these letters from greatest to least.
+Here are some examples:
 
-So I think this is best illustrated with a few examples. So the first example I'll give is the number 33. They didn't have any symbols for the number 30 or the number 3. Instead, what would happen is they would represent it as three tens, three ones, and so we would have XXX and then we would have III. The idea here is that you would use the smallest amount of letters that could add up to this number, which is why you wouldn't have 33 ones in place, because not only is that super hard to read, it also takes up a lot of space. That’s also why we’d write XXX instead of six V’s.
+- 33 = 10 + 10 + 10 + 1 + 1 + 1 = **XXXIII**
+- 156 = 100 + 50 + 5 + 1 = **CLVI**
+- 844 = 500 + 100 + 100 + 100 + 10 + 10 + 10 + 10 + 1 + 1 + 1 + 1 = **DCCCXXXXIIII**
 
-Another example here is the number 156, which we'd have 100 plus 50 plus 5 plus 1. And that represents itself in the numbers C, L, V, and I. Sounds a little bit like you're taking an eye doctor exam if you're reading these out loud, but I promise you this is how the numbers work. Now, the whole point of the additive system is that you are trying to condense these numbers as much as you can and you try to save as much space as you can. However, because there was no concept of the base ten system the way that we do in the modern day, looking at numbers, some of these numbers can get quite long.
-
-For example, 844 is represented by 500, which is D, three one hundreds, the three C's, four tens, which is the four X's, and the four ones, which is four I’s.
-
-Now, if you are familiar with Roman numerals before arriving at this video, this last number might give you a little bit of trouble, because you probably have not seen the number four being represented as four I’s. And you may or may not have seen the number 40 being represented as four X's. And here's why.
+Whoa. That last number looks *really* long. If you were familiar with Roman numerals before reading this section, you might be wondering why the number 4 is represented as **IIII**. In reality, it was more common for Romans to represent numbers purely through addition. 4 = IIII; 40 = XXXX; and so on. However, our friends in the medieval period (the ones who came up with M for 1000 instead of ↀ) got creative...
 
 ### Subtractive System
 
-You might have seen something called a subtractive system. Now, the subtractive system was actually an invention during the Medieval period for shorthand. And what this does is it takes smaller numbers, puts them in front of larger numbers to imply subtraction. Now, this doesn’t hold for all numbers! For example, putting a V in front of an L does not mean 45.
+The **subtractive system** is a shorthand that takes smaller numbers and puts them in front of larger numbers to imply subtraction. Now, this doesn’t hold for all numbers! For example, putting a V in front of an L does not mean 45.
 
-There are only six numbers that can be represented with the subtractive system, and they are the numbers 4, 9, 40, 90, 400, and 900. The way this looks in practice is that the number four is usually represented as being “one before five” or “five minus one”, which literally looks like the symbol for one (I) being put before the symbol for five (V). So the number 4 is represented by IV.
+There are only six numbers that can be represented with the subtractive system:
 
-Similarly, nine is considered “one before ten”. So the symbol associated with the number nine would have been IX.
+- 4: IV
+- 9: IX
+- 40: XL
+- 90: XC
+- 400: CD
+- 900: CM
 
-40 is 10 before 50, so you would have XL.
+{: .note}
+> **What about 49 or 99?** While it is true that there were some sneaky Romans and Latin speakers that wrote IL or IC, these representations were not adopted into a standard convention, and they were very uncommon. It's more likely that you'll see 49 written as **XLIX** and 99 as **XCIX**.
 
-90 is 10 before 100, so you would have XC.
+As aforementioned, the subtractive system was an invention of the medieval period, which means that it was likely was not used at all for most of Roman history. It probably only saw a small bit of usage towards the end of the Roman Empire. There's a reason for this, but we'll get to that in Unit 3.
 
-Finally, 400 is 100 before 500 being CD.
-
-And then you have 900, which is 100 before 1000 being CM.
-
-Now, a question I get asked a lot is, well, what about 49? Why can't you say IL? And I'm sure that there are some people out there who probably did, but in practice, you would only use the special cases that I've listed here for. If you had something like 99 or 49 or whatever, for some reason, those just weren't adopted into the practice. And these are the only special cases with the subtractive system that we have still practiced today.
-
-As far as this class is concerned, I am fine if you want to represent any of the numbers here (4, 9, 40, 90, 400, 900) with either the subtractive or additive system. Just note that the representations may get long and possibly difficult to read with the additive system.
-
-However, if you were curious as to which system was more often used in Ancient Rome, you’ll be delighted to know that the subtractive system was barely used at all in Ancient Rome.  It probably was not used at all for most of the Republic and Empire, and probably only saw even a small bit of usage towards the end of the Roman Empire as it was falling. (More details on this in Unit 3!)
+For now, it suffices that you know how to read and interpret Roman numerals.
 
 ## Vocabulary list
 
 | Root          | Language of origin    | Meaning                   | Example           |
 | :---:         | :---:                 | :---                      | :---              |
+| hemi          | Greek                 | half                      | hemisphere        |
+| mono          | Greek                 | one                       | monotone          |
+| di(ch)        | Greek                 | two                       | dichotomy         |
+| tri           | Greek                 | three                     | tricolor          |
+| tetr(a)       | Greek                 | four                      | tetrapod          |
+| pent(a)       | Greek                 | five                      | pentathlon        |
+| hex(a)        | Greek                 | six                       | hexahedron        |
+| hept(a)       | Greek                 | seven                     | heptagon          |
+| oct(a)        | Greek                 | eight                     | octane            |
+| enne(a)       | Greek                 | nine                      | enneagram         |
+| dec(a)        | Greek                 | ten                       | decade            |
+| hect(a)       | Greek                 | one hundred               | hectacre          |
+| kil(o)        | Greek                 | one thousand              | kilobyte          |
+| prot(o)       | Greek                 | first                     | proton            |
+| deut(er)      | Greek                 | second                    | deuteragonist     |
+| semi          | Latin                 | half                      | semicolon         |
+| uni           | Latin                 | one                       | universe          |
+| du(o)         | Latin                 | two                       | duality           |
+| bi            | Latin                 | two                       | binary            |
+| tri           | Latin                 | three                     | tricolor          |
+| quad/quatr    | Latin                 | four                      | quadratic         |
+| quinqu        | Latin                 | five                      | quinqueped        |
+| sex           | Latin                 | six                       | sexagenarian      |
+| sept          | Latin                 | seven                     | September         |
+| oct           | Latin                 | eight                     | October           |
+| nov(em)       | Latin                 | nine                      | November          |
+| dec(i)        | Latin                 | ten                       | December          |
+| cent(i)       | Latin                 | one hundred               | century           |
+| mill(i)       | Latin                 | one thousand              | millipede         |
+| prim(a)       | Latin                 | first                     | primal            |
+| second/secund | Latin                 | second                    | secondary         |
+| terti/tern    | Latin                 | third, third time, thrice | tertiary, ternary |
+| quart/quatern | Latin                 | fourth, fourth time, four times   | quaternary, quarter   |
+| quint/quin    | Latin                 | fifth, fifth time, five times     | quintuplet        |
+| sext          | Latin                 | sixth                     | sextet            |
+| septim        | Latin                 | seventh                   | septimal          |
+| octav         | Latin                 | eighth                    | octave            |
+| non           | Latin                 | ninth                     | nonagenarian      |
+| decim         | Latin                 | tenth                     | decimal           |
 
 ## Vocabulary practice
 
-**Practice Set A:** Complete each word with the root that matches the given number and language.
+**Practice Set A:** Complete each word with the root that matches the given number and language. Then tell what the word means.
 
-1. 
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1. __\__\__\__\__\__\__\__\__\__gamous (1, Greek)
+2. __\__\__\__\__\__\__\__\__\__angle (3, Greek)
+3. __\__\__\__\__\__\__\__\__\__uped (4, Latin)
+4. __\__\__\__\__\__\__\__\__\__cycle (2, Latin)
+5. __\__\__\__\__\__\__\__\__\__agon (7, Greek)
+6. __\__\__\__\__\__\__\__\__\__pede (100, Latin)
+7. __\__\__\__\__\__\__\__\__\__meter (1000, Greek)
+8. __\__\__\__\__\__\__\__\__\__pus (8, Latin)
+9. __\__\__\__\__\__\__\__\__\_\_a\_\_\__\__\__\__\__\__\__\__\__imal (6, Greek) + (10, Latin)
+10. __\__\__\__\__\__\__\__\__\_\_kai\_\_\__\__\__\__\__\__\__\__\__phobia (3, Greek) + (10, Greek)
 
-**Practice Set B:**
-
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
-
-**Practice Set C:** Convert each of the Hindu-Arabic numerals to Roman numerals.
+**Practice Set B:** Convert each of the Hindu-Arabic numerals to Roman numerals.
 
 1. 6
 2. 11
