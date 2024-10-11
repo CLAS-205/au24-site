@@ -7,6 +7,10 @@ grandparent: Textbook
 ---
 
 # Lesson 7: Numbers
+{: .no_toc}
+
+1. TOC
+{:toc}
 
 ## Objectives
 

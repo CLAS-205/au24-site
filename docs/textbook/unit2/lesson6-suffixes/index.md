@@ -7,6 +7,10 @@ grandparent: Textbook
 ---
 
 # Lesson 6: Word Endings
+{: .no_toc}
+
+1. TOC
+{:toc}
 
 ## Objectives
 
