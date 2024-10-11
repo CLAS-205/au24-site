@@ -12,17 +12,30 @@ search_exclude: true
 
 ## Objectives
 
-1. Objective 1
-2. Objective 2
+1. Review endings and introduce diminutives
+2. Learn about specific naming usages in chemistry
 
-## Reading Material
+## Diminutives
 
-The reading maerial for this lesson.
+## Chemistry Crash Course
+
+## Chemical Endings
+
+## Roman Numerals in Chemistry
 
 ## Vocabulary list
 
-A list of vocabulary for this lesson
+| Root          | Language of origin    | Meaning                   | Example           |
+| :---:         | :---:                 | :---                      | :---              |
+
+## Vocabulary practice
+
+**Practice Set A:**
 
 ## Reflection Questions
 
-Questions from which we'll pull the weekly reflections.
+1.
+2.
+3.
+4.
+5.

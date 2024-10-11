@@ -22,7 +22,11 @@ has_toc: true
 ## Relevance
 {: .no_toc}
 
-In this project, you will examine the names of elements and chemical compounds to explore how endings affect the meanings of these names. While the bases in chemical names can provide clearer clues to their core components, the endings are important when it comes to figuring out more details about chemical properties, bonds, and structures. By interpreting how Greek and Latin are used in chemical naming, you'll develop a better sense for the subtle ways in which endings can provide more information about unfamiliar terms! (Don't worry&mdash; you won't have to balance any equations!)
+In this project, you will examine the names of elements and chemical compounds to explore how endings affect the meanings of these names. While the bases in chemical names can provide clearer clues to their core components, the endings are important when it comes to figuring out more details about chemical properties, bonds, and structures. By interpreting how Greek and Latin are used in chemical naming, you'll develop a better sense for the subtle ways in which endings can provide more information about unfamiliar terms.
+
+A copy of the periodic table is provided here, for your reference.
+
+![The periodic table of elements](../../../../assets/images/periodic_table.png)
 
 1. TOC
 {:toc}
@@ -47,13 +51,19 @@ These elements all include references to Greek and Roman mythological figures in
 4. Tantalum
 5. Palladium
 
-## Problem 3
+## Problem 3: 
 
-Using context clues to figure out the difference between chemical endings (e.g., -ide vs. -ate)
+Use number prefixes to match chemical names to their formulae. (When there's no number prefix, you may assume that there is only one of that element)
+
+| Chemical Name             | Chemical Formula      |
+| :---                      | :---                  |
+| 1. Silicon dioxide        | A. CO                 |
+| 2. Dihydrogen monoxide    | B. 
+
 
 ## Problem 4 
 
-Use number prefixes 
+Using context clues to figure out the difference between chemical endings (e.g., -ide vs. -ate)
 
 ## Problm 5
 
@@ -61,7 +71,7 @@ Matching molecules to their pictures
 
 ## Problem 6
 
-Polymers
+Alcohols, acids, bases
 
 ## Challenge Problem:
 
