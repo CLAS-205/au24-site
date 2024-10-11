@@ -7,15 +7,21 @@ grandparent: Textbook
 ---
 
 # Project 1: Scientific Names
+{: .no_toc}
 
 ## Objectives
+{: .no_toc}
 
 1. Apply knowledge of Greek and Latin roots to interpret scientific names
 2. Understand how scientific names and common names are related (or not!)
 
 ## Relevance
+{: .no_toc}
 
 In this project, you will apply your understanding of bioscientific vocabulary by interpreting scientific names and matching them to the organisms they describe. Scientific names, often derived from Latin or Greek roots, convey essential information about the characteristics, habitat, or classification of an organism. By breaking down these names into their components, you can uncover their meanings and gain insights into the biology of each species. This project will enhance your ability to connect vocabulary with real-world applications in biology, reinforcing the foundational knowledge you've acquired in this course.
+
+1. TOC
+{:toc}
 
 ## Problem 1: Places, Please
 
