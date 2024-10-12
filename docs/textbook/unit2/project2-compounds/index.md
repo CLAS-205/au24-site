@@ -4,9 +4,6 @@ nav_order: 6
 layout: default
 parent: Unit 2
 grandparent: Textbook
-nav_exclude: true
-search_exclude: true
-has_toc: true
 ---
 
 # Project 2: Compounding Terms
@@ -39,7 +36,7 @@ The following elements from the periodic table use Latin- or Greek-based names w
 2. Lithium
 3. Chromium
 4. Tellurium
-5. Radium 
+5. Radium
 
 ## Problem 2: Gods Against Humanity
 
@@ -51,29 +48,76 @@ These elements all include references to Greek and Roman mythological figures in
 4. Tantalum
 5. Palladium
 
-## Problem 3: 
+## Problem 3: It's a Numbers Game
 
 Use number prefixes to match chemical names to their formulae. (When there's no number prefix, you may assume that there is only one of that element)
 
 | Chemical Name             | Chemical Formula      |
 | :---                      | :---                  |
 | 1. Silicon dioxide        | A. CO                 |
-| 2. Dihydrogen monoxide    | B. 
+| 2. Dihydrogen oxide       | B. N<sub>2</sub>O     |
+| 3. Dinitrous oxide        | C. SiO<sub>2</sub>    |
+| 4. Carbon monoxide        | D. NFl<sub>3</sub>    |
+| 5. Nitrogen Trifluoride   | E. H<sub>2</sub>O     |
+| 6. Carbon Tetrachloride   | F. CCl<sub>4</sub>
 
+## Problem 4: Another Happy Ending
 
-## Problem 4 
+Using context clues to figure out the patterns in each of the following groups of chemical compounds with the same ending. In other words, what do each of these compounds have in common? 
 
-Using context clues to figure out the difference between chemical endings (e.g., -ide vs. -ate)
+(Hint: look for elements or numbers in common!)
 
-## Problm 5
+#### -ate
 
-Matching molecules to their pictures
+- Calcium carbonate (CaCO<sub>3</sub>)
+- Sodium bicarbonate (NaHCO<sub>3</sub>)
+- Potassium nitrate (KNO<sub>3</sub>)
+- Iron phosphate (FePO<sub>4</sub>)
+- Calcum sulfate (CaSO<sub>4</sub>)
 
-## Problem 6
+#### -ide
 
-Alcohols, acids, bases
+- Sodium chloride (NaCl)
+- Iron sulfide (FeS)
+- Potassium bromide (KBr)
+- Titanium aluminide (TiAl)
+- Magnesium oxide (MgO)
 
-## Challenge Problem:
+### -ane
+
+- Methane (CH<sub>4</sub>)
+- Ethane (C<sub>2</sub>H<sub>6</sub>)
+- Propane (C<sub>3</sub>H<sub>8</sub>)
+- Butane (C<sub>4</sub>H<sub>10</sub>)
+- Octane (C<sub>8</sub>H<sub>18</sub>)
+
+## Problem 5: A Test of Metal
+
+Recall that Roman numerals are used to indicate oxidation levels in transition metals. Further, for metals with multiple possible oxidation levels, the suffix *-ic* is used to indicate **higher** oxidation state, and the suffix *-ous* is used to indicate **lower** oxidation state.
+
+For each of the following pairs of metallic compounds, give the oxidation level of *both* metals using the provided Roman numerals. Then, by comparing the two compounds, tell which is the *-ic* compound and which is the *-ous* compound. (You will only have one of each.)
+
+1. Iron (III) Sulfate, Iron (II) Fumarate
+2. Copper (I) Chloride, Copper (II) Oxide
+3. Tin (IV) Chloride, Tin (II) Fluoride
+4. Lead (II) Nitrate, Lead (IV) Acetate
+
+## Problem 6: Elements Unun-ymous
+
+Each of the following names is no longer used for the last few synthetic elements in the periodic table. For each of the deprecated names, give the current name of the same element. Then tell what the element was named after.
+
+(Hint: Do you recognize any of these numbers?)
+
+1. unununium
+2. ununbium
+3. ununtrium
+4. ununquadium
+5. ununpentium
+6. ununhexium
+7. ununseptium
+8. ununoctium
+
+## Challenge Problem: Simple Symbols
 
 Some elements' chemical symbols come from their Latin names instead of their English names. Pick one such element and write a short essay about it (200-300 words). Include the following details:
 
