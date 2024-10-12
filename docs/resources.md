@@ -8,7 +8,7 @@ A list of additional resources for the class can be found here, organized by top
 ## Greek and Latin Roots and Wordbuilding
 
 - *Bioscientific Terminology*. Donald M. Ayers, University of Arizona Press, 1972.
-- [Latin and Greek roots and affixes | Khan Academy](https://www.youtube.com/watch?v=fiaPqgwJFo4) 
+- [Latin and Greek roots and affixes \| Khan Academy](https://www.youtube.com/watch?v=fiaPqgwJFo4) 
 - [Latin and Greek Root Words - English Language and Vocabulary Development (podcast by Innovative Literacy)](https://www.youtube.com/playlist?list=PLLQh1KcEsatLzrxMxwbUacD68qcPh6FOc)
 - [Wikipedia's List of Latin and Greek words commonly used in synthetic names](https://en.wikipedia.org/wiki/List_of_Latin_and_Greek_words_commonly_used_in_systematic_names)
 
