@@ -101,6 +101,7 @@ For each of the following pairs of metallic compounds, give the oxidation level 
 2. Copper (I) Chloride, Copper (II) Oxide
 3. Tin (IV) Chloride, Tin (II) Fluoride
 4. Lead (II) Nitrate, Lead (IV) Acetate
+5. Vanadium (IV) Oxide, Vanadium (III) Chloride
 
 ## Problem 6: Elements Unun-ymous
 
