@@ -218,7 +218,7 @@ For now, it suffices that you know how to read and interpret Roman numerals.
 9. 2900
 10. 3158
 
-**Practice Set D:** Convert each of the Roman numerals to Hindu-Arabic numerals. (Some numerals will follow additive conventions; others will follow subtractive conventions!)
+**Practice Set C:** Convert each of the Roman numerals to Hindu-Arabic numerals. (Some numerals will follow additive conventions; others will follow subtractive conventions!)
 
 1. IV
 2. IIII
