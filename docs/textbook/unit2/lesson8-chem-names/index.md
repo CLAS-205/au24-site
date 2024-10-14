@@ -9,6 +9,10 @@ search_exclude: true
 ---
 
 # Lesson 8: Names in Chemistry
+{: .no_toc}
+
+1. TOC
+{:toc}
 
 ## Objectives
 
@@ -30,7 +34,7 @@ The force of the diminutive is sometimes better felt in other languages. Note th
 {: .note}
 > This idea of diminutives meaning “smaller” isn’t really something that we have in English, but it is something that carries through in other modern languages. You might even know other examples, if you're familiar with other languages!
 
-As far as bioscientific vocabulary goes, when you add a root and a diminutive, you get a word that basically means “small <base\>”. This is a pretty standard formula:
+As far as bioscientific vocabulary goes, when you add a root and a diminutive, you get a word that basically means "little <base\>". This is a pretty standard formula:
 
 - **bacter** (rod) + *-ium* = bacterium (little rod)
 - **aster** (star) + *-isk* = asterisk (little star)
@@ -39,16 +43,11 @@ As far as bioscientific vocabulary goes, when you add a root and a diminutive, y
 {: .note}
 > All diminutives are noun-forming endings.
  
-[The Diminutives]
-Here is a list of all the diminutives in this lesson. Even though they all have the same definition, you will note that they are grouped together into four entries. The reason for this has to do with those spelling changes that we talked about all the way back in Lesson 2. For example, the first pair, -ium and -ion are actually the same suffix. -ium is the Latin form of the suffix, while -ion is the Greek form. Pretty much all the forms that end in “n” are from the original Greek spellings, while the forms that end in “m” are from the Latinized spellings. The exception here is -isk and -iscus, where -isk is the truncated form of -iscus. 
-From this, I hope you’re able to see which of the suffixes are related to one another. That would certainly be helpful when memorizing definitions, but one of the oddities of this lesson was that all the diminutive suffixes in your book have the same definition. They all basically translate to “little”. And that brings us to an interesting question…
+The following is a list of all diminutives, along with which language they are derived from. 
 
-[A big question…]
-Why are all these diminutives spelled differently if they mean the same thing? Wouldn’t it just be easier to have only one spelling or suffix for every diminutive ever? 
-Unfortunately, the inventors of Ancient Greek did not have the speakers of Modern English in mind when these diminutives were originally in use. You see, these suffixes were practically the same when they were carried over from their original Greek usages. And as I alluded to way back in Lesson 2, since Greek was an inflected language, there were certain ways that diminutives were formed from different nouns and adjectives. Simply put, there were a lot more spelling rules in Greek that diverged into these different diminutives. There are a few consistencies, though. 
-The first is that most diminutives have an -ium or an -ion in them. The book does mention that -ium as a diminutive can get mixed up with -ium meaning “tissue” really easily. This is something that you will have to use context clues for, both in the definitions and the surrounding bases. I will try to make it obvious in handouts and assessments which one it’s supposed to be—this goes for other homonyms like METR (uterus) and METR (measurement), or UR (urine) and UR (tail). But be mindful of context clues all the same. 
-Another tip that you might find helpful is that -idion and -idium are related to -id and -idae, meaning “descended from”. That was a suffix we learned in Lesson 10, and in that video I mentioned that this suffix came from the Greek patronymic, or a way of referring to someone by who their father was. In a sense, I suppose you could see how these suffixes are related if you think of someone as a little version of their parents. If it helps you remember them, you can think of -idion and -idium as a form of -id and -idae. Be mindful of the difference in definitions, though; -idion and -idium still means “little”, and it’s still its own base. It’s not a compound or anything, but those suffixes are related. 
-Finally, the suffix -isk and -iscus doesn’t look much like the other diminutives, but it has the same meaning nonetheless. Etymologically, it’s related to the English suffix “-ish”. So if I said that something is “reddish”, that means it’s only a little bit red. So that’s something that might help you remember this suffix in Greek.
+{: .note}
+> **Why are all these diminutives spelled differently if they mean the same thing?**\n
+Unfortunately, the inventors of Ancient Greek did not have the speakers of Modern English in mind when these diminutives were originally in use. Since both Greek and Latin are inflected languages, the formation of diminutives changes depending on the type of noun or adjective that the diminutive derives from. Anglicization is also at fault for why some diminutives look like other noun-forming endings. 
 
 ## Chemistry Crash Course
 
@@ -130,19 +129,17 @@ Chemical equations represent chemical reactions, showing the reactants on the le
 
 Moreover, chemical notation also incorporates symbols for various states of matter, such as (s) for solid, (l) for liquid, (g) for gas, and (aq) for aqueous solutions. This additional information helps convey the conditions under which a reaction occurs, making the notation even more informative. Mastery of chemical notation is fundamental for anyone studying chemistry, as it lays the groundwork for understanding more complex concepts and interactions within the field.
 
-## Vocabulary list
+## Vocabulary List
 
 | Root          | Language of origin    | Meaning                   | Example           |
 | :---:         | :---:                 | :---                      | :---              |
 
-## Vocabulary practice
+## Vocabulary Practice
 
 **Practice Set A:**
 
 ## Reflection Questions
 
 1. What diminutives are you familiar with, in English or in any other language you know?
-2.
-3.
-4.
-5.
+2. Choose any 3 of the roots from the Lesson 8 vocabulary list and attach any diminutive ending to them to create a new term. Then, interpret what your term means. Is it one that exists already? (You may look up definitions for this question)
+3. What chemistry concepts were you familiar with prior to reading this lesson? What was unfamiliar?
