@@ -12,9 +12,9 @@ grandparent: Textbook
 ## Objectives
 {: .no_toc}
 
-1. Apply knowledge of Greek and Latin roots to determine meanings of chemical compound names
+1. Apply knowledge of Greek and Latin roots to determine meanings of elements and compounds
 2. Understand how endings change the meanings of words
-3. Connect naming conventions with the shapes of molecules, polymers, and other compounds.
+3. Connect naming conventions with the shapes and structures of chemical compounds
 
 ## Relevance
 {: .no_toc}
