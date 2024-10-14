@@ -3,6 +3,7 @@ title: Unit 3
 nav_order: 3
 layout: default
 parent: Textbook
+has_toc: false
 ---
 
 ## Unit 3
