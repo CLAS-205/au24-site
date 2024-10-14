@@ -123,7 +123,7 @@ It's possible for one word to have many endings tacked onto each other! The rule
 
 Be careful, though! Some endings might look like compounds, when they're actually not! For example, the ending *-ary* might look like a compound of *-ar* and *-y*. Most of the endings that you'll need for this class can be found here. If you're ever unsure whether an ending is a compound or not, try searching through the tables here first!
 
-## Vocabulary list
+## Vocabulary List
 
 In addition to the endings introduced in this lesson, be familiar with the following roots:
 

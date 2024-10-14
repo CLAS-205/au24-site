@@ -146,7 +146,7 @@ As aforementioned, the subtractive system was an invention of the medieval perio
 
 For now, it suffices that you know how to read and interpret Roman numerals.
 
-## Vocabulary list
+## Vocabulary List
 
 | Root          | Language of origin    | Meaning                   | Example           |
 | :---:         | :---:                 | :---                      | :---              |
@@ -190,7 +190,7 @@ For now, it suffices that you know how to read and interpret Roman numerals.
 | non           | Latin                 | ninth                     | nonagenarian      |
 | decim         | Latin                 | tenth                     | decimal           |
 
-## Vocabulary practice
+## Vocabulary Practice
 
 **Practice Set A:** Complete each word with the root that matches the given number and language. Then tell what the word means.
 
