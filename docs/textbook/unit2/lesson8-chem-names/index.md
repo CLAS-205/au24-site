@@ -4,8 +4,6 @@ nav_order: 3
 layout: default
 parent: Unit 2
 grandparent: Textbook
-nav_exclude: true
-search_exclude: true
 ---
 
 # Lesson 8: Names in Chemistry
@@ -59,7 +57,7 @@ Elements are the fundamental building blocks of matter, each consisting of atoms
 
 Each element has a unique symbol, often a one- or two-letter abbreviation. The symbols often derive from their Latin names, such as "Na" for sodium (from "Natrium") and "Fe" for iron (from "Ferrum"). Understanding these roots not only helps in memorizing the elements but also provides insight into their properties and uses. For instance, elements like "Chlorine" (from the Greek "chloros," meaning green) highlight the visual aspects associated with certain chemical properties.
 
-Elements can be classified into metals, nonmetals, and metalloids, each group exhibiting distinct characteristics. Metals tend to conduct electricity and heat well, while nonmetals have varied properties, often serving as insulators. Metalloids exhibit intermediate properties, bridging the gap between metals and nonmetals. This classification is essential for understanding how elements will interact with one another in various chemical reactions.
+Elements can be classified into metals, nonmetals, and metalloids (see the *-oid* ending at work!), each group exhibiting distinct characteristics. Metals tend to conduct electricity and heat well, while nonmetals have varied properties. Some exist naturally as gases, like helium or neon. Others exist as solids, like carbon. Metalloids exhibit intermediate properties, bridging the gap between metals and nonmetals. For example, silicon is a metalloid that works well as a semiconductor, so it's often used in electronics.
 
 ![The periodic table of elements](../../../../assets/images/periodic_table.png)
 
@@ -77,33 +75,44 @@ Electrons, which are negatively charged, orbit the nucleus in specific energy le
 
 ### Valence Electrons
 
-Valence electrons are the outermost electrons of an atom and play a critical role in chemical bonding and reactivity. The number of valence electrons determines how an atom will bond with others to achieve stability, often through the octet rule, which states that atoms prefer to have eight electrons in their valence shell. This desire for a full outer shell drives the formation of various chemical bonds, including ionic and covalent bonds.
+**Valence electrons** are the outermost electrons of an atom and play a critical role in chemical bonding and reactivity. The number of valence electrons determines how an atom will bond with others to achieve stability, often through the **octet rule**, which states that atoms prefer to have eight electrons in their valence shell. This desire for a full outer shell drives the formation of various chemical bonds, including ionic and covalent bonds.
 
-The concept of valence is deeply rooted in the language of chemistry. The term "valence" itself comes from the Latin "valentia," meaning strength or capacity. This reflects the ability of an atom to bond with others, showcasing the capacity of elements to combine and form compounds. For example, sodium (with one valence electron) readily loses that electron to achieve stability, while chlorine (with seven valence electrons) gains an electron to complete its octet, leading to the formation of sodium chloride (table salt).
+The term "valence" itself comes from the Latin root *val*, meaning "strength" or "capacity". This reflects the ability of an atom to bond with others, showcasing the capacity of elements to combine and form compounds. For example, sodium (with one valence electron) readily loses that electron to achieve stability, while chlorine (with seven valence electrons) gains an electron to complete its octet, leading to the formation of sodium chloride (table salt).
+
+In the example below, one carbon atom is bonded with four hydrogen atoms. The carbon atom has four electrons in its outermost shell, and each hydrogen atom has only one. When the five atoms bond together, each of them is able to complete its octet (technically, hydrogen looks for ways to complete a *duet* instead).
+
+![A methane molecule, showing the bonds of hydrogen and carbon](../../../../assets/images/methane.png)
 
 Different groups of elements on the periodic table have distinct valence electron configurations. For example, the alkali metals in Group 1 have one valence electron, while the noble gases in Group 18 have a full valence shell. This systematic arrangement helps predict chemical behavior and reactivity, which is essential for understanding how substances interact in chemical reactions.
 
 ### Bonds
 
-Bonds are the forces that hold atoms together in compounds, and understanding the different types of bonds is crucial for studying chemistry. The primary types of bonds include ionic, covalent, and metallic bonds. Ionic bonds form when electrons are transferred from one atom to another, resulting in oppositely charged ions that attract each other. This type of bonding is commonly observed between metals and nonmetals, such as in sodium chloride, where sodium donates an electron to chlorine.
+Bonds are the forces that hold atoms together in compounds, and understanding the different types of bonds is crucial for studying chemistry. The primary types of bonds include ionic, covalent, and metallic bonds. **Ionic bonds**, from the Greek word *ion* (going), form when electrons are transferred from one atom to another, resulting in oppositely charged ions that attract each other. This type of bonding is commonly observed between *metals and nonmetals*, such as in sodium chloride, where sodium donates an electron to chlorine.
 
-Covalent bonds, on the other hand, involve the sharing of electrons between atoms. This type of bond is typically found between nonmetals, where atoms share one or more pairs of electrons to achieve stability. The strength of a covalent bond is often determined by the number of shared electron pairs, with double and triple bonds being stronger than single bonds. The terminology surrounding covalent bonds often comes from Latin; for example, "co-" means "together," indicating the shared nature of these bonds.
+**Covalent bonds**, on the other hand, involve the *sharing* of electrons between atoms (hence the *co* root). This type of bond is typically found between *nonmetals*, where atoms share one or more pairs of electrons to achieve stability. The strength of a covalent bond is often determined by the number of shared electron pairs, with double and triple bonds being stronger than single bonds.
 
-Metallic bonds differ significantly from ionic and covalent bonds. In metallic bonding, electrons are not associated with individual atoms but instead form a "sea of electrons" that are free to move throughout the metallic structure. This delocalization of electrons accounts for many properties of metals, such as conductivity and malleability. Understanding these different types of bonds and their characteristics is essential for predicting how substances will behave in chemical reactions and in different states of matter.
+In **metallic bonding**, electrons are not associated with individual atoms but instead form a "sea of electrons" that are free to move throughout the metallic structure. This delocalization of electrons accounts for many properties of metals, such as conductivity (the ability to conduct electricity) and malleability (the ability to be reshaped).
+
+| Bond Type     | Elements involved     | Electron properties               |
+| :---          | :---                  | :---                              |
+| Ionic         | Metal + nonmetal      | travel from one atom to another   |
+| Covalent      | Nonmetal + nonmetal   | shared between atoms              |
+| Metallic      | Metal + metal         | move freely in a cloud            |
 
 ### Oxidation
 
-Oxidation is a chemical process that involves the loss of electrons by an atom or ion, often resulting in an increase in oxidation state. The term "oxidation" originally referred to reactions with oxygen, but it has since broadened to encompass a variety of electron transfer processes. The language of oxidation is heavily influenced by Latin; "oxido" means to combine with oxygen, and this historical context helps explain the evolution of the term.
+Oxidation is a chemical process that involves the loss of electrons by an atom or ion, often resulting in an increase in oxidation state. The term "oxidation" originally referred to reactions with oxygen, but it has since broadened to encompass a variety of electron transfer processes.
 
-In redox (reduction-oxidation) reactions, oxidation is always accompanied by reduction, where another atom gains the electrons that have been lost. This simultaneous process is vital in many biological and industrial processes, such as cellular respiration and combustion. Understanding oxidation states helps chemists predict the products of these reactions, as elements will often change their oxidation states to achieve greater stability.
+{: .note}
+> The word "oxygen" literally means "acid-creator", consisting of the roots *oxy* (sharp, sour) and *gen* (creating, producing). French chemist Antoine Lavoisier initially believed that oxidation was necessary for the creation of acids, which was later proven to be a misconception. However, the name stuck.
 
-The concept of oxidation is also linked to the concept of corrosion, which occurs when metals react with environmental elements, leading to deterioration. For instance, the rusting of iron is a classic example of oxidation, where iron reacts with oxygen in the presence of moisture. The implications of oxidation are far-reaching, affecting not only material science but also environmental science and energy production.
+In **redox (reduction-oxidation) reactions**, oxidation is always accompanied by reduction, where another atom gains the electrons that have been lost. This simultaneous process is vital in many biological and industrial processes, such as cellular respiration and combustion. Understanding oxidation states helps chemists predict the products of these reactions, as elements will often change their oxidation states to achieve greater stability.
 
-## Chemical Endings
+The concept of oxidation is also linked to the concept of **corrosion**, which occurs when metals react with environmental elements, leading to deterioration. For instance, the rusting of iron is a classic example of oxidation, where iron reacts with oxygen in the presence of moisture.
 
-Chemical nomenclature relies heavily on specific endings to indicate the types of compounds being formed, and understanding these endings is crucial for effective communication in chemistry. One of the most common endings is "-ide," which is used for simple binary compounds. For example, in sodium chloride (NaCl), the "-ide" suffix indicates that the compound consists of sodium and chlorine, a metal and a nonmetal, respectively. This naming convention helps distinguish between different types of compounds, especially when dealing with similar elements.
+## Chemical Nomenclature
 
-Another important suffix is "-ate" or "-ite," which are used for polyatomic ions. The "-ate" suffix usually denotes a compound containing a higher number of oxygen atoms, while "-ite" indicates a compound with fewer oxygen atoms. For example, sulfate (SO₄²⁻) has more oxygen atoms than sulfite (SO₃²⁻). This differentiation is particularly vital in understanding the properties and reactions of these ions in various chemical contexts, from biological processes to industrial applications.
+Chemical nomenclature relies heavily on specific endings to indicate the types of compounds being formed. For instance, there's a world of difference between a sulfide, a sulfate, and a sulfite&mdash; even though they're all sulfur compounds! You'll explore some of the endings used in inorganic chemistry in more depth for Project 2.
 
 In organic chemistry, the endings can also indicate the functional groups present in molecules. For instance, "-ol" signifies alcohols, "-al" denotes aldehydes, and "-one" represents ketones. These endings inform chemists about the chemical behavior and reactivity of the substances in question. By mastering these conventions, chemists can easily identify and predict the properties of compounds based on their names.
 
@@ -133,13 +142,62 @@ Moreover, chemical notation also incorporates symbols for various states of matt
 
 | Root          | Language of origin    | Meaning                   | Example           |
 | :---:         | :---:                 | :---                      | :---              |
+| lith          | Greek                 | stone                     | monolith          |
+| heli(o)       | Greek                 | sun                       | heliotrope        |
+| hal           | Greek                 | salt                      | halite            |
+| (di)dym       | Greek                 | twin                      | didymous          |
+| iso           | Greek                 | equal                     | isosceles         |
+| ne(o)         | Greek                 | new                       | neonatal          |
+| oxy           | Greek                 | sharp, sour               | oxygen            |
+| calyp(s/t)    | Greek                 | hidden                    | Calypso           |
+| gen           | Greek                 | to create, to produce     | generate          |
+| phor/pher     | Greek                 | to bear, to carry         | metaphor          |
+| ion           | Greek                 | to go                     | ionic             |
+| apo           | Greek                 | away                      | apotheosis        |
+| es/eis        | Greek                 | to, towards, into         | esoteric          |
+| epi           | Greek                 | on, upon, to              | epidemic          |
+| para          | Greek                 | next to, beside, disordered    | parasocial   |
+| peri          | Greek                 | around                    | perimeter         |
+| pro(s)        | Greek                 | in front of, in addition to   | prologue      |
+| calc          | Latin                 | limestone                 | calcium           |
+| val           | Latin                 | strength, capacity, ability | valor           |
+| cut/cuss      | Latin                 | to hit                    | percussion        |
+| flu           | Latin                 | to flow                   | fluid             |
+| mon(it)       | Latin                 | to warn, to advise, to suggest |  admonish    |
+| extr(a/o)     | Latin                 | outside, beyond           | extravagant       |
+| infr(a)       | Latin                 | below                     | infrastructure    |
+| ultr(a)       | Latin                 | above, exceeding          | ultrasonic        |
+| per           | Latin                 | each, through, completely | permeate          |
+| pr(a)e        | Latin                 | before, ahead of          | preside           |
 
 ## Vocabulary Practice
 
-**Practice Set A:**
+**Practice Set A:** Identify the roots in each of the following words, give their language of origin, and their definitions. Also give their part of speech. Then, following the guidelines in Lesson 4, arrange the definitions of the individual roots to create a literal definition.
+
+1. prosthetics
+2. isotope
+3. anion
+4. cation
+5. catalysis
+6. megalithic
+7. neon
+8. phosphorus
+9. neodymium
+10. astatine
+11. calcify
+12. halogen
+13. concussion
+14. fluorine
+15. periscope
+16. parameter
+17. epicenter
+18. valedictorian
+19. premonition
+20. percent
 
 ## Reflection Questions
 
 1. What diminutives are you familiar with, in English or in any other language you know?
 2. Choose any 3 of the roots from the Lesson 8 vocabulary list and attach any diminutive ending to them to create a new term. Then, interpret what your term means. Is it one that exists already? (You may look up definitions for this question)
 3. What chemistry concepts were you familiar with prior to reading this lesson? What was unfamiliar?
+4. Some of the vocabulary practice questions are the names of elements. Choose one and interpret it. Does the name of this element make sense, given its properties or the circumstances of its discovery?
