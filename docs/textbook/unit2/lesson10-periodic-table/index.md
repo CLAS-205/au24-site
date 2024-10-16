@@ -120,6 +120,7 @@ The ability to create and study synthetic elements enriched the periodic table a
 | brom          | Greek                 | stench, stink             | bromide           |
 | cycl(o/e)     | Greek                 | circle                    | bicycle           |
 | mall(e)       | Latin                 | hammer                    | mallet            |
+| tellu(r/s)    | Latin                 | earth                     | tellurian         |
 | nucle(us)     | Latin                 | nut, nutshell             | nucleus           |
 | radi(o)       | Latin                 | ray (as of the sun)       | radiant           |
 | med/mid(i)    | Latin                 | middle                    | median            |
