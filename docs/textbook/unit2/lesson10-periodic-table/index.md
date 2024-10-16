@@ -105,30 +105,39 @@ The synthesis of these new elements had profound implications for both scientifi
 
 Synthetic elements often exhibit radioactive properties, which have both benefits and challenges. The use of radioactive isotopes in medicine, particularly in diagnostics and treatment, has revolutionized healthcare. Isotopes such as iodine-131 and cobalt-60 are used in cancer treatments, showcasing the potential of synthetic elements to improve human health. However, the radioactive nature of these elements also raises concerns about safety and environmental impact, emphasizing the need for careful handling and regulation.
 
-The ability to create and study synthetic elements enriched the periodic table and opened new avenues for exploration in chemistry. Researchers continue to seek out and synthesize new elements, with the most recent discoveries including elements like copernicium (Cn), nihonium (Nh), and oganesson (Og). Each new addition expands our understanding of atomic behavior and the underlying principles of chemistry, pushing the boundaries of what is known and challenging scientists to rethink fundamental concepts.
-
-Overall, the era of synthetic elements represents a significant milestone in the history of chemistry, showcasing the interplay between discovery, innovation, and ethical responsibility. As scientists continue to explore the realm of synthetic elements, they not only enhance our understanding of the natural world but also face the complex challenges associated with the power of their discoveries. The ongoing pursuit of knowledge in this field underscores the importance of scientific inquiry and its impact on society.
+The ability to create and study synthetic elements enriched the periodic table and opened new avenues for exploration in chemistry. Researchers have synthesized elements up to number 118. Each new addition expands our understanding of atomic behavior and the underlying principles of chemistry, pushing the boundaries of what is known and challenging scientists to rethink fundamental concepts.
 
 ## Vocabulary List
 
 | Root          | Language of origin    | Meaning                   | Example           |
 | :---:         | :---:                 | :---                      | :---              |
+| irid/iris     | Greek                 | rainbow, colorful, iris   | iridescent        |
+| mer           | Greek                 | part                      | polymer           |
+| mes           | Greek                 | middle                    | Mesoamerica       |
+| krypt/crypt   | Greek                 | hidden                    | krypton           |
+| mall(e)       | Latin                 | hammer                    | mallet            |
+| nucle(us)     | Latin                 | nut, nutshell             | nucleus           |
+| radi(o)       | Latin                 | ray (as of the sun)       | radiant           |
+| med/mid(i)    | Latin                 | middle                    | median            |
+| fug(a)        | Latin                 | to flee, to go away from  | fugue             |
+| pet(it)       | Latin                 | to seek, to go towards    | petition          |
+| gress/grade   | Latin                 | to go, to advance         | progress          |
 
 ## Vocabulary Practice
 
 **Practice Set A:** Identify the roots in each of the following words, give their language of origin, and their definitions. Also give their part of speech. Then, following the guidelines in Lesson 4, arrange the definitions of the individual roots to create a literal definition.
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
-11.
+1. synthetic
+2. radioactive
+3. isotope
+4. thermonuclear
+5. periodic
+6. malleable
+7. ductility
+8. centripetal
+9. centrifugal
+10. cryptography
+11. regression
 12.
 13.
 14.
@@ -142,6 +151,6 @@ Overall, the era of synthetic elements represents a significant milestone in the
 ## Reflection Questions
 
 1. What similarities do you see between the naming of elements and the naming of biological organisms in rank-order taxonomy? What differences do you see?
-2. 
+2. Some elements are named after certain places. Look up the origins of the names for gallium and francium. What do they have in common?
 3. 
 4. 

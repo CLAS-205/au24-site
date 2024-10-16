@@ -169,3 +169,4 @@ The evolution of chemistry during this period was not only theoretical but also 
 1. Metallurgy, paints, dyes, and glassmaking were among the earliest expressions of chemistry in ancient civilizations. Look up one of these practices from an ancient civilization *outside* the Mediterranean (e.g., the Americas, Australia, Africa, Asia) and describe how it demonstrates this civilization's understanding of chemical processes.
 2. Empedocles believed that there were four elements: fire, air, earth, and water. Where else have you seen the four classical elements in the modern day (e.g., in popular media or modern philosophy)?
 3. The word *atom* comes from the Greek word for uncuttable. Is this an appropriate name, given what we know now about subatomic structures? Why or why not?
+4. In what ways was Islamic alchemy similar and different from Ancient Greek and Roman alchemy? In what ways was Islamic alchemy similar and different from early European chemistry?
