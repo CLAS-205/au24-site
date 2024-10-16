@@ -17,11 +17,11 @@ grandparent: Textbook
 1. Continuation of history of chemistry from Lesson 9
 2. Learn about the development and notation in the periodic table.
 
-# Elements in Alchemy
+## Elements in Alchemy
 
 As we've seen in Lesson 9, the concept of elements in alchemy was fundamentally different from the modern understanding of chemical elements. Alchemists sought to understand the nature of matter and its transformations, often focusing on the idea of transmutation—the process of changing one substance into another, particularly the transformation of base metals into gold.
 
-## Classical Elements
+### Classical Elements
 
 In alchemical traditions, the classical elements consisted of four primary substances: earth, air, fire, and water. Each of these elements was associated with specific qualities: earth was cold and dry, air was hot and wet, fire was hot and dry, and water was cold and wet. This classification system allowed alchemists to categorize materials and understand their properties in relation to one another. The interplay between these elements was thought to influence not only physical substances but also human health and temperament, leading to a holistic view of the natural world.
 
