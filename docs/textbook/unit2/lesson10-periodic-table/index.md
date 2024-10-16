@@ -146,7 +146,7 @@ The ability to create and study synthetic elements enriched the periodic table a
 13. barium
 14. iodine
 15. bromine
-16. chlorine
+16. iridium
 17. krypton
 18. technetium
 19. spectroscopy
