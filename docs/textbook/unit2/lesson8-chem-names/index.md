@@ -40,8 +40,27 @@ As far as bioscientific vocabulary goes, when you add a root and a diminutive, y
 
 {: .note}
 > All diminutives are noun-forming endings.
- 
-The following is a list of all diminutives, along with which language they are derived from. 
+
+The following is a list of all diminutives, along with which language they are derived from. Note that diminutives can be affixed to roots and endings of any language origin.
+
+| Diminutive    | Language of origin    |
+| :---          | :---                  |
+| -ion          | Greek                 |
+| -idion        | Greek                 |
+| -arion        | Greek                 |
+| -isk          | Greek                 |
+| -iscus        | Greek                 |
+| -ium          | Latin                 |
+| -idium        | Latin                 |
+| -arium        | Latin                 |
+| -ule/-ole/-le | Latin                 |
+| -ulus/-ula/-ulum  | Latin             |
+| -el(le)       | Latin                 |
+| -ellus/-ella/-ellum | Latin           |
+| -cule/-cle/-culum | Latin             |
+| -il           | Latin                 |
+| -uncle/-unculus | Latin               |
+| -et(te)       | Latin                 |
 
 {: .note}
 > **Why are all these diminutives spelled differently if they mean the same thing?**\n
@@ -53,9 +72,7 @@ To understand how Greek and Latin roots and endings are used in chemical science
 
 ### Elements
 
-Elements are the fundamental building blocks of matter, each consisting of atoms that share the same number of protons in their nuclei. The periodic table categorizes these elements based on their properties and atomic structure. The names of many elements are derived from Latin and Greek, reflecting their historical discovery and the etymology of their characteristics. For example, "Hydrogen" comes from the Greek roots "hydro" (water) and "gen" (creation), signifying its role in forming water when it combines with oxygen.
-
-Each element has a unique symbol, often a one- or two-letter abbreviation. The symbols often derive from their Latin names, such as "Na" for sodium (from "Natrium") and "Fe" for iron (from "Ferrum"). Understanding these roots not only helps in memorizing the elements but also provides insight into their properties and uses. For instance, elements like "Chlorine" (from the Greek "chloros," meaning green) highlight the visual aspects associated with certain chemical properties.
+Elements are the fundamental building blocks of matter, each consisting of atoms that share the same number of protons in their nuclei. The periodic table categorizes these elements based on their properties and atomic structure. The names of many elements are derived from Latin and Greek, reflecting their historical discovery and the etymology of their characteristics. For example, "Hydrogen" comes from the Greek roots "hydro" (water) and "gen" (creation), signifying its role in forming water when it combines with oxygen. "Chlorine" comes from the Greek root "chlor", since it has a greenish hue in its gaseous state.
 
 Elements can be classified into metals, nonmetals, and metalloids (see the *-oid* ending at work!), each group exhibiting distinct characteristics. Metals tend to conduct electricity and heat well, while nonmetals have varied properties. Some exist naturally as gases, like helium or neon. Others exist as solids, like carbon. Metalloids exhibit intermediate properties, bridging the gap between metals and nonmetals. For example, silicon is a metalloid that works well as a semiconductor, so it's often used in electronics.
 

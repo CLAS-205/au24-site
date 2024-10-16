@@ -51,7 +51,7 @@ The legacy of alchemical metalwork also persists in contemporary society, influe
 
 The quest to classify elements gained momentum in the late 18th and early 19th centuries as chemists sought to systematize the growing body of knowledge about known substances. John Dalton, in 1803, proposed an early table of atomic weights, marking the beginning of a more organized approach to understanding chemical elements. His atomic theory posited that each element is composed of unique atoms with specific weights, allowing for comparisons between different substances. This early framework provided a foundational structure for the burgeoning field of chemistry.
 
-Dalton's work was pivotal, yet it lacked comprehensiveness, as many elements were not included in his atomic weight table. The understanding of atomic weights was still rudimentary, and as new elements were discovered, the need for a more systematic classification became apparent. Chemists began refining their definitions and methods for determining atomic weights, leading to significant developments in the field. 
+Dalton's work was pivotal, yet it lacked comprehensiveness, as many elements were not included in his atomic weight table. The understanding of atomic weights was still rudimentary, and as new elements were discovered, the need for a more systematic classification became apparent. Chemists began refining their definitions and methods for determining atomic weights, leading to significant developments in the field.
 
 The limitations of Dalton's table prompted further research and experimentation. Other scientists, such as Jöns Jacob Berzelius, contributed to the field by developing more accurate methods for measuring atomic weights and systematically categorizing elements. Berzelius introduced a new system of chemical symbols, which enhanced communication among chemists and facilitated the recording of chemical reactions.
 
@@ -115,6 +115,29 @@ Overall, the era of synthetic elements represents a significant milestone in the
 | :---:         | :---:                 | :---                      | :---              |
 
 ## Vocabulary Practice
+
+**Practice Set A:** Identify the roots in each of the following words, give their language of origin, and their definitions. Also give their part of speech. Then, following the guidelines in Lesson 4, arrange the definitions of the individual roots to create a literal definition.
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
 
 ## Reflection Questions
 
