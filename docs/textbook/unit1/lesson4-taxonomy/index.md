@@ -106,8 +106,8 @@ The Renaissance marked a renewed interest in nature and science, leading to sign
 
 <div style="display: block; text-align: left;">
     <div style="margin-bottom: 20px;">
-        <img src="../../../../assets/images/tournefort.jpg" alt="The French naturalist Joseph Pitton de Tournefort." style="max-width: 60%; height: auto; float: left; margin-right: 20px;">
-        <figcaption style="text-align: left; margin-top: 5px;"><i>The French naturalist Joseph Pitton de Tournefort.. Image credit: Wikipedia</i></figcaption>
+        <img src="../../../../assets/images/tournefort.jpg" alt="The French naturalist Joseph Pitton de Tournefort." style="max-width: 40%; height: auto; float: left; margin-right: 20px;">
+        <figcaption style="text-align: left; margin-top: 5px;"><i>The French naturalist Joseph Pitton de Tournefort. Image credit: Wikipedia</i></figcaption>
     </div>
     <p style="margin: 0;">The work of French naturalist and botanist <b>Joseph Pitton de Tournefort</b> in the late 17th century also played a pivotal role in taxonomy. Tournefort is best known for his classification of plants, which he organized based on their floral structures. His system focused on the physical characteristics of plants, rather than a strict hierarchical system. Tournefort's influence was significant, as he established the concept of a <i>genus</i>, which later taxonomies adopted and expanded upon. His classifications emphasized the importance of morphology in understanding plant relationships, paving the way for more systematic botanical studies.</p>
     <p> </p>
