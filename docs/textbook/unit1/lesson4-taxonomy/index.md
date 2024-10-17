@@ -64,14 +64,13 @@ Greek, on the other hand, contributes to many of the root words used to describe
 
 ### The Aristotelian System
 
-<div style="display: flex; align-items: center;">
-    <div style="flex: 1; margin-right: 20px;">
-        <p>Though the practice of naming, classifying, and identifying plant and animal species was vital to the development of early civilizations (as it was important to know which plants were edible, medicinal, and poisonous), the first widely-used system of classification in the West came from the Greek philosopher <b>Aristotle</b>. </p>
-    </div>
-    <div style="flex: 0 0 auto;">
-        <img src="../../../../assets/images/aristotle.png" alt="A bust of the Greek philosopher Aristotle." style="max-width: 30%; height: auto;">
+<div style="display: block; text-align: left;">
+    <div style="margin-bottom: 20px;">
+        <img src="../../../../assets/images/aristotle.png" alt="A bust of the Greek philosopher Aristotle." style="max-width: 60%; height: auto; float: left; margin-right: 20px;">
         <figcaption style="text-align: left; margin-top: 5px;"><i>A bust of Aristotle. Image credit: Wikipedia</i></figcaption>
     </div>
+    <p style="margin: 0;">Though the practice of naming, classifying, and identifying plant and animal species was vital to the development of early civilizations (as it was important to know which plants were edible, medicinal, and poisonous), the first widely-used system of classification in the West came from the Greek philosopher <b>Aristotle</b>. </p>
+    <p> </p>
 </div>
 
 In the 4th century BCE, Aristotle introduced a hierarchical classification system based on shared characteristics among living beings. He divided organisms into two main categories: plants and animals, further subdividing them based on observable traits such as habitat and physical attributes.
@@ -117,14 +116,13 @@ The Renaissance marked a renewed interest in nature and science, leading to sign
 
 ## The Linnaen System
 
-<div style="display: flex; align-items: center;">
-    <div style="flex: 1; margin-right: 20px;">
-        <p>Much of the contemporary taxonomic system owes greatly to Carl Linnaeus, an 18th-century Swedish naturalist and botanist. Linnaeus introduced a binomial nomenclature system in the 18th century, which revolutionized taxonomy by providing a standardized method for naming species. Each organism was assigned a two-part Latin name, consisting of the genus and species. This system not only brought clarity and consistency to naming practices but also facilitated communication among scientists worldwide. Linnaeus’s works, particularly *Systema Naturae*, systematically classified thousands of species, providing a framework that is still in use today.</p>
-    </div>
-    <div style="flex: 0 0 auto;">
-        <img src="../../../../assets/images/linnaeus.jpg" alt="Swedish naturalist Carl Linnaeus" style="max-width: 30%; height: auto;">
+<div style="display: block; text-align: left;">
+    <div style="margin-bottom: 20px;">
+        <img src="../../../../assets/images/linnaeus.jpg" alt="Carl Linnaeus" style="max-width: 60%; height: auto; float: left; margin-right: 20px;">
         <figcaption style="text-align: left; margin-top: 5px;"><i>Portrait of Carl Linnaeus by Alexander Roslin. Image credit: Wikipedia</i></figcaption>
     </div>
+    <p style="margin: 0;">Much of the contemporary taxonomic system owes greatly to Carl Linnaeus, an 18th-century Swedish naturalist and botanist. Linnaeus introduced a binomial nomenclature system in the 18th century, which revolutionized taxonomy by providing a standardized method for naming species. Each organism was assigned a two-part Latin name, consisting of the genus and species. This system not only brought clarity and consistency to naming practices but also facilitated communication among scientists worldwide. Linnaeus’s works, particularly *Systema Naturae*, systematically classified thousands of species, providing a framework that is still in use today.</p>
+    <p> </p>
 </div>
 
 Linnaeus emphasized observable characteristics, grouping organisms based on physical traits such as flower structure in plants and anatomical features in animals. In particular, he did away with the floral structure of Tournefort's system, since he recognized that not all plants produce flowers. Instead, Linnaeus categorized his plants based on their reproductive characteristics (a decision that earned him a controversial reputation among his contemporaries). Linnaeus found that some plants were sexually dimorphous, with some flowers producing either stamens (male parts) or pistils (female parts). Linnaeus classified plants according to the number of stamens and pistils their flowers produced, or whether a flower could have both stamens and pistils. (Linnaeus called such plants *monoecious*, from the Greek words "mono" (one) and "(o)ekos" (dwelling).) After experiments and observations with the male and female plants, Linnaeus confirmed Ray's theory that only plants of the same species could produce offspring.
