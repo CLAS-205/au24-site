@@ -105,7 +105,7 @@ For each of the following pairs of metallic compounds, give the oxidation level 
 
 ## Problem 6: Elements Unun-ymous
 
-Each of the following names is no longer used for the last few synthetic elements in the periodic table. For each of the deprecated names, give the current name of the same element. Then tell what/who the element was named after.
+Each of the following names is no longer used for the last few synthetic elements in the periodic table. For each of the deprecated names, give the current name of the same element. Then tell what/who the element's current name is derived from (i.e., not the deprecated names).
 
 (Hint: Do you recognize any of these numbers?)
 

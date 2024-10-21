@@ -20,6 +20,13 @@ search_exclude: true
 
 ## Vocabulary List
 
+| Root          | Language of origin    | Meaning                   | Example           |
+| :---:         | :---:                 | :---                      | :---              |
+| angle/angul   | Latin                 | angle                     | triangle          |
+| line(a)       | Latin                 | line                      | linear            |
+| rect          | Latin                 | straight, regular         | rectangle         |
+| sect          | Latin                 | to cut                    | section           |
+
 ## Vocabulary Practice
 
 ## Reflection Questions

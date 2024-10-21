@@ -16,88 +16,166 @@ search_exclude: true
 
 ## Objectives
 
+1. Learn an overview of key figures and ideas in Ancient Greek mathmatics
+2. Recognize various elements of the Greek tradition in the modern day
+3. Decentralize Greek influence from the narrative of mathematical history
+
 ## Readings
 
-In fact, what we would consider science and mathematics the Greeks would have called “natural philosophy”. Philosophy itself questions the nature of pretty much anything, from human emotion to the order of the universe. Natural philosophy asks questions and posits answers about the physical world, giving conjectures and reasoning for natural phenomena. For a long time, answers to those questions were given in mythologies and religion. But as the Greeks moved away from mythology and into philosophy, they began to develop a scientific method, conjectures, and ultimately a long-lasting tradition that carries into today.
-There are so many elements of Greek culture and language in the modern world, and many of the theories, philosophical, scientific, or otherwise, continued to be extremely important and relevant to fields like literature, geography, music, art, and natural sciences. Because this is a course in bioscientific terminology, I wanted to devote some time to thinking about the major figures in astronomy, mathematics, and medicine. Now, this video will mostly focus on mathematics and astronomy, but there will be an entire other video on Greek health and medicine. 
-Now, it’s easy to point at the ancient Greeks and credit them as the forerunners of modern science. In some ways, they are. But we have to take into account the fact that the Greek sphere of influence was largely in Europe and the Mediterranean. While there was some contact through the centuries with South and East Asia, there was no heavy realm of influence. Part of this is because of the Roman empire, of which the Greek city-states became provinces, and which appropriated and disseminated so much of Greek culture and philosophy. And because Rome eventually grew to swallow nearly all of Europe at one point, it makes sense that the Greeks by proxy would have had greater influence across Europe. But it’s important to remember that Europe is not the entire world, as much as the ancient Greeks and Romans liked to think that it was. Certainly, significant developments in science, math, and technology were made in Asia, Africa, and the Americas as well. There may well be entire classes devoted to scientific and mathematical achievements outside of Europe, but for now, let’s look at some contributions from some notable Greeks.
+What we would consider science and mathematics the Greeks would have called **natural philosophy**. Philosophy itself questions the nature of pretty much anything, from human emotion to the order of the universe. Natural philosophy asks questions and posits answers about the physical world, giving conjectures and reasoning for natural phenomena. For a long time, answers to those questions were given in mythologies and religion. As the Greeks moved away from mythology and into philosophy, they began to develop a method of scientific inquiry (though distinct from our modern scientific method), conjectures, and ultimately a long-lasting tradition that carries into the modern day.
 
-[Thales]
-The first of these is a fellow called Thales of Miletus, who lived from about the 620’s to the 540’s BCE. The origins of who really invented or started Greek philosophy are a little messy, but many can agree that Thales was one of the earliest, and the school of thought that he pursued laid the foundation for many later philosophers and mathematicians. 
+Now, it’s easy to point at the ancient Greeks and credit them as the forerunners of modern science. In some ways, they are. But we have to take into account the fact that the Greek sphere of influence was largely limited to Europe and the Mediterranean. While there was some contact through the centuries with South and East Asia, there was no heavy influence there. There was a strong mathematical tradition developed by scholars in India, China, and the Middle East outside of the theories developed by the ancient Greeks. In fact, what we now call the "Pythagorean" theorem actually appeared in Babylonian and Indian texts far before Pythagoras was even alive!
+
+{: .note}
+> The **Baudhayan theorem**, also called **Baudhāyana Śulvasūtra**, is a statement found in the Baudhayana sutras, a group of Vedic Sanskrit texts which contain mathematical writings. The Baudhayan theorem contains the same statement as the Pythagoren theorem: that the sum of the squares of the legs of a right triangle are equal to the sum of the square of the hypotenuse. The kicker? The Baudhayan theorem dates back to around 1000 BCE, while Pythagoras's earliest dates are around 570 BCE.
+
+How did the Greek mathematical tradition become so prevalent in the modern day? Part of this is because of the Roman empire, of which the Greek city-states became provinces, and which appropriated and disseminated so much of Greek culture and philosophy. Because Rome eventually grew to swallow nearly all of Europe at one point, the Greeks by proxy would have had greater influence across Europe. However, it’s important to remember that Europe is not the entire world, as much as the ancient Greeks and Romans liked to think that it was. Certainly, significant developments in science, math, and technology were made in Asia, Africa, and the Americas as well. There may well be entire classes devoted to scientific and mathematical achievements outside of Europe, but for now, let’s look at some contributions from some notable Greeks.
+
+### Thales
+The first of these is a fellow called Thales of Miletus, who lived from about the 620’s to the 540’s BCE. The origins of who really invented or started Greek philosophy are a little messy, but many can agree that Thales was one of the earliest, and the school of thought that he pursued laid the foundation for many later philosophers and mathematicians.
+
 Like I mentioned earlier, at this time in Greek intellectual history, the lines between what we’d consider philosophy and natural science were quite blurred. Thales is reported to have studied the fundamentals of engineering, some astronomy, and math. He engaged in simple physics problems and calculated the timings of solar eclipses and the solstices. He also created some of the first star charts for maritime navigation. He made a few achievements in mathematics and geometry.
+
 His most famous concept was the theory that all of nature is based on the existence of water. The idea of the “first principle”, or the idea that everything in the universe comes from one foundational building block, is not unusual– in fact, we might consider this to be hydrogen, the first element in the periodic table. An interesting coincidence that hydrogen is one of the elements that comprises water. You might be able to tell from its name that hydrogen (HYDRO) is indeed associated with water. Now where Thales got this idea of water being the first principle from, that’s uncertain. Aristotle, writing later, suggests that he got this idea because water was naturally observable as a solid, liquid, and a gas; that it could be found in both heat and cold; and that many natural body functions seemed to run on some kind of liquid or water-like substance.
+
 Thales was also credited with a few mathematical achievements, mostly in geometry. Diogenes Laertius writes that Thales learned geometry from the Egyptians, upon which he discovered the aptly-named Thales’ theorem. That’s a special case of the inscribed-angle theorem, which lets him draw a right triangle inside a circle, with proof that its greatest angle is 90 degrees.
+
 The phrase “know thyself” has also been attributed to Thales. This is an expression that basically means to understand your own mind and motivations in order to find peace with what you want and what you need. It’s actually more or less unknown who first came up with this phrase, and it’s variously been attributed to other well-known philosophers like Socrates or Plato. It’s an interesting theme that a lot of early philosophical work is difficult to trace back to one person, and so the same idea get attributed to multiple people, or in fact to the wrong person.
 
-[Pythagoras]
+### Pythagoras
 One such example is Pythagoras of Samos, who lived from about 570 to 495 BCE. He was a contemporary of Thales, meaning that he lived and worked about the same time. Importantly, we don’t actually have writings that survive from either of these folks, which is why attribution occurs with both of them.
-If you know Pythagoras, you’ve probably heard of his famous triangle theorem, the one that goes “a-squared plus b-squared equals c-squared” that tells you the relationship of the side lengths of a right triangle. Interestingly, though, there’s no proof that Pythagoras himself actually proved or even discovered this theorem! 
+If you know Pythagoras, you’ve probably heard of his famous triangle theorem, the one that goes “a-squared plus b-squared equals c-squared” that tells you the relationship of the side lengths of a right triangle. Interestingly, though, there’s no proof that Pythagoras himself actually proved or even discovered this theorem!
+
 In fact, there are quite a few other mathematical discoveries that are attributed to Pythagoras, such as calculations on the five regular solids and the Theory of Proportions (which says that two sequences are proportional if their corresponding elements have a constant ratio). Part of this was due to the fact that in his lifetime, Pythagoras had a reputation more as a mystic than a mathematician. He gained a cult following, and it’s possible that the discoveries and proofs that his followers and colleagues made were later attributed to him because they were all in the same cult or the same school of thought.
 We do know that Pythagoras taught and more or less believed in the immortality of the soul and reincarnation. This was one of the most important things that he and his followers believed in, which greatly influenced later philosophers like Plato. Because he believed that souls were immortal, a human soul may very well enter the soul of an animal or insect, and so the Pythagoreans kept to vegetarianism. The idea was that you didn’t want to accidentally consume the soul of, say, your grandparent. Pythagoras also did some work on celestial harmony, which is the idea that the spheres (or orbits of the sun, moon, stars, and planets) all followed some sort of discernible tune that could be discovered and reckoned by mathematics. This was an idea that was also quite influential on later philosophers.
 
-[Plato]
-Perhaps the most famous of Pythagoras’ successors was Plato, who lived in Athens around the 420s to 348 BCE. 
-Plato is best known for his written dialogues and philosophical frameworks, which often feature his teacher, Socrates. We don’t have anything by Socrates, so it’s always an interesting debate to figure out what is actually from Socrates and what’s been amended or filtered by Plato. Plato’s most famous work is probably the Republic, in which he describes the nature of justice by positing a theoretical ideal city-state. If you’ve ever heard of Plato’s Allegory of the Cave, that’s a rather well-known episode of the Republic.
-Outside of questions of justice and the nature of a city-state, though, the Republic does get into some math and cosmology. Plato was greatly influenced by Pythagoras when it came to the mathematical nature of the universe, to the extent that he recommended that those who would rule city-states be well-educated in mathematics. 
-If you recall the regular solids that Pythagoras was credited for doing work with, those same solids appear in Plato as well, this time called “Platonic”. They’re so named because in one of Plato’s other works, the Timaeus, Plato goes into much greater detail about math, natural philosophy, and the makeup of the universe. In that treatise, Plato theorizes that the natural elements of the world take the shape of the regular solids. And so, much after the fact, those regular solids were named after him. 
+### Plato
+Perhaps the most famous of Pythagoras’ successors was Plato, who lived in Athens around the 420s to 348 BCE. Plato is best known for his written dialogues and philosophical frameworks, which often feature his teacher, Socrates. We don’t have anything by Socrates, so it’s always an interesting debate to figure out what is actually from Socrates and what’s been amended or filtered by Plato. Plato’s most famous work is probably the Republic, in which he describes the nature of justice by positing a theoretical ideal city-state. If you’ve ever heard of Plato’s Allegory of the Cave, that’s a rather well-known episode of the Republic.
+
+Outside of questions of justice and the nature of a city-state, though, the Republic does get into some math and cosmology. Plato was greatly influenced by Pythagoras when it came to the mathematical nature of the universe, to the extent that he recommended that those who would rule city-states be well-educated in mathematics.
+
+If you recall the regular solids that Pythagoras was credited for doing work with, those same solids appear in Plato as well, this time called “Platonic”. They’re so named because in one of Plato’s other works, the Timaeus, Plato goes into much greater detail about math, natural philosophy, and the makeup of the universe. In that treatise, Plato theorizes that the natural elements of the world take the shape of the regular solids. And so, much after the fact, those regular solids were named after him.
+
 Now, notably, even though all three of the figures we’ve seen so far dabbled in mathematics to some degree, none of them could really be called mathematicians–at least, not in a sense that we recognize.
 
-[Euclid]
+### Euclid
 That honor would go to Euclid, who lived probably sometime in the 300s BCE. He’s often known as the father of geometry because of his extensive and thorough writings and study of the discipline. It’s important to note that in the Ancient Greek world, geometry was seen as synonymous with math, rather than a branch of it. Practically speaking, one needed a good sense of geometry to take measures for land, buildings, and infrastructure. Geometry was also the path to understanding and measuring the natural world and the cosmos.
+
 Euclid’s major contribution was a treatise called the Elements, which has a huge impact on the European mathematical tradition, even into today. I specify that this is the European tradition, which has since become more or less the standard of modern mathematics, even in fields outside of geometry.
+
 Euclid’s Elements established the foundations of proof-based mathematical reasoning, laying out not only the things we know but how we know them. If you’ve studied mathematical reasoning or real analysis, you’ve been following in Euclid’s footsteps! The first few chapters of the Elements start with a bunch of definitions, or axioms, that lay down solid rules for what points, lines, planes, and angles are, and how they can interact with each other. From there, Euclid gives instructions for how to create triangles and polygons and circles, and then he gives further corollaries and theorems for their properties. Maybe that sounds boring and technical, but it’s really an elegant piece of work that not only examines the nature of the physical world and its reconstruction, but also the ways that we are able to know and prove things.
+
 It’s hard to really pin down Euclid’s dates, since even though most of the Elements survives, not much else does. He does quite a bit of work with triangles and two-dimensional figures, so some scholars believe that he might have been a contemporary of Plato, certainly placed much later than Pythagoras. Unfortunately, as far as dates go, we don’t have much to go on.
 
-[Archimedes]
+### Archimedes
 We are more sure of the dates of Archimedes of Syracuse, who lived from about 287 to 212 BCE. Why these exact dates? Well, we know that he died in the siege of Syracuse during the Second Punic War, in 212 BCE. A Byzantine scholar by the name of John Tzetzes says that Archimedes was 75 years old when he died, so when you do the math, that’s what the years work out to.
-Archimedes followed in Euclid’s footsteps but took geometry a step and a dimension further to deal with solid objects, their properties, and their interactions. 
-Because of this, Archimedes is regarded as perhaps the greatest mathematician of the ancient world. He was basically a Renaissance man before the Renaissance was even invented!
-Much of his work can be considered the precursor to modern calculus and physics, which is a really big deal given that modern calculus is built on the notion of the infinitesimal–the super small (and this, depending on which flavor of mathematical history you prefer, was alternately developed by Isaac Newton and/or Gottfried Wilhelm Leibniz in the early eighteenth century, nearly two thousand years later). The work of Archimedes more or less gives a precedent of advanced mathematical reasoning and intuition all the way back in the ancient world.
+Archimedes followed in Euclid’s footsteps but took geometry a step and a dimension further to deal with solid objects, their properties, and their interactions.
+
+Because of this, Archimedes is regarded as perhaps the greatest mathematician of the ancient world. He was basically a Renaissance man before the Renaissance was even invented! Much of his work can be considered the precursor to modern calculus and physics, which is a really big deal given that modern calculus is built on the notion of the infinitesimal–the super small (and this, depending on which flavor of mathematical history you prefer, was alternately developed by Isaac Newton and/or Gottfried Wilhelm Leibniz in the early eighteenth century, nearly two thousand years later). The work of Archimedes more or less gives a precedent of advanced mathematical reasoning and intuition all the way back in the ancient world.
+
 Archimedes is best known for his inventions. He was a geometrist, a theoretical mathematician, and an engineer who worked with spheres, buoyancy, revolutions, and cylinders. It would be difficult to list all the accomplishments and discoveries he made in this video, or else we’d be here all day. We don’t have a lot of original work surviving from him in the same way we more or less have most of Euclid’s Elements. We do have some writings that were transcribed and preserved at the Library of Alexandria, but a lot of Archimedes’ work only survives in fragments and in quotations by other writers.
+
 One famous story about Archimedes, though, is his association with the phrase “Eureka!”. The story goes that the king of Syracuse had commissioned a crown to be made out of gold but wanted to check to make sure that the crown was made of solid gold, and that it wasn’t just painted or gilded. So the king asked Archimedes to figure out a way to determine if the crown was solid gold or not, without melting down the crown or breaking off a piece or otherwise damaging it. Archimedes sat on this problem for a while, and one day while he was taking a bath in the bathhouse, he noticed that when he sat down, the water level rose. Archimedes realized that the water displacement could be used to calculate the volume and density of the crown without damaging it, and he was so excited that he ran out of the bathhouse completely naked, yelling “Eureka!” [pronounced in Greek, closer to “Heureka”], which is Greek for “I have found it!”
+
 Whether that story’s actually true or not is up for debate, seeing as how it was written nearly three hundred years after Archimedes was alive, but it’s fun to think about nonetheless.
 
-[Apollonius]
+### Apollonius
+
 It might be easy to think that Greek mathematics and engineering more or less peaked with Archimedes, but there were still a good number of mathematicians and philosophers following in his and Euclid’s footsteps.
+
 One of these was Apollonius of Perga, who was a mathematician and astronomer living around 240 to 190 BCE. He’s not to be confused with Apollonius of Rhodes, who wrote the Argonautica.
 He combined the theories and ideas from both Euclid and Archimedes–two-dimensions, lines and planes from Euclid; curved surfaces and conic sections from Archimedes– to do more work with ellipses and conic sections, beyond the circle. In fact, his definitions of parabolas, hyperbolas, and ellipses are still the ones that we use today.
+
 In fact, Apollonius was the first to propose eccentric orbits for the planets. In other words, he came up with the idea that the planets don’t move in perfect circles. Whether he believed that the planets orbited the Earth or the Sun is difficult to know. Heliocentrism was technically around by this time, but it likely didn’t pick up much traction or study. 
+
 Not much of Apollonius’ work survives, either, also mostly in fragments or quotations. Apollonius’ more foundational ideas of astronomy–namely, that the planets had eccentric orbits–were still widely believed up to the Medieval and Renaissance periods. More work on the movement of the planets and towards heliocentrism would be done by folks like Nicolaus Copernicus, Galileo Galilei, and Tycho Brahe. 
-[Eratosthenes]
+
+### Eratosthenes
 A bit closer to home, Eratosthenes of Cyrene was regarded as the father of geography. He also did some work with conic sections and angles, but he applied these towards geography (which you may recall from the bases is the process of writing about the earth).
+
 His most notable achievement was measuring the circumference of the Earth, which he did by measuring the length of obelisk shadows in two different cities, calculating the distance between them and the time of day, and then using trigonometry to figure out how many degrees of the Earth’s surface were between the cities. He did this several times, with the assistance of survey data available at the Library of Alexandria. Then he was able to extrapolate the entire circumference of the Earth as roughly 24,660 miles. Seeing as how the actual circumference of the Earth is 24,901 miles, Eratosthenes got pretty close for the tools he was working with!
+
 Beyond the measure of the Earth, Eratosthenes also calculated the Earth’s axial tilt within a few degrees, and he created a map with parallels and meridians of the known world. He was a cartographer as well as a geographer. He also developed a system of scientific chronology, or the practice of dating historical events using records and astronomical calculations.
+
 Much of Eratosthenes’ achievements probably owed to his position as a head librarian in the Library of Alexandria. Now, I’ve mentioned this particular library a few times already. Let’s see what that’s all about.
 
-[Library of Alexandria]
+## Library of Alexandria
 The Library of Alexandria (often called the Great Library) was probably the largest and most important library of the ancient Mediterranean, at least as far as everyone hitherto mentioned is concerned.
+
 It was established and patroned in Egypt by the Ptolemies, a family descended from Ptolemy Soter, who was a general in the army of Alexander the Great. This is also a reason why the library was established in a city called Alexandria, as it was named after the eponymous Great.
+
 Alexandria was at a strategic location along the Egyptian coast. Its lighthouse, which is unfortunately no longer around, was considered one of the Seven Wonders of the Ancient World. Because it was a port city, scholars and educators from all over the Mediterranean and Middle East–from Greece, Rome, North Africa, Byzantium, Asia Minor–were able to access this city and its incredible library. The Ptolemies created the library as part of a greater research institution with the idea of a universal library in mind, one that housed all the known written works of the ancient world and could be accessible to anyone who wanted to study them.
+
 As such, Alexandria itself became synonymous with its library, a center for learning and the dissemination of knowledge from all over the Mediterranean. The library’s archives weren’t just limited to mathematical treatises; you could find works on Homer and poetry, mythology, language, grammar, engineering, and history. In fact, the first library catalog of the Western world is believed to have been written for the Library of Alexandria.
 Unfortunately, there is a reason I’m unable to show you a picture of what the library looks like, because it doesn’t exist anymore. There is a lovely reconstruction and functional library in Alexandria that you can visit, but the original library suffered the fate as many libraries in wartime societies; it was variously overrun, underfunded, and burned–most famously by Julius Caesar in 48 BCE.
+
 As a result, many of the writers and scholars who we know were active at the Library of Alexandria have their works now lost to us. Pretty much everyone I’ve talked about so far since Euclid has either written their treatises in or at the library, or have had them copied over into its collection. The loss of the Library of Alexandria truly is one of the great tragedies, I believe, when it comes to intellectual history in the ancient Mediterranean.
 
-[Ptolemy]
+### Ptolemy
 Now, that’s not to say that all hope was completely lost. After all, there were still people out there studying and making use of what resources they could. Claudius Ptolemy, of ambiguous relation to the Ptolemies who established the library, was an astronomer and mathematician when Egypt (and by extension, Alexandria) was a Roman province.
+
 The Great Library of Alexandria was in decline under Roman rule for a variety of reasons, but there were other prominent libraries that rose up in Alexandria. It’s likely that Claudius Ptolemy worked in one or more of these, as Alexandria had not completely lost its reputation as a knowledge center. In fact, Ptolemy’s presence there made his work especially more relevant to later Byzantine, Islamic, and Western European scientific traditions. 
+
 He’s best known for his work Almagest, which is a combined Arabic-Greek work meaning “the greatest”. It has 13 sections outlining pretty much everything Ptolemy knew about astronomy, the movement of the planets, measurements of time, eclipses, and the structure of the known universe. 
+
 He also made conjectures about music and cartography in Almagest, since these disciplines were not considered too far from astronomy (a notion dating all the way back to Pythagoras).
 The Almagest was huge hit in Medieval and Renaissance Europe and in the Middle East. Translations and editions of his work in Arabic, Greek, and Latin were composed from the 9th century all the way up to the 16th century. Many of the technical terms were abridged or edited, and because of this, some scholars believe that few people actually had the mathematical training to understand everything that was in this book.
+
 Nevertheless, Ptolemy’s work on spheres and planetary motion had lasting influence into the European astronomical traditions, with nearly direct influence on the works of Copernicus, Galileo, Brahe, and Johannes Kepler.
 
-[Hypatia]
+### Hypatia
 Now, speaking of Ptolemy and speaking of Alexandria, I could not get this far into Greek scientific and intellectual history without bringing up one of my favorite figures–Hypatia of Alexandria.
+
 Though she’s not the first female mathematician in Alexandria (that honor goes to a woman named Pandrosion), Hypatia is the first for whom we have a surviving record. Hypatia was a mathematician and astronomer, but a lot of the chronicle of her life gives detail of her as an educator and a teacher. 
+
 Hypatia also wrote a lot of commentaries. It’s believed that she edited the surviving copy of Ptolemy’s Almagest that we have today, and she also wrote commentaries on other mathematical works, including one on conic sections by Apollonius of Perga, who I talked about just a few slides earlier. Though it may not seem too impressive, commentaries are vital resources for anyone trying to understand or study a text that was previously written. It speaks a lot to Hypatia’s sense as a teacher that she was able to not only go into technically and linguistically challenging texts, but that she was able to make them accessible to others. As I mentioned earlier, the common consensus was that a lot of people who were making edits and abridgments to the Almagest probably weren’t able to understand it too well. Hypatia, by her reputation, almost certainly did. She was also quite renowned as a philosopher, studying and teaching the works of Plato and Aristotle.
+
 Hypatia’s life was cut short by a Christian mob in 415 CE, quite violently, and likely the result of political or religious motivation. Hypatia herself was non-Christian, but she had gotten along well with Christians and non-Christians alike, so her murder came as a shock to many. In those days, you didn’t go around murdering a philosopher, much less a teacher, much less a woman. After her death, she was claimed as a martyr for philosophy and women’s rights by varying groups. The rest of her life and the events leading to her murder are absolutely fascinating to read, and I would definitely recommend you to look up some more about her. She had a very creative and effective, if not perhaps traumatizing, way of getting rid of one of her suitors, but that’s a story I’ll leave for you to find out if you’re interested.
 
 ## Vocabulary List
 
 | Root          | Language of origin    | Meaning                   | Example           |
 | :---:         | :---:                 | :---                      | :---              |
+| icos(a)       | Greek                 | 20                        | icosahedron       |
+| (a)gon        | Greek                 | angle                     | pentagon          |
+| arithm(o)     | Greek                 | number                    | arithmetic        |
+| scel(e/o)     | Greek                 | leg                       | isosceles         |
+| iso           | Greek                 | equal                     | isometric         |
+| gram          | Greek                 | written                   | telegram          |
+| hedron        | Greek                 | geometric solid with X faces | hexahedron     |
+| orth(o)       | Greek                 | straight, regular         | orthodontics      |
+| pto/pit(e)    | Greek                 | to fall                   | peripiteia        |
+| ball/bol(e/a) | Greek                 | to throw                  | hyperbole         |
+| ten(u/e)      | Greek                 | to stretch                | tenuous           |
 
 ## Vocabulary Practice
 
 **Practice Set A:** Identify the roots in each of the following words, give their language of origin, and their definitions. Also give their part of speech. Then, following the guidelines in Lesson 4, arrange the definitions of the individual roots to create a literal definition.
 
+1. isomorphic
+2. asymptotic
+3. orthogonal
+4. parallelogram
+5. heptagon
+6. icosahedron
+7. logarithm
+8. parabola
+9. hypothesis
+10. hypotenuse
+11. polynomial
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+
 ## Reflection Questions
+
+1. Some Greek letters take on specialized meanings in mathematics. Look up and tell the definitions or conventional usages of the following letters: delta (Δ/δ), epsilon (ε), mu (μ), pi (π), sigma (Σ/σ)
+2. 
+3.
+4.
