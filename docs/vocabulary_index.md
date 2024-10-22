@@ -374,12 +374,14 @@ All vocabulary from each unit and lesson can be found here.
 | brom          | Greek                 | stench, stink             | bromide           |
 | cycl(o/e)     | Greek                 | circle                    | bicycle           |
 | mall(e)       | Latin                 | hammer                    | mallet            |
+| tellu(r/s)    | Latin                 | earth                     | tellurian         |
 | nucle(us)     | Latin                 | nut, nutshell             | nucleus           |
 | radi(o)       | Latin                 | ray (as of the sun)       | radiant           |
 | med/mid(i)    | Latin                 | middle                    | median            |
 | fug(a)        | Latin                 | to flee, to go away from  | fugue             |
 | pet(it)       | Latin                 | to seek, to go towards    | petition          |
 | gress/grade   | Latin                 | to go, to advance         | progress          |
+
 
 ## Unit 3
 
