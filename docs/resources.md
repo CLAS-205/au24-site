@@ -37,13 +37,13 @@ A list of additional resources for the class can be found here, organized by top
 - *Elemental: How the Periodic Table Can Now Explain (Nearly) Everything*. Tim James, Abrams Press, 2019.
 - *The Disappearing Spoon: And Other True Tales of Madness, Love, and the History of the World from the Periodic Table of the Elements*. Sam Kean, Back Bay Books, 2010.
 
-<!-- ## Math and Astronomy
+## Math and Astronomy
 
 - *Math Through the Ages: A Gentle History for Teachers and Others*. William P. Berlinghoff, Fernando Q. Gouvêa, Dover Publications, 2014.
 - *Euclid's Window: The Story of Geometry from Parallel Lines to Hyperspace*. Linard Mlodinow, Free Press, 2002.
 - *Ancient Skies: Constellation Mythology of the Greeks*. David Weston Marshall, Countryman Press, 2018.
 - *The Astronomers' Library: The Books that Unlocked the Mysteries of the Universe*. Karen Masters, Ivy Press, 2024.
 
-## Medicine and Anatomy
+<!-- ## Medicine and Anatomy
 
 - *The Anatomists' Library: The Books that Unlocked the Secrets of the Human Body*. Colin Salter, Ivy Press, 2023. -->
