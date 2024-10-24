@@ -17,5 +17,3 @@ In Unit 2, you'll explore more roots and word endings as they apply to chemical 
 - Periodic Table
 - Project
 
-{: .warning}
-> This part of the site is still under construction. Please check back soon!

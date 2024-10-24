@@ -16,7 +16,29 @@ search_exclude: true
 
 ## Objectives
 
-## Readings
+1. Learn methods of Roman arithmetic
+2. Compare and contrast Greek theoretical math with Roman practical math
+3. Discover the wys in which Romans used engineering
+
+## Roman Numerals Review
+
+## Roman Arithmetic
+
+### Addition
+
+### Substraction
+
+### Multiplication
+
+## Roman Engineering
+
+### Aqueducts
+
+### Sewers
+
+### Roads
+
+### War Machines
 
 ## Vocabulary List
 
@@ -30,3 +52,6 @@ search_exclude: true
 ## Vocabulary Practice
 
 ## Reflection Questions
+
+1. Compare and contrast the methods of Roman arithmetic with the arithmetic we're familiar with (using Hindu-Arabic numerals). Which system is more efficient, and why?
+2. 
