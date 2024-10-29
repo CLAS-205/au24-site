@@ -22,11 +22,27 @@ search_exclude: true
 
 ## Roman Numerals Review
 
+Recall that the Roman numeral system is based on letters to represent numeric values. Roman numerals are formed by combining letters in order from greatest values to least values, then adding them together. Here is a numeral-to-number conversion chart, for your convenience:
+
+| Roman Numeral | Hindu-Arabic Value |
+| :---:         | :---:              |
+| I             | 1                  |
+| V             | 5                  |
+| X             | 10                 |
+| L             | 50                 |
+| C             | 100                |
+| D             | 500                |
+| M             | 1000               |
+
+As an example, the Roman numeral XVII would be 10 + 5 + 1 + 1 = 17.
+
 ## Roman Arithmetic
+
+We also discussed
 
 ### Addition
 
-### Substraction
+### Subtraction
 
 ### Multiplication
 
