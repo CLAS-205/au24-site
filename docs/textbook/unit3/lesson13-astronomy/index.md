@@ -24,19 +24,17 @@ search_exclude: true
 
 Ancient civilizations relied heavily on celestial phenomena to guide their agricultural practices, navigate the seas, and develop calendars. The Greeks, Egyptians, and Babylonians made significant contributions to astronomy, each building upon the knowledge of the previous cultures. They employed simple tools like sundials, water clocks, and later, more sophisticated instruments like astrolabes, to track celestial movements and time.
 
-The practice of astronomy was often intertwined with astrology, where celestial bodies were believed to influence human affairs. Many cultures created elaborate myths to explain the movements and positions of stars and planets. Observatories were constructed, and meticulous records were kept of celestial events, such as eclipses and the positions of planets. These observations laid the groundwork for more systematic approaches to astronomy, leading to the development of mathematical models and theories.
+The practice of astronomy in Ancient Greece was often intertwined with astrology, where celestial bodies were believed to influence human affairs. Many cultures created elaborate myths to explain the movements and positions of stars and planets. Observatories were constructed, and meticulous records were kept of celestial events, such as eclipses and the positions of planets. These observations laid the groundwork for more systematic approaches to astronomy, leading to the development of mathematical models and theories.
 
 The Greeks were among the first to distinguish between the movements of celestial bodies. They classified stars as either "fixed" stars, which remained in constant positions relative to each other, or "wandering" stars, which included the planets. This distinction highlighted their keen observational skills and their understanding of the cosmos as dynamic and complex. Greek astronomers meticulously recorded the positions of stars and planets, contributing to the development of star catalogs and early celestial maps. In addition to theoretical advancements, ancient Greek astronomy was closely tied to practical applications, such as navigation and agriculture. Farmers relied on astronomical observations to determine the best times for planting and harvesting, while sailors used the stars for navigation across the Mediterranean Sea.
 
-### Thales
-
 ### Anaximander
 
-Anaximander, a student of Thales, made substantial advancements in astronomy and cosmology during the 6th century BCE. He is best known for proposing one of the earliest models of the universe, suggesting that the Earth floats freely in space, unsupported by anything beneath it. This radical idea contrasted sharply with earlier views and represented a significant step toward a more scientific understanding of the cosmos.
+Anaximander, a student of Thales (from [Lesson 11](../lesson11-greek-math/index.md#thales)), made substantial advancements in astronomy and cosmology during the 6th century BCE. He is best known for proposing one of the earliest models of the universe, suggesting that the Earth floats freely in space, unsupported by anything beneath it. This radical idea contrasted sharply with earlier views and represented a significant step toward a more scientific understanding of the cosmos.
 
 Anaximander introduced the concept of the "apeiron," or the infinite, as the source of all things. He believed that celestial bodies, including the sun, moon, and stars, were not divine entities but rather physical phenomena. This perspective marked a shift away from mythological interpretations, emphasizing a more naturalistic approach to understanding the universe.
 
-He also created one of the first maps of the known world, which reflected his interest in geography and its relationship to celestial phenomena. Anaximander's work laid the groundwork for future philosophers and astronomers, influencing later thinkers like Ptolemy and Aristotle. His ideas about the cosmos and the Earth’s position within it continued to resonate throughout ancient Greek philosophy.
+He also created one of the first maps of the known world, which reflected his interest in geography and its relationship to celestial phenomena. Anaximander's work laid the groundwork for future philosophers and astronomers, influencing later natural philosophers like Ptolemy and Aristotle. His ideas about the cosmos and the Earth’s position within it continued to resonate throughout ancient Greek philosophy.
 
 ### Aristarchus of Samos
 
@@ -65,10 +63,6 @@ Ptolemy introduced the concept of "epicycles" to explain the complex motions of 
 Ptolemy's work, particularly the "Almagest," included detailed observations, mathematical calculations, and star catalogs. He compiled and refined the astronomical knowledge of his predecessors, providing a comprehensive framework for understanding celestial motions. His model was influential in both astronomy and astrology, as it provided a basis for predicting celestial events and their supposed impacts on earthly affairs.
 
 Despite its widespread acceptance, the Ptolemaic system faced challenges as observations of celestial phenomena improved. Over time, discrepancies between predictions and observations led to calls for new models. Ultimately, the Ptolemaic system was replaced by the heliocentric model of Copernicus in the 16th century, but Ptolemy's contributions to astronomy laid the groundwork for future developments and helped shape the course of scientific inquiry for centuries.
-
-Sure! Here’s a detailed exploration of each of the specified topics.
-
----
 
 ## Roman Astronomy and Astrology
 Roman astronomy was heavily influenced by earlier Greek models but adapted to fit Roman cultural and religious contexts. While the Greeks had laid the foundations for astronomical observation and theory, the Romans focused on practical applications of this knowledge, especially in agriculture, navigation, and timekeeping. The Roman calendar was significantly influenced by astronomical events, with festivals and agricultural practices often aligned with solar and lunar cycles.
@@ -127,14 +121,39 @@ In the night sky, Hercules is depicted as a kneeling figure, and it contains som
 
 Hercules' mythological narratives often reflected Roman values of bravery and perseverance in the face of adversity. The constellation served as a reminder of these virtues, inspiring individuals to strive for greatness. The enduring legacy of Hercules in both mythology and astronomy illustrates the interplay between human experience and the celestial realm, enriching the cultural tapestry of ancient Rome.
 
-
 ## Vocabulary List
+
+| Root          | Language of origin    | Meaning                   | Example           |
+| :---:         | :---:                 | :---                      | :---              |
 
 ## Vocabulary Practice
 
+**Practice Set A:** Identify the roots in each of the following words, give their language of origin, and their definitions. Also give their part of speech. Then, following the guidelines in Lesson 4, arrange the definitions of the individual roots to create a literal definition.
+
+1. telescope
+2. interstellar
+3. cosmology
+4. nebula
+5. constellation
+6. entropy
+7. asteroid
+8. 
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+
 ## Reflection Questions
 
-1.
-2.
-3.
+1. Look up and briefly summarize the story behind any of the constellations in the Western Zodiac.
+2. The Greek constellations were largely inherited from the Babylonians. Look up a Babylonian constellation and give its Greek (Western) equivalent. How are the two related, if at all?
+3. 
 4.
