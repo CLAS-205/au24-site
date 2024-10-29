@@ -86,25 +86,45 @@ Try verifying this as well!
 
 ### Multiplication
 
-The Romans also had an interesting way they did multiplication. I'm going to talk about the algorithm for how they do this first before giving the example, because I think it helps to have all the steps out first before seeing the example. So unlike modern multiplication where we can just multiply a whole bunch of numbers in straight sequence, the Roman algorithm for multiplying numbers can only do two at a time. The two numbers are set up in a table. It doesn't matter which number goes where. Usually the smaller number is put on the left side and the greater number is put on the right side. 
+The Romans also had an interesting way they did multiplication. Let's explore the algorithm for how they do this first before giving the example. 
 
-And the reason why this is, is because you have these two columns in a table. You take repeated halves for the first number by doing subtraction, and then you take repeated doubles for the second number by doing addition. And when you're halving the first number, you basically ignore any remainders. In modern mathematical terminology, we would say that you are “flooring” the halves.
+1. Can only multiply two numbers at a time. Set the two up in a table.
 
-The process continues until you've reached the number one in the half column, at which point you cross out any row where the half column is even. 
+2. Take repeated halves for the first number by subtraction and take repeated doubles for the second number by addition, ignoring any remainders (or flooring).
 
-Finally, After all the rows are crossed out, you add the remaining doubles to get the final product.
+3. Cross out any row where the “half” column is even.
 
-Now, this was a lot of just me talking, so I'm going to represent this with the expression 14 times 39. 
+4. Add the remaining “doubles”.
 
-The first step is putting these two numbers into a table, labeling one column as halves and one column as doubles. And I've put the number 14 on the left side and the number 39 on the right side. Traditionally, the smaller number is put on the left side because there are fewer halves to go through.
+Let's look at the expression 14 * 39. We start by putting these two numbers into a Halves/Doubles table.
+
+| Halves    | Doubles   |
+| :---      | :---      |
+| 14        | 39        |
+
+Here I've put the number 14 on the left side and the number 39 on the right side. Traditionally, the smaller number is put on the left side because there are fewer halves to go through.
 
 The second step is to keep continually taking halves of these numbers while disregarding any remainders or decimal places. For example, when you move from seven to three, seven divided by two would be 3.5 or three remainder one. You get rid of the remainder, or you just use the floor function, and you are left with 3. Then three divided by two, floored, is going to be one again.
 
-Now, for each time that you take a half , you would double the number in the doubles column using addition. 
+Now, for each time that you take a half, you would double the number in the doubles column using addition:
 
-I'm copying the table here so that I can demonstrate step three, which is crossing out any row where the number in the “half” column is an even number. Here, because 14 is even, we cross out the entire row of 14 and 39. Seven, three and one are all odd, so their respective rows get to stay as is. 
+| Halves    | Doubles   |
+| :---      | :---      |
+| 14        | 39        |
+| 7         | 78        |
+| 3         | 156       |
+| 1         | 312       |
 
-Finally, the last step is taking all of the numbers from the doubles column and adding them together. So we have 78, 156 and 312. And then we use the regular method of addition to arrive at 546. You can try out the addition here for yourself, if you’d like. You can actually verify with your calculator that 14 times 39 is indeed 546. 
+Once the table is complete, we then cross out any row where the number in the “half” column is even. Here, because 14 is even, we cross out the entire row of 14 and 39. Seven, three and one are all odd, so their respective rows get to stay as they are.
+
+| Halves    | Doubles   |
+| :---      | :---      |
+| ~~14~~    | ~~39~~    |
+| 7         | 78        |
+| 3         | 156       |
+| 1         | 312       |
+
+Finally, the last step is taking all of the numbers from the doubles column and adding them together. So we have 78, 156 and 312. And then we use the regular method of addition to arrive at 546. You can try out the addition here for yourself, if you’d like. You can actually verify with your calculator that 14 times 39 is indeed 546.
 
 The Romans probably had some idea of the commutativity of multiplication, meaning it doesn't actually matter which number starts off in which column, but it certainly makes your life easier if the smaller number is put into the halves column. If we had 39 on the left, we’d have to go through 39, then 19, then 9, then 4, then 2, then 1, which is six rows. When we started at 14, we only had to do four rows!
 
@@ -114,9 +134,7 @@ Did the Romans have division? Not exactly. Practically speaking, they had some c
 
 They did have the idea of division in terms of monetary units, because monetary units in the Roman Empire were given in twelfths. So you could have one-twelfth of something, you could have one-sixth of something, one-fourth, one-third and one-half, and you could probably do addition between all of these as well. There must have been some concept of common factors, since there was an awareness that six, four, and three all divide 12. But in terms of division, the way that we could conceive of it in the modern day, there was no real equivalent in the Roman world or any intuitions or algorithms for solving those kinds of problems.
 
-Now, that's kind of interesting, because the words decimal and percent are both from Latin. The word decimal has the root for the word ten, decem, and percent has that prefix per-, which we've seen before. And then -cent comes from the Latin word centum, meaning 100. But there really is no evidence for understanding either what a decimal or a percent is in ancient Rome, at least the way that we conceive of these in the modern day. 
-
-And even though I gave kind of representations for the different algorithms that the Romans used to represent addition, subtraction, and multiplication, these operations were actually rather done on these hand abaci, or kind of proto-calculators, if you will; they weren't written out the same way that we would. 
+This is interesting because the words decimal and percent are both from Latin. The word decimal has the root for the word ten, *decem*, and "percent" can be broken down further into *per* + *cent*. But there really is no evidence for understanding either what a decimal or a percent is in ancient Rome, at least the way that we conceive of these in the modern day.
 
 <div style="display: block; text-align: left;">
     <div style="margin-bottom: 20px;">
