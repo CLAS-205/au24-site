@@ -8,7 +8,7 @@ nav_exclude: true
 search_exclude: true
 ---
 
-# Lesson 13: Astronomy
+# Lesson 13: Pre-Modern Astronomy
 {: .no_toc}
 
 1. TOC
