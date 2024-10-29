@@ -405,3 +405,30 @@ All vocabulary from each unit and lesson can be found here.
 | math(e)       | Greek                 | to learn                  | mathematics       |
 | lips(e)/laps(e) | Greek               | to fall                   | relapse           |
 | (h)eur(o)     | Greek                 | to find, to discover      | eureka            |
+
+### Lesson 12
+
+
+| Root          | Language of origin    | Meaning                   | Example           |
+| :---:         | :---:                 | :---                      | :---              |
+| uncia         | Latin                 | one-twelfth (1/12)        | uncial            |
+| ord(in)       | Latin                 | arrangement, order        | order             |
+| angle/angul   | Latin                 | angle                     | triangle          |
+| line(a)       | Latin                 | line                      | linear            |
+| arc(h)        | Latin                 | arch                      | arch              |
+| sin(e/u)      | Latin                 | curve                     | sine              |
+| via           | Latin                 | way, road                 | trivia            |
+| cliv          | Latin                 | slope                     | proclivity        |
+| mun(er)       | Latin                 | wall, fortification       | munitions         |
+| plumb         | Latin                 | lead (metal)              | plumbing          |
+| rect/reg      | Latin                 | straight, regular         | rectangle         |
+| plan          | Latin                 | flat                      | plane             |
+| integ(e)r     | Latin                 | whole                     | integer           |
+| put(e)        | Latin                 | to think                  | compute           |
+| sec(t)        | Latin                 | to cut                    | section           |
+| fabr(i)       | Latin                 | to craft                  | fabric            |
+| tang(e)       | Latin                 | to touch                  | tangible          |
+| struct        | Latin                 | to build                  | construct         |
+| fract/frag    | Latin                 | to break                  | fragile           |
+| monstr        | Latin                 | to show                   | demonstrate       |
+| tect          | Greek                 | to build                  | architect         |
