@@ -157,6 +157,7 @@ In the night sky, Hercules is depicted as a kneeling figure, and it contains som
 | vesper        | Latin                 | evening                   | vespers           |
 | gibb          | Latin                 | hump                      | gibbon            |
 | orb(it)       | Latin                 | circular                  | orbital           |
+| grav(i)       | Latin                 | heavy                     | gravitas          |
 | cresc(e)      | Latin                 | to grow                   | crescendo         |
 
 ## Vocabulary Practice
@@ -189,13 +190,13 @@ In the night sky, Hercules is depicted as a kneeling figure, and it contains som
 16. equinox
 17. gravity
 18. galaxy
-19. conjunction
+19. crescent
 20. meteorology
 
 ## Reflection Questions
 
 1. Look up and briefly summarize the story behind any of the constellations in the Western Zodiac.
 2. The Greek constellations were largely inherited from the Babylonians. Look up a Babylonian constellation and give its Greek (Western) equivalent. How are the two related, if at all?
-3. Democritus's atomic theory and Hipparchus's heliocentric model were both theories that ended up being correct but were not widely accepted during their times. Compare and contrast the reception of these theories by their contemporaries and their rediscovery during the Scientific Revolution.
+3. Democritus's atomic theory and Aristarchus's heliocentric model were both theories that ended up being correct but were not widely accepted during their times. Compare and contrast the reception of these theories by their contemporaries and their rediscovery during the Scientific Revolution.
 4. Math and astronomy were closely related disciplines in the ancient world. How do the ancient Greek astronomers fit in to the timeline of the ancient Greek mathematicians (from Lesson 11)?
 5. The Greeks were not the only ones who came up with their own constellations! Look up the star catalogs or star maps from other civilizations and cultures and tell about one of the constellations there. Does it have a Greek equivalent?

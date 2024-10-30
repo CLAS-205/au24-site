@@ -457,4 +457,5 @@ All vocabulary from each unit and lesson can be found here.
 | vesper        | Latin                 | evening                   | vespers           |
 | gibb          | Latin                 | hump                      | gibbon            |
 | orb(it)       | Latin                 | circular                  | orbital           |
+| grav(i)       | Latin                 | heavy                     | gravitas          |
 | cresc(e)      | Latin                 | to grow                   | crescendo         |
