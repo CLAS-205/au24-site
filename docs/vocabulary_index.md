@@ -432,3 +432,29 @@ All vocabulary from each unit and lesson can be found here.
 | fract/frag    | Latin                 | to break                  | fragile           |
 | monstr        | Latin                 | to show                   | demonstrate       |
 | tect          | Greek                 | to build                  | architect         |
+
+### Lesson 13
+
+| Root          | Language of origin    | Meaning                   | Example           |
+| :---:         | :---:                 | :---                      | :---              |
+| galac(t)      | Greek                 | milk                      | galaxy            |
+| ast(e)r       | Greek                 | star                      | astronomy         |
+| helio         | Greek                 | sun                       | helium            |
+| selen(i)      | Greek                 | moon                      | selenium          |
+| nyct(o)       | Greek                 | night                     | nyctophobia       |
+| hemer(a)      | Greek                 | day                       | ephemeral         |
+| eos           | Greek                 | dawn, rosy                | eosin             |
+| cosm(o)       | Greek                 | whole, universal          | cosmos            |
+| meteor(o)     | Greek                 | lofty, high above         | meteoroid         |
+| plan(e)       | Greek                 | wandering                 | planet            |
+| stell(a)      | Latin                 | star                      | stellar           |
+| nebul         | Latin                 | mist                      | nebulous          |
+| sol(a)        | Latin                 | sun                       | solar             |
+| lun(a)        | Latin                 | moon                      | lunar             |
+| c(a)elest     | Latin                 | sky, heavens              | celestial         |
+| die/a         | Latin                 | day                       | quotidian         |
+| noct/nox      | Latin                 | night                     | nocturnal         |
+| vesper        | Latin                 | evening                   | vespers           |
+| gibb          | Latin                 | hump                      | gibbon            |
+| orb(it)       | Latin                 | circular                  | orbital           |
+| cresc(e)      | Latin                 | to grow                   | crescendo         |
