@@ -129,7 +129,7 @@ Scorpius, on the other hand, represents the scorpion sent to kill Orion, creatin
 ![](../../../../assets/images/hercules.png)  
 *The constellation Hercules, with notable stars. Image credit: Star Registration*
 
-The constellation Hercules is named after the Greek hero known for his incredible strength and numerous legendary feats, including the Twelve Labors. Although not as prominently recognized as other constellations, Hercules was an important constellation for locating other key asterisms and constellations used in navigation, such as 
+The constellation Hercules is named after the Greek hero known for his incredible strength and numerous legendary feats, including the Twelve Labors. Although not as prominently recognized as other constellations, Hercules was an important constellation for locating other key asterisms and constellations used in navigation, such as Lyra and Boötes.
 
 In the night sky, Hercules is depicted as a kneeling figure, and it contains some notable stars and asterisms, including the Great Hercules Cluster (M13), a globular cluster that was admired by ancient stargazers. The constellation's visibility during summer months made it an important reference point for navigation and seasonal changes.
 
