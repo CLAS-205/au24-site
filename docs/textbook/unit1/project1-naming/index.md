@@ -1,12 +1,12 @@
 ---
-title: Project 1
+title: Project 1. Scientific Names
 nav_order: 6
 layout: default
 parent: Unit 1
 grandparent: Textbook
 ---
 
-# Project 1: Scientific Names
+# Project 1: Scientific Names 🐦
 {: .no_toc}
 
 ## Objectives

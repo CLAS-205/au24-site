@@ -1,5 +1,5 @@
 ---
-title: Lesson 2
+title: Lesson 2. Latin and Greek
 nav_order: 2
 layout: default
 parent: Unit 1

@@ -1,5 +1,5 @@
 ---
-title: Lesson 5
+title: Lesson 5. Naming Conventions
 nav_order: 5
 layout: default
 parent: Unit 1

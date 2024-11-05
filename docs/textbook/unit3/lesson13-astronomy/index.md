@@ -1,5 +1,5 @@
 ---
-title: Lesson 13
+title: Lesson 13. Pre-Modern Astronomy
 nav_order: 3
 layout: default
 parent: Unit 3

@@ -1,12 +1,12 @@
 ---
-title: Project 3
+title: Project 3. Exploring the Universe
 nav_order: 6
 layout: default
 parent: Unit 3
 grandparent: Textbook
 ---
 
-# Project 3: Exploring the Universe
+# Project 3: Exploring the Universe 🚀
 {: .no_toc}
 
 ## Objectives

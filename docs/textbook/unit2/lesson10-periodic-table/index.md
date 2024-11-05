@@ -1,5 +1,5 @@
 ---
-title: Lesson 10
+title: Lesson 10. The Periodic Table
 nav_order: 5
 layout: default
 parent: Unit 2

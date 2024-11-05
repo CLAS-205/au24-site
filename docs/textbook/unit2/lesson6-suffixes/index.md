@@ -1,5 +1,5 @@
 ---
-title: Lesson 6
+title: Lesson 6. Word Endings
 nav_order: 1
 layout: default
 parent: Unit 2

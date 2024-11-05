@@ -1,5 +1,5 @@
 ---
-title: Lesson 9
+title: Lesson 9. Ancient Chemistry
 nav_order: 4
 layout: default
 parent: Unit 2

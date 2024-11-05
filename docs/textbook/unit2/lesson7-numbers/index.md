@@ -1,5 +1,5 @@
 ---
-title: Lesson 7
+title: Lesson 7. Numbers
 nav_order: 2
 layout: default
 parent: Unit 2

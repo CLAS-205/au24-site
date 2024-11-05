@@ -1,5 +1,5 @@
 ---
-title: Lesson 14
+title: Lesson 14. Modern Astronomy
 nav_order: 4
 layout: default
 parent: Unit 3

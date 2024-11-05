@@ -1,5 +1,5 @@
 ---
-title: Lesson 1\: Introduction to Bioscientific Word-Building
+title: Lesson 1. Introduction
 nav_order: 1
 layout: default
 parent: Unit 1

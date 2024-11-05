@@ -1,5 +1,5 @@
 ---
-title: Lesson 8
+title: Lesson 8. Names in Chemistry
 nav_order: 3
 layout: default
 parent: Unit 2

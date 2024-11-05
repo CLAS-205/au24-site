@@ -1,12 +1,12 @@
 ---
-title: Project 2
+title: Project 2. Compounding Terms
 nav_order: 6
 layout: default
 parent: Unit 2
 grandparent: Textbook
 ---
 
-# Project 2: Compounding Terms
+# Project 2: Compounding Terms 🔬
 {: .no_toc}
 
 ## Objectives

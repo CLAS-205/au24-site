@@ -1,5 +1,5 @@
 ---
-title: Lesson 3
+title: Lesson 3. Building Vocabulary
 nav_order: 3
 layout: default
 parent: Unit 1

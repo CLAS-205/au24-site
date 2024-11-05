@@ -1,5 +1,5 @@
 ---
-title: Lesson 11
+title: Lesson 11. Greek Math
 nav_order: 1
 layout: default
 parent: Unit 3

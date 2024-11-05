@@ -1,5 +1,5 @@
 ---
-title: Lesson 4
+title: Lesson 4. Taxonomy
 nav_order: 4
 layout: default
 parent: Unit 1

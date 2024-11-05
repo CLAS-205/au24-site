@@ -1,5 +1,5 @@
 ---
-title: Lesson 15
+title: Lesson 15. The Classical Tradition
 nav_order: 5
 layout: default
 parent: Unit 3
