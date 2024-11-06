@@ -4,8 +4,6 @@ nav_order: 4
 layout: default
 parent: Unit 3
 grandparent: Textbook
-nav_exclude: true
-search_exclude: true
 ---
 
 # Lesson 14: Modern Astronomy
@@ -19,7 +17,7 @@ search_exclude: true
 1. Learn about Latin and Greek in modern astronomy
 2. Overview of Scientific Revolution and advances in astronomy
 
-# The Scientific Revolution
+## The Scientific Revolution
 
 The Scientific Revolution was a transformative period in the history of science, generally considered to have occurred between the 16th and 18th centuries. This era was characterized by a shift from the medieval, religious-based understanding of the universe to a more empirical, observation-based approach. The major developments of this period laid the foundation for modern science, with breakthroughs not just in astronomy, but also physics, biology, and chemistry. We've explored facets of the Scientific Revolution in other lessons, but now it's time to get a fuller context. The movement not only changed the way people viewed the natural world, but also redefined the role of human reason and inquiry in understanding the universe.
 
@@ -49,13 +47,12 @@ Despite the controversy surrounding the heliocentric model, it was embraced by m
 
 ### Galileo
 
-
 <div style="display: block; text-align: left;">
     <div style="margin-bottom: 20px;">
         <img src="../../../../assets/images/galileo.jpg" alt="A painting of Galileo" style="max-width: 60%; height: auto; float: left; margin-right: 20px;">
         <figcaption style="text-align: left; margin-top: 5px;"><i>A portrait of Galileo. Image credit: Wikipedia</i></figcaption>
     </div>
-    <p style="margin: 0;"><b>Galileo Galilei</b> (1564–1642) was an Italian astronomer, physicist, and engineer who played a pivotal role in the Scientific Revolution. Known as the "father of modern science," Galileo made groundbreaking contributions to the fields of astronomy, motion, and the scientific method. One of his most significant achievements was the improvement of the telescope, which allowed him to make more detailed observations of the night sky than ever before. Through his enhanced telescopes, Galileo was able to observe celestial bodies in unprecedented detail, making discoveries that challenged existing astronomical models.</p>
+    <p style="margin: 0;"><b>Galileo Galilei</b> (1564–1642) was an Italian astronomer, physicist, and engineer who played a pivotal role in the Scientific Revolution. Known as the "father of modern science," Galileo made several contributions to the fields of astronomy, motion, and the scientific method. One of his most significant achievements was the improvement of the telescope, which allowed him to make more detailed observations of the night sky than ever before. Through his enhanced telescopes, Galileo was able to observe celestial bodies in unprecedented detail, making discoveries that further challenged existing astronomical models.</p>
     <p> </p>
 </div>
 
@@ -74,14 +71,12 @@ Galileo’s support for the Copernican heliocentric model brought him into direc
     <p> </p>
 </div>
 
-One of Tycho's most notable achievements was the precision of his astronomical observations. He built two observatories under the commission of King Frederik II, Uraniborg and Stjerneborg, on the island of Hven, where he conducted extensive research on the positions of stars and planets. His observations were so accurate that they were the best available for over a century, and they provided the foundation for later developments in astronomy. Tycho meticulously measured the positions of the planets, particularly Mars, with a degree of precision that was unprecedented for his time. These detailed observations were crucial for the development of Kepler’s laws of planetary motion.
+One of Tycho's most notable achievements was the precision of his astronomical observations. He built two observatories under the commission of King Frederik II, Uraniborg and Stjerneborg, on the island of Hven, where he conducted extensive research on the positions of stars and planets. His observations were so accurate that they were the best available for over a century, and they provided the foundation for later developments in astronomy. Tycho meticulously measured the positions of the planets, particularly Mars, with a degree of precision that was unprecedented for his time. These detailed observations were crucial for the development of Kepler’s laws of planetary motion some years later.
 
 {: .note}
 > The names "Uraniborg" and "Stjerneborg" were named for Uranus and *stjerne*, the Danish word for "star", respectively.
 
-Although Tycho was a staunch advocate of the geocentric model, he proposed a hybrid system that placed the Earth at the center of the universe, with the Sun orbiting the Earth and the other planets orbiting the Sun. This "Tychonic" model was an attempt to reconcile the Copernican heliocentric theory with the church's geocentric view, but it did not fully align with the heliocentric model. Tycho unwillingness to fully embrace the Copernican model is often attributed to his strong commitment to empirical observation over theoretical speculation. He believed that Copernicus's theory could not fully explain the observed motions of the planets, particularly Mars.
-
-Despite his opposition to Copernicus’s heliocentric theory, Tycho contributions to science were immense. After his death, his assistant, Johannes Kepler, used Tycho's extensive observational data to develop his laws of planetary motion, which confirmed and expanded upon the Copernican model. Tycho's work was instrumental in shaping the future of astronomy, and his legacy lives on through the accuracy and precision of his observations.
+Although Tycho was a staunch advocate of the geocentric model, he proposed a hybrid system that placed the Earth at the center of the universe, with the Sun orbiting the Earth and the other planets orbiting the Sun. This "Tychonic" model was an attempt to reconcile the Copernican heliocentric theory with the church's geocentric view, but it did not fully align with the heliocentric model. Tycho's unwillingness to fully embrace the Copernican model is often attributed to his strong commitment to empirical observation over theoretical speculation. He believed that Copernicus's theory could not fully explain the observed motions of the planets, particularly Mars.
 
 ### Johannes Kepler
 
@@ -90,15 +85,15 @@ Despite his opposition to Copernicus’s heliocentric theory, Tycho contribution
         <img src="../../../../assets/images/kepler.jpg" alt="A painting of Johannes Kepler" style="max-width: 60%; height: auto; float: left; margin-right: 20px;">
         <figcaption style="text-align: left; margin-top: 5px;"><i>A portrait of Kepler. Image credit: New Mexico Museum of Space History</i></figcaption>
     </div>
-    <p style="margin: 0;"><b>Johannes Kepler</b> (1571–1630) was a German mathematician and astronomer who is best known for formulating the three laws of planetary motion. Kepler was initially Tycho's assistant. After Tycho's death, he inherited his mentor's detailed astronomical data. This data proved crucial in helping Kepler develop his revolutionary laws, which fundamentally altered our understanding of planetary orbits and motion.</p>
+    <p style="margin: 0;"><b>Johannes Kepler</b> (1571–1630) was a German mathematician and astronomer who is best known for formulating the three laws of planetary motion. Kepler was initially Tycho's assistant. After Tycho's death, he inherited his mentor's detailed astronomical data. This data proved crucial in helping Kepler develop his revolutionary laws, which altered the contemporary understanding of planetary orbits and motion.</p>
     <p> </p>
 </div>
 
 Kepler's first law, the **Law of Ellipses**, stated that planets move in elliptical orbits with the Sun at one focus, rather than in perfect circles, as was previously believed. This discovery was crucial because it showed that the paths of planets were more complex than the circular orbits proposed by earlier astronomers like Copernicus. Kepler’s second law, the **Law of Equal Areas**, stated that a line drawn from a planet to the Sun sweeps out equal areas in equal times. This meant that a planet moves faster when it is closer to the Sun and slower when it is farther away. Finally, Kepler’s third law, the **Law of Harmonies**, described the relationship between the time a planet takes to orbit the Sun and its distance from the Sun. This law demonstrated that planets farther from the Sun take longer to complete an orbit.
 
-Kepler's laws were significant because they provided a mathematical framework for understanding planetary motion, something that had previously been elusive. Unlike Tycho, who focused on empirical observation, Kepler was able to synthesize Tycho's precise data with the emerging heliocentric model, creating a more accurate and predictive description of the cosmos. His laws not only confirmed the Copernican heliocentric theory but also challenged previous assumptions about the geometry of the universe. Kepler’s insights marked a pivotal shift from the Aristotelian view of the cosmos, which had relied on circular orbits and uniform motion, to a more dynamic and mathematically grounded understanding.
+Kepler's laws were significant because they provided a mathematical framework for understanding planetary motion, something that had previously been elusive. Unlike Tycho, who focused on empirical observation, Kepler was able to synthesize Tycho's precise data with the emerging heliocentric model, creating a more accurate and predictive description of the cosmos. His laws not only confirmed the Copernican heliocentric theory but also challenged previous assumptions about the geometry of the universe. Kepler’s insights finally marked a pivotal shift from the Aristotelian view of the cosmos, which had relied on circular orbits and uniform motion, to a more dynamic and mathematically grounded understanding.
 
-Kepler's work was groundbreaking not only in astronomy but also in the way it influenced future scientific research. By embracing a rigorous, mathematical approach to planetary motion, Kepler helped to establish the framework for modern physics. His laws laid the foundation for the later work of Isaac Newton, who would go on to explain planetary motion through his law of universal gravitation. Kepler’s determination to use observation and mathematics together broke away from the tradition of relying on philosophy and ancient dogma, positioning him as a crucial figure in the development of the scientific method.
+Kepler's work was significant not only in astronomy but also in the way it influenced future scientific research. By embracing a rigorous, mathematical approach to planetary motion, Kepler helped to establish the framework for modern physics. His laws laid the foundation for the later work of Isaac Newton, who would go on to explain planetary motion through his law of universal gravitation. Kepler’s determination to use observation and mathematics together broke away from the tradition of relying on philosophy and ancient dogma, positioning him as a crucial figure in the development of the scientific method.
 
 While Kepler’s laws were initially met with resistance, particularly from those who adhered to the classical Ptolemaic and Aristotelian views, they eventually gained widespread acceptance. His work also reinforced the idea that the universe operated according to consistent, universal principles that could be discovered through observation and mathematical analysis. In this sense, Kepler’s contributions were pivotal in solidifying the transition from a worldview dominated by religious and philosophical thought to one driven by empirical and mathematical reasoning.
 
@@ -112,11 +107,11 @@ The key to understanding telescopes lies in the field of optics, which is the st
 
 One of the first recorded inventions of the telescope is credited to **Hans Lippershey**, a Dutch spectacle maker, in 1608. However, it was **Galileo** who famously improved upon Lippershey's design in 1609, using his telescope to observe celestial bodies. Galileo’s observations of the Moon, Jupiter’s moons, and the phases of Venus were some of the first concrete evidence that supported the Copernican heliocentric model of the solar system. Galileo’s use of the telescope not only revolutionized astronomy but also demonstrated the power of technology in scientific discovery. His work ultimately helped shift humanity's understanding of the universe from an Earth-centered model to a Sun-centered one.
 
-As telescopes continued to evolve, so did our understanding of the universe. The introduction of larger, more powerful telescopes allowed astronomers to observe distant objects with greater clarity. The invention of the reflecting telescope by Isaac Newton in 1668, which used mirrors instead of lenses, eliminated many of the optical issues associated with earlier telescopes, such as chromatic aberration. Over time, optical technology improved further, with advancements such as the use of adaptive optics, which compensate for the distortion caused by Earth's atmosphere, and space-based telescopes like the Hubble Space Telescope, which allow us to observe the universe without the interference of the Earth's atmosphere.
+As telescopes continued to evolve, so did the understanding of the universe. The introduction of larger, more powerful telescopes allowed astronomers to observe distant objects with greater clarity. The invention of the reflecting telescope by Isaac Newton in 1668, which used mirrors instead of lenses, eliminated many of the optical issues associated with earlier telescopes, such as chromatic aberration. Over time, optical technology improved further, with advancements such as the use of adaptive optics, which compensate for the distortion caused by Earth's atmosphere, and space-based telescopes like the Hubble Space Telescope, which allow us to observe the universe without the interference of the Earth's atmosphere.
 
-Telescopes have not only expanded our understanding of the visible universe but have also contributed to our knowledge of other parts of the electromagnetic spectrum. Radio telescopes, for example, allow scientists to study celestial objects that emit radio waves, such as pulsars, quasars, and cosmic microwave background radiation. The development of infrared, ultraviolet, and x-ray telescopes has enabled astronomers to peer into previously invisible regions of the universe, helping them uncover phenomena like black holes, supernovae, and the formation of stars and galaxies. Through the continued advancement of telescope technology and optical science, astronomers are continually pushing the boundaries of what we can observe and understand about the cosmos.
+Telescopes have not only expanded our understanding of the visible universe but have also contributed to our knowledge of other parts of the electromagnetic spectrum. Radio telescopes, for example, allow scientists to study celestial objects that emit radio waves, such as pulsars, quasars, and cosmic microwave background radiation. The development of infrared, ultraviolet, and x-ray telescopes has enabled astronomers to see into previously invisible regions of the universe, helping them uncover phenomena like black holes, supernovae, and the formation of stars and galaxies. Through the continued advancement of telescope technology and optical science, astronomers are continually pushing the boundaries of what we can observe and understand about the cosmos.
 
-### Discovering New Planets: Uranus, Neptune, and Pluto
+### Discovering New Planets
 
 The discovery of new planets in our solar system, particularly Uranus, Neptune, and Pluto, represents key milestones in the history of astronomy. Unlike the planets visible to the naked eye, these distant worlds were not known to ancient astronomers, and their discoveries expanded our understanding of the solar system and the methods used to identify celestial bodies beyond those that could be seen without a telescope. The process of uncovering these planets involved a combination of careful observation, mathematical prediction, and advances in telescope technology, each discovery helping to shape the modern view of our solar system.
 
@@ -126,18 +121,14 @@ The discovery of **Neptune** in 1846 is often considered one of the most remarka
 
 **Pluto**, once considered the ninth and farthest planet from the Sun, was discovered in 1930 by American astronomer **Clyde Tombaugh** at the Lowell Observatory in Flagstaff, Arizona. Unlike the discoveries of Uranus and Neptune, Pluto’s discovery was not based on mathematical predictions but on an extensive search for a ninth planet, which had been hypothesized based on anomalies in the orbits of Neptune and Uranus. Tombaugh used a technique called "planetary photography," in which he took photographs of the night sky and compared them over a series of days to spot any moving objects. After months of meticulous observation, Tombaugh identified an object that appeared to be moving against the backdrop of stars, and this was confirmed to be Pluto. For much of the 20th century, Pluto was considered the smallest and most distant planet in our solar system, although its status has since been revised.
 
-The discovery of Pluto, however, has become more complex in recent years. In 2006, the International Astronomical Union (IAU) reclassified Pluto as a "dwarf planet" rather than a full-fledged planet. This decision was based on the fact that Pluto does not dominate its orbit, as the other eight planets do, and that it shares its orbit with other objects in the Kuiper Belt, a region of icy bodies beyond Neptune. While Pluto's planetary status is now debated, its discovery and its long-standing role as the ninth planet in the solar system were critical to our understanding of the solar system's outer reaches and the ongoing exploration of distant, icy bodies.
-
 {: .note}
-> Your instructor informally recognizes Pluto as a planet. This is not an opinion reflected by the greater scientific community.
-
-Each of these discoveries&mdash;Uranus, Neptune, and Pluto—&mdash;as contributed to the evolving narrative of our solar system. The discovery of Uranus demonstrated the power of telescopes to extend our view beyond the visible planets, while Neptune’s discovery showed the ability of astronomers to predict the existence of unknown worlds through mathematics. Pluto’s discovery added an additional layer of complexity to our understanding of the solar system’s structure, prompting ongoing debates about the definitions of planets and the criteria used to classify them. Together, these discoveries continue to inspire curiosity about the outer limits of our solar system and the potential for future exploration and discovery, especially as new technologies and spacecraft, such as NASA’s New Horizons mission, provide new insights into the distant realms of the solar system.
+> Your instructor informally likes to think of Pluto as a planet. This is not an opinion reflected by the greater scientific community.
 
 ### Discovering the Moons of Jupiter and Saturn
 
-The discovery of the moons of Jupiter and Saturn during the early modern period was a monumental development in the history of astronomy, fundamentally altering our understanding of the solar system. While the planets themselves had been known since ancient times, the discovery of their moons revealed a hidden complexity in the universe that had previously been overlooked. These moons not only expanded the number of celestial objects that could be observed and studied, but they also challenged the geocentric model of the universe, which held that everything in the cosmos revolved around the Earth.
+The discovery of the moons of Jupiter and Saturn during the Scientific Revolution was a monumental development in the history of astronomy, fundamentally altering our understanding of the solar system. While the planets themselves had been known since ancient times, the discovery of their moons revealed a hidden complexity in the universe that had previously been overlooked. These moons not only expanded the number of celestial objects that could be observed and studied, but they also challenged the geocentric model of the universe, which held that everything in the cosmos revolved around the Earth.
 
-The first moons to be discovered were those of **Jupiter**, and their discovery by **Galileo Galilei** in 1610 marked one of the most important milestones in the history of astronomy. Galileo, using his improved telescope, observed four objects near Jupiter that appeared to be moving in tandem with the planet. These four moons—Io, Europa, Ganymede, and Callisto—are now collectively known as the **Galilean moons**, and their discovery provided direct evidence that not all celestial bodies revolve around the Earth. Galileo’s observations were significant because they challenged the prevailing Aristotelian view, which held that all heavenly bodies must move in perfect circles around a central Earth. The moons of Jupiter, in contrast, orbited another planet, providing a clear example of how other objects in the cosmos could have their own motion independent of Earth.
+The first moons to be discovered were those of **Jupiter**, and their discovery by **Galileo** in 1610 marked one of the most important milestones in the history of astronomy. Galileo, using his improved telescope, observed four objects near Jupiter that appeared to be moving in tandem with the planet. These four moons&mdash; Ganymede, Io, Callisto, and Europa&mdash; are now collectively known as the **Galilean moons**, and their discovery provided direct evidence that not all celestial bodies revolve around the Earth. Galileo’s observations were significant because they challenged the prevailing Aristotelian view, which held that all heavenly bodies must move in perfect circles around a central Earth. The moons of Jupiter, in contrast, orbited another planet, providing a clear example of how other objects in the cosmos could have their own motion independent of Earth.
 
 The discovery of the Galilean moons was not only groundbreaking for astronomy but also for the Copernican heliocentric model. Galileo’s findings provided tangible support for the theory that the Earth was not the center of the universe, as they demonstrated that other celestial bodies, like Jupiter, could have their own systems of moons. This was one of the key pieces of evidence that helped propel the scientific community away from the geocentric view and toward the acceptance of a Sun-centered solar system. Galileo’s observations were recorded in his work *Sidereus Nuncius* (Starry Messenger), and they caused a great stir in the scientific and religious communities, as they directly contradicted the teachings of the Catholic Church, which held the Earth as the center of the universe.
 
@@ -145,11 +136,7 @@ In the centuries that followed, the study of Jupiter’s moons grew, and more mo
 
 The moons of **Saturn** were also an important area of discovery, and their study has yielded some of the most spectacular and visually striking images in modern astronomy. The most famous of Saturn’s moons, **Titan**, was discovered in 1655 by the Dutch astronomer **Christiaan Huygens**. Using a telescope he designed himself, Huygens was able to observe Titan, which is the second-largest moon in the solar system and the largest of Saturn’s many moons. Titan is particularly notable for its thick atmosphere, which is unique among moons in the solar system and resembles the early Earth in many ways. Titan's discovery, along with Huygens' observation of the planet’s rings, contributed to a greater understanding of Saturn and its complex system of moons and rings.
 
-Huygens’ work on Saturn did not end with Titan’s discovery. In addition to Titan, Saturn is now known to have over 80 moons, many of which are fascinating in their own right. For example, **Enceladus**, another of Saturn’s moons, was discovered in 1789 by the British astronomer **William Herschel**. Enceladus has been the subject of significant interest due to its geologically active surface, with geysers erupting from its icy crust. These geysers have been found to contain organic compounds, making Enceladus a target for astrobiological studies. The discovery of Enceladus, and the realization that its icy surface hides a subsurface ocean, has raised important questions about the potential for life elsewhere in the solar system.
-
-The Cassini-Huygens mission, which launched in 1997 and orbited Saturn from 2004 to 2017, provided detailed information about Saturn and its moons. The mission's successful landing of the *Huygens* probe on Titan in 2005 was a historic achievement, providing the first direct measurements of Titan’s surface and atmosphere. The Cassini spacecraft also made numerous flybys of moons like Enceladus and Dione, returning invaluable data about their compositions, atmospheres, and geological activity. The mission confirmed that Saturn’s moons are some of the most intriguing objects in the solar system, with environments that may offer clues about the potential for life beyond Earth.
-
-The discoveries of the moons of Jupiter and Saturn helped to reshape humanity’s understanding of the solar system. These moons are not just satellites of distant planets; they are dynamic worlds in their own right, with unique geological features, atmospheres, and, in some cases, the potential for supporting life. They serve as reminders of how much there is still to learn about our own solar system and the vast diversity of objects that exist within it. With advancements in telescope technology and ongoing space missions, the study of moons like those of Jupiter and Saturn will continue to be a vital area of astronomical research for years to come.
+The Cassini-Huygens mission (name sound familiar?), which launched in 1997 and orbited Saturn from 2004 to 2017, provided detailed information about Saturn and its moons. The mission's successful landing of the *Huygens* probe on Titan in 2005 was a historic achievement, providing the first direct measurements of Titan’s surface and atmosphere. The Cassini spacecraft also made numerous flybys of moons like Enceladus and Dione, returning invaluable data about their compositions, atmospheres, and geological activity. The mission confirmed that Saturn’s moons are some of the most intriguing objects in the solar system, with environments that may offer clues about the potential for life beyond Earth.
 
 ## Star Charts
 
@@ -163,17 +150,7 @@ In addition to identifying stars, star charts are also used for practical purpos
 
 Today, star charts serve as an indispensable tool in the ongoing exploration of the universe, whether for practical navigation or for educational purposes. As our knowledge of the cosmos grows and our observational technology improves, the charts we use to map the stars will continue to evolve, providing new insights into the ever-changing night sky.
 
-### Creating Star Classifications
-
-The classification of stars is a crucial part of understanding their properties and behaviors. Since ancient times, people have looked to the stars to understand their patterns and significance, but it was not until the late 19th and early 20th centuries that astronomers began to develop systematic methods for classifying stars based on their physical properties. This classification system is essential for astronomers to group stars with similar characteristics, such as temperature, luminosity, and spectral composition, allowing for more accurate study and comparison across different regions of space.
-
-One of the first major steps in the classification of stars was the development of the **Harvard spectral classification system** in the late 1800s. This system was based on the work of **Annie Jump Cannon** and other astronomers at the Harvard College Observatory, who observed the light emitted by stars and categorized them according to the absorption lines in their spectra. These lines correspond to the wavelengths of light absorbed by elements such as hydrogen, helium, and metals in the star’s atmosphere. The classification system used letters to represent different spectral types, with **O, B, A, F, G, K, and M** being the main categories, arranged from hottest to coolest stars. 
-
-Stars classified as **O-type** are extremely hot and blue, with surface temperatures above 30,000 K, while **M-type** stars are cool and red, with temperatures below 3,500 K. The system also includes subclasses (e.g., G2 for the Sun) to provide more detail about the exact temperature and characteristics of a star. The spectral classification system is not just about color; it also reflects important information about a star's size, luminosity, and age. For instance, the presence of certain lines in a star's spectrum can indicate whether the star is in a main sequence phase, a giant phase, or nearing the end of its life cycle. This classification system has become a cornerstone in the study of stellar astrophysics and has enabled astronomers to compare stars not only within our galaxy but also across the universe.
-
-In addition to the Harvard system, astronomers have also developed other classification methods to account for additional characteristics of stars. For example, some stars are classified based on their **luminosity class**, which refers to their size and brightness relative to other stars of the same spectral type. Stars are divided into different classes, such as main sequence stars, giant stars, supergiants, and white dwarfs, based on their position on the Hertzsprung-Russell (H-R) diagram, a plot of a star’s luminosity versus its temperature. This allows astronomers to further refine our understanding of stellar evolution, as stars of different luminosity classes evolve in distinct ways.
-
-Before these systems of classification were developed, however, there were a few contenders for how to actually *name* the stars.
+## Star Designations
 
 ### Bayer Designations
 
@@ -181,9 +158,9 @@ The Bayer designation is a system used to name the stars within a given constell
 
 The Bayer designation system is still in use today, particularly for stars in well-known constellations. For example, in the constellation **Orion**, the brightest star is **Alpha Orionis**, better known as **Betelgeuse**, while the second brightest star is **Beta Orionis**, or **Rigel**. This system was revolutionary at the time because it provided a more organized and systematic approach to identifying stars than the traditional method of using only their position in the sky or naming them after myths and legends.
 
-Bayer’s system of naming stars was based on the assumption that the brighter a star appeared, the more important or influential it was. Although this was a useful method in its time, it had limitations. For example, the Bayer system was based on human perception of brightness, and not all stars with a given letter in a constellation are necessarily the brightest stars within that constellation when observed with modern telescopes. Moreover, some constellations contain many stars with similar apparent brightness, making it difficult to use Bayer’s system exclusively.
+Bayer’s system of naming stars was based on the assumption that the brighter a star appeared, the more important or influential it was. Although this was a useful method in its time, it had limitations. For example, the Bayer system was the perception of brightness using the naked eye, and not all stars with a given letter in a constellation are necessarily the brightest stars within that constellation when observed with modern telescopes. Moreover, some constellations contain many stars with similar apparent brightness, making it difficult to use Bayer’s system exclusively.
 
-In addition to Greek letters, Bayer often used Latinized names for the stars (e.g., Alpha Centauri, Beta Cygni), and in some cases, he included a number to indicate the star's order of brightness within its constellation. However, the Bayer system does not account for stars that may not have been visible at the time of its creation, which is why modern astronomy sometimes supplements this system with other naming conventions, such as the **Flamsteed designation** or the use of catalog numbers.
+In addition to Greek letters, Bayer often used Latinized names for the stars (e.g., Alpha Centauri, Beta Cygni), and in some cases, he included a number to indicate the star's order of brightness within its constellation. However, the Bayer system does not account for stars that may not have been visible at the time of its creation, which is why modern astronomy sometimes supplements this system with other naming conventions, such as the **Flamsteed designation** or the use of modern catalog numbers.
 
 Today, the Bayer designation is primarily used in conjunction with other naming systems, like the Flamsteed system and modern cataloging systems like those used by the **Hipparcos** satellite. Together, these systems help astronomers organize and identify stars across the vast expanse of the night sky, ensuring that no star is left unnamed or misidentified.
 
@@ -211,6 +188,29 @@ The luminosity scale is also tied to a star’s **mass**, with more massive star
 
 The study of luminosity scales has profound implications for understanding the evolution of stars and galaxies. By measuring the luminosity of stars, astronomers can learn more about their age, composition, and behavior. Moreover, luminosity measurements allow astronomers to estimate the distances to stars and galaxies, providing essential data for mapping the universe. With the development of more advanced observational techniques, such as those employed by the Hubble Space Telescope and other space-based observatories, our ability to measure and interpret star luminosity continues to evolve, offering new insights into the life cycles of stars and their roles in the cosmos.
 
+## Star Classifications
+
+The classification of stars is a crucial part of understanding their properties and behaviors. Since ancient times, people have looked to the stars to understand their patterns and significance, but it was not until the late 19th and early 20th centuries that astronomers began to develop systematic methods for classifying stars based on their physical properties. This classification system is essential for astronomers to group stars with similar characteristics, such as temperature, luminosity, and spectral composition, allowing for more accurate study and comparison across different regions of space.
+
+### The Draper Catalogue
+
+The Draper Catalogue, formally titled the Draper Memorial, was a groundbreaking astronomical catalog of stars compiled in the late 19th century under the direction of American astronomer and scientist, John William Draper. The project was initiated in honor of Draper’s father, Henry Draper, a pioneering physician and early astrophotographer, who had made significant contributions to the study of stellar spectroscopy. The catalogue was first published in 1879 and is a critical work in the history of astronomy, representing one of the first large-scale efforts to systematically categorize stars based on their spectral characteristics.
+
+The catalog's primary objective was to classify stars according to their spectra, which reflects the light emitted or absorbed by them. Draper’s work was based on the emerging field of stellar spectroscopy, a technique that allows astronomers to determine the chemical composition, temperature, and motion of stars by studying the absorption lines in their spectra. The Draper Catalogue included detailed data for over 300,000 stars and organized them by spectral type, which was based on the strength of certain absorption lines observed in their spectra. Stars were classified into categories such as A, B, F, G, K, and M, with A-type stars being the hottest and M-type stars being the coolest. This system, which evolved into the modern Harvard classification system, was one of the first attempts to bring order and consistency to the study of stellar properties.
+
+In addition to classifying stars by spectral type, the Draper Catalogue also included information about the stars' positions in the sky, their brightness, and their proper motion. By cataloging such extensive data, Draper’s work provided a vital resource for astronomers and allowed for a deeper understanding of the distribution and characteristics of stars within our galaxy. This catalogue was groundbreaking in its precision, making use of the newly developed technology of photographic plates, which allowed for more accurate and comprehensive observations of stars than had been possible before.
+
+### The Harvard System
+
+The **Harvard spectral classification system** in the late 1890s was born from a scholastic mission to complete the Draper catalogue. This system was based on the work of **Annie Jump Cannon** and other astronomers at the Harvard College Observatory, who were originally hired as researchers and cataloguers (also called "computers") to complete the Draper Catalogue. Like her predecessors, Cannon observed the light emitted by stars and categorized them according to the absorption lines in their spectra. These lines correspond to the wavelengths of light absorbed by elements such as hydrogen, helium, and metals in the star’s atmosphere. The classification system used letters to represent different spectral types, with **O, B, A, F, G, K, and M** being the main categories, arranged from hottest to coolest stars.
+
+{: .note}
+> Cannon is also sometimes called the "census taker of the sky" because of her work in cataloguing nearly 350,000 stars by hand.
+
+Stars classified as **O-type** are extremely hot and blue, with surface temperatures above 30,000 K, while **M-type** stars are cool and red, with temperatures below 3,500 K. The system also includes subclasses (e.g., G2 for the Sun) to provide more detail about the exact temperature and characteristics of a star. The spectral classification system is not just about color; it also reflects important information about a star's size, luminosity, and age. For instance, the presence of certain lines in a star's spectrum can indicate whether the star is in a main sequence phase, a giant phase, or nearing the end of its life cycle.
+
+In addition to the Harvard system, astronomers have also developed other classification methods to account for additional characteristics of stars. For example, some stars are classified based on their **luminosity class**, which refers to their size and brightness relative to other stars of the same spectral type. Stars are divided into different classes, such as main sequence stars, giant stars, supergiants, and white dwarfs, based on their position on the Hertzsprung-Russell (H-R) diagram, a plot of a star’s luminosity versus its temperature. This allows astronomers to further refine our understanding of stellar evolution, as stars of different luminosity classes evolve in distinct ways.
+
 ## Names of Astronomical Objects
 
 The naming of astronomical objects is an essential part of organizing and categorizing the vast array of celestial bodies in the universe. From stars and planets to galaxies and nebulae, the names of these objects help astronomers and researchers communicate about them clearly and efficiently. The system of naming objects in the sky has evolved over time, influenced by cultural, historical, and scientific factors. Today, many astronomical objects are named according to standardized conventions set by organizations such as the International Astronomical Union (IAU), which works to ensure that each object has a unique, internationally recognized designation.
@@ -218,18 +218,6 @@ The naming of astronomical objects is an essential part of organizing and catego
 The naming process for astronomical objects can vary based on the type of object and its discovery. For instance, some objects receive names based on the constellation they belong to, the discoverer's name, or sometimes even mythological figures. Other objects, especially those that are more recently discovered, are often cataloged with a combination of numbers and letters that indicate their position or order of discovery. This approach ensures that each object has a distinct identifier, even in cases where multiple similar objects exist within a given region of space.
 
 While traditional names like "The Milky Way" or "Mars" are widely recognized, modern naming conventions are more systematic and scientific, ensuring that discoveries made by astronomers are accurately recorded and easily shared across the global scientific community. As our understanding of the cosmos expands with more advanced telescopes and space missions, the number of named astronomical objects continues to grow, and with it, the complexity of the naming system.
-
-### Exoplanets
-
-**Exoplanets** are planets that exist outside our solar system, orbiting stars other than the Sun. The discovery of exoplanets has been one of the most exciting developments in modern astronomy, as it has opened up new possibilities for understanding the formation and evolution of planetary systems, and even the potential for life beyond Earth. Since the first confirmed exoplanet discovery in the 1990s, astronomers have identified thousands of exoplanets, each of which is cataloged using specific naming conventions.
-
-Exoplanets are typically named based on the star they orbit, followed by a letter that designates the planet's position in relation to the star. For example, the first exoplanet discovered around the star **51 Pegasi** was named **51 Pegasi b**, with "b" indicating that it was the first planet discovered in that system. If more exoplanets are found orbiting the same star, they are designated with subsequent letters (e.g., 51 Pegasi c, 51 Pegasi d, etc.). These naming conventions ensure that each exoplanet can be uniquely identified, even if many are found within a single star system.
-
-Exoplanet names are often supplemented with catalog numbers or designations from large-scale surveys. For instance, exoplanets discovered by missions like **Kepler** or **TESS** are often assigned catalog numbers, such as **Kepler-186f** or **TESS-1234 b**. These numbers help identify the planets within the larger catalog of discoveries made by these missions, providing a standardized way to reference them in scientific literature.
-
-Some exoplanets, especially those that capture the public’s imagination or are of particular scientific interest, are given more memorable names. For example, the exoplanet **Proxima b**, which orbits the closest star to the Sun, **Proxima Centauri**, has become a subject of intense study due to its potential habitability. Similarly, **Kepler-22b** is another well-known exoplanet, as it was one of the first discovered in the "habitable zone," the region around a star where conditions might allow for liquid water to exist.
-
-The study of exoplanets is still a rapidly evolving field, and as more are discovered, new naming conventions and cataloging systems may emerge to keep up with the growing body of knowledge. As technology advances and missions like the James Webb Space Telescope continue to explore distant star systems, the names of exoplanets will continue to reflect our ever-expanding view of the universe.
 
 ### Galaxies
 
@@ -243,17 +231,17 @@ Modern astronomy often uses more complex systems for naming galaxies, especially
 
 Galaxies are often named not just by their catalog number or appearance, but also after the astronomers who discovered or studied them. For example, the **Hubble Galaxy** (NGC 3379) is named after the American astronomer **Edwin Hubble**, who made significant contributions to our understanding of galaxies and the expansion of the universe. Naming galaxies after individuals who have advanced the field of astronomy serves as a way to honor their contributions and highlight the importance of the discoveries.
 
-### Stars
+### Exoplanets
 
-Stars are the fundamental building blocks of galaxies, and their names and classifications have been a central focus of astronomical study for centuries. Stars are typically named based on their position in the sky, their brightness, or the constellations they inhabit. Some of the most famous stars, such as **Sirius**, **Betelgeuse**, and **Rigel**, have names derived from ancient civilizations, often reflecting their cultural significance or mythological associations.
+**Exoplanets** are planets that exist outside our solar system, orbiting stars other than the Sun. The discovery of exoplanets has been one of the most exciting developments in modern astronomy, as it has opened up new possibilities for understanding the formation and evolution of planetary systems, and even the potential for life beyond Earth. Since the first confirmed exoplanet discovery in the 1990s, astronomers have identified thousands of exoplanets, each of which is cataloged using specific naming conventions.
 
-The process of naming stars has evolved over time. The earliest star names came from **ancient civilizations**, such as the Babylonians, Greeks, and Arabs, who gave stars names based on their appearance or their role in mythology. These names have survived to the present day, with many stars retaining their traditional names, such as **Aldebaran** (the "eye of the bull") and **Antares** (the "heart of the scorpion").
+Exoplanets are typically named based on the star they orbit, followed by a letter that designates the planet's position in relation to the star. For example, the first exoplanet discovered around the star **51 Pegasi** was named **51 Pegasi b**, with "b" indicating that it was the first planet discovered in that system. If more exoplanets are found orbiting the same star, they are designated with subsequent letters (e.g., 51 Pegasi c, 51 Pegasi d, etc.). These naming conventions ensure that each exoplanet can be uniquely identified, even if many are found within a single star system.
 
-In the modern era, stars are often classified using a **Bayer designation** or **Flamsteed designation**, which groups stars by their position in a constellation. In the Bayer system, stars are given Greek letters, with the brightest star in a constellation receiving the letter alpha (α) and others receiving subsequent letters (β, γ, δ, etc.). For example, the brightest star in the constellation **Orion** is **Alpha Orionis**, better known as **Betelgeuse**.
+Exoplanet names are often supplemented with catalog numbers or designations from large-scale surveys. For instance, exoplanets discovered by missions like **Kepler** or **TESS** are often assigned catalog numbers, such as **Kepler-186f** or **TESS-1234 b**. These numbers help identify the planets within the larger catalog of discoveries made by these missions, providing a standardized way to reference them in scientific literature.
 
-Stars are also cataloged using more specific designations in modern catalog systems, such as the **Henry Draper (HD) catalog**, which lists stars according to their spectral types, or the **Hipparcos catalog**, which includes precise measurements of star positions. These systems use alphanumeric codes to ensure that each star has a unique identifier, which is particularly important as the number of known stars in our galaxy has grown into the billions.
+Some exoplanets, especially those that capture the public’s imagination or are of particular scientific interest, are given more memorable names. For example, the exoplanet **Proxima b**, which orbits the closest star to the Sun, **Proxima Centauri**, has become a subject of intense study due to its potential habitability. Similarly, **Kepler-22b** is another well-known exoplanet, as it was one of the first discovered in the "habitable zone," the region around a star where conditions might allow for liquid water to exist.
 
-In addition to these cataloging systems, some stars are given names based on their discovery or scientific significance. For instance, stars discovered to be part of binary or multiple star systems often have names based on the system's properties, such as **Alpha Centauri**, which refers to the closest star system to Earth. Newer stars, particularly those observed through large surveys, are usually assigned catalog numbers, but their names may eventually become more widely known if they play a significant role in astronomical research.
+The study of exoplanets is still a rapidly evolving field, and as more are discovered, new naming conventions and cataloging systems may emerge to keep up with the growing body of knowledge. As technology advances and missions like the James Webb Space Telescope continue to explore distant star systems, the names of exoplanets will continue to reflect our ever-expanding view of the universe.
 
 ### Other Objects
 
@@ -261,9 +249,7 @@ In addition to stars, planets, and galaxies, the universe contains a wide range 
 
 **Asteroids** are small rocky bodies that orbit the Sun, mostly found in the **Asteroid Belt** between Mars and Jupiter. These objects are often named after mythological figures, places, or people who contributed to the field of astronomy. For example, **Ceres**, the largest object in the asteroid belt, is named after the Roman goddess of agriculture. Other asteroids are named with a combination of numbers and the names of their discoverers, such as **243 Ida** or **1036 Ganymed**. 
 
-**Comets**, often described as "dirty snowballs," are icy bodies
-
- that have elliptical orbits, bringing them close to the Sun and forming bright tails of gas and dust. Comets are typically named after their discoverers, such as **Halley's Comet**, named after **Edmond Halley**, who determined its periodicity, or **Neowise**, named after the NASA mission that discovered it. Comets can also be named by their appearance or the year in which they were discovered.
+**Comets**, often described as "dirty snowballs," are icy bodies that have elliptical orbits, bringing them close to the Sun and forming bright tails of gas and dust. Comets are typically named after their discoverers, such as **Halley's Comet**, named after **Edmond Halley**, who determined its periodicity, or **Neowise**, named after the NASA mission that discovered it. Comets can also be named by their appearance or the year in which they were discovered.
 
 **Meteors** are the streaks of light produced when small pieces of space debris burn up in Earth's atmosphere. If a meteor survives its journey through the atmosphere and reaches the ground, it is referred to as a **meteorite**. Meteor showers, which occur when Earth passes through the debris trails left by comets, are often named after the constellation from which they appear to radiate, such as the **Perseid Meteor Shower**.
 
@@ -271,10 +257,63 @@ In addition to stars, planets, and galaxies, the universe contains a wide range 
 
 Finally, **nebulae** are vast clouds of gas and dust in space, often acting as nurseries for new stars. Many nebulae are named after their appearance, such as the **Orion Nebula** or the **Eagle Nebula**, and are often cataloged using systems like the **Messier catalog** or the **New General Catalogue (NGC)**. Some nebulae, like the **Crab Nebula**, are named after the objects they contain, in this case, a supernova remnant.
 
-The naming of these objects helps astronomers and researchers classify and study the many phenomena found throughout the universe, and as our understanding grows, so too will the number of objects that receive names.
+Many of the names of astronomical objects are relatively ad-hoc, meaning that there exists no one system that can encapsulate every observable thing in the universe. Different categories of objects fall under different systems, each with their own rules and catalogues.
 
 ## Vocabulary List
 
+| Root          | Language of origin    | Meaning                   | Example           |
+| :---:         | :---:                 | :---                      | :---              |
+| character     | Greek                 | stamp, feature            | characteristic    |
+| phan/phas     | Greek                 | to show, to appear        | phantom           |
+| cra(t/s)      | Greek                 | to mix                    | crater            |
+| sider(a)      | Latin                 | star                      | consider          |
+| fin(e/i)      | Latin                 | end, ending               | finite            |
+| rota          | Latin                 | wheel                     | rotate            |
+| exper(i)      | Latin                 | to try, to attempt        | experiment        |
+| oper(a)       | Latin                 | work, deed                | operation         |
+| celer         | Latin                 | speed                     | celerity          |
+| labor         | Latin                 | work, labor               | collaborate       |
+| metu/i        | Latin                 | fear                      | meticulous        |
+| sign          | Latin                 | sign, mark, standard      | signal            |
+| h(a)er/h(a)es | Latin                 | to stick                  | adhesive          |
+| sist          | Latin                 | to stand, to be firm      | consist           |
+| tort/torq(u)  | Latin                 | to twist                  | torque            |
+| tex(t)        | Latin                 | to weave, woven           | textile           |
+| fund/found    | Latin                 | to establish, to found    | foundation        |
+| volv/volut    | Latin                 | to turn, to spin          | revolve           |
+| ven(e/t)        | Latin                 | to come                   | intervene         |
+| plor          | Latin                 | to call out, to cry out   | explore           |
+| ques/quis/quer/quir | Latin           | to ask                    | query             |
+| divi(de, se)  | Latin                 | to split, to divide       | division          |
+
 ## Vocabulary Practice
 
+**Practice Set B:** Identify the roots in each of the following words, give their language of origin, and their definitions. Also give their part of speech. Then, following the guidelines in Lesson 4, arrange the definitions of the individual roots to create a literal definition.
+
+1. revolution
+2. experimental
+3. reconsideration
+4. intertextuality
+5. definite
+6. implore
+7. rotator
+8. individual
+9. accelerate
+10. laboratory
+11. convention
+12. controversial
+13. phase
+14. inquiry
+15. observatory
+16. speculate
+17. optical
+18. signify
+19. resistence
+20. distortion
+
 ## Reflection Questions
+
+1. What differences do you observe in methods of ancient astronomy vs. astronomy during and after the Scientific Revolution?
+2. How do you think that controversies between the church and science helped shape the modern scientific method?
+3. Compare and contrast the Bayer and Flamsteed designations. What are the benefits and drawbacks of each?
+4. In your opinion, why is it important to create an extensive catalogue for the stars? Further, why are organizational systems important for creating catalogues?
