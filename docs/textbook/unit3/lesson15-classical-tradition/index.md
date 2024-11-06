@@ -131,7 +131,7 @@ In recent years, there has been growing recognition of the value of ethnoscience
 3. interdisciplinary
 4. basics
 5. contribution
-6. vehicular
+6. vehicle
 7. irrational
 8. loquacious
 9. designation
