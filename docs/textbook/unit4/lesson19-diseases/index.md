@@ -1,5 +1,5 @@
 ---
-title: Lesson 19
+title: Lesson 19. Diseases
 nav_order: 4
 layout: default
 parent: Unit 4

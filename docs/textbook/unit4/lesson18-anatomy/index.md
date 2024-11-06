@@ -1,5 +1,5 @@
 ---
-title: Lesson 18
+title: Lesson 18. Anatomy
 nav_order: 3
 layout: default
 parent: Unit 4

@@ -1,5 +1,5 @@
 ---
-title: Lesson 17
+title: Lesson 17. Latin Language Deep-Dive
 nav_order: 2
 layout: default
 parent: Unit 4

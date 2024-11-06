@@ -1,5 +1,5 @@
 ---
-title: Lesson 16
+title: Lesson 16. Medicine in the Ancient Mediterranean
 nav_order: 1
 layout: default
 parent: Unit 4

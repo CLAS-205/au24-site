@@ -1,5 +1,5 @@
 ---
-title: Lesson 20
+title: Lesson 20. Prescriptions
 nav_order: 5
 layout: default
 parent: Unit 4
