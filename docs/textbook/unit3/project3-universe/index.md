@@ -62,7 +62,13 @@ For each of the following constellations, give the proper name of the constellat
 
 ## Problem 5: Astrologic
 
-In an essay of about 200-300 words, compare and contrast the Babylonian, Chinese, Hindu, and Hellenistic astrological systems and zodiacs. What similarities or differences do you see between the systems? How does each system interpret the meanings of planets and/or constellations?
+In an essay of about 200-300 words, compare and contrast the Babylonian, Chinese, Hindu, and Hellenistic zodiacs. What similarities or differences do you see between the systems? How does each system interpret the meanings of planets and/or constellations?
+
+- What are the key similarities and differences between these systems in terms of their structure or symbolic meanings?
+- How does each system interpret the significance of planets and/or constellations?
+- The word *zodiac* comes from the Greek root *zo* meaning "animal". Do you find the term "zodiac" appropriate for each system?
+
+You are encouraged to consult outside resources to strengthen your analysis, but be sure to cite or include any references that you use. These do not need to be formal citations; a bullet-point list of resources will suffice.
 
 ## Problem 6: Lost in the Cosmos
 
