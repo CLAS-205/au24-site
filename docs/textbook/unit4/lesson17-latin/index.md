@@ -16,7 +16,25 @@ search_exclude: true
 
 ## Objectives
 
-## Readings
+## An Inflected Language
+
+## Nouns
+
+## Cases
+
+### Nominative
+
+### Genitives
+
+### Accusative
+
+### Dative
+
+### Ablative
+
+## Latin Phrases in Common Use
+
+## Translation
 
 ## Vocabulary List
 
