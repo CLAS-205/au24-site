@@ -95,7 +95,7 @@ In recent years, there has been growing recognition of the value of ethnoscience
 | Root          | Language of origin    | Meaning                   | Example           |
 | :---:         | :---:                 | :---                      | :---              |
 | ba(s)         | Greek                 | to step, to walk          | basis             |
-| hol(i/o)      | Greek                 | whole, entire     | hologram          |
+| hol(i/o)      | Greek                 | whole, entire             | hologram          |
 | trad(it)      | Latin                 | to hand, to hand over     | trade             |
 | narr(a/o)     | Latin                 | to tell a story           | narration         |
 | mod(e/o)      | Latin                 | now, current, at this time | modern           |

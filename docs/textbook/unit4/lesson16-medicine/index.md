@@ -16,6 +16,9 @@ search_exclude: true
 
 ## Objectives
 
+1. Learn about the state of health and wellness in Ancient Greece and Rome
+2. Explore the origins of Western medicine from the Ancient Mediterranean
+
 ## Health in Ancient Greece
 
 ### Diseases
