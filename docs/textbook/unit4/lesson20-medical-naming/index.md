@@ -1,6 +1,6 @@
 ---
-title: Lesson 19. Diseases
-nav_order: 4
+title: Lesson 20. Naming of Diseases and Treatments
+nav_order: 5
 layout: default
 parent: Unit 4
 grandparent: Textbook
@@ -8,7 +8,7 @@ nav_exclude: true
 search_exclude: true
 ---
 
-# Lesson 19: Disease Naming
+# Lesson 20: Naming of Diseases and Treatments
 {: .no_toc}
 
 1. TOC

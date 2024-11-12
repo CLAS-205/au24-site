@@ -1,6 +1,6 @@
 ---
-title: Lesson 18. Anatomy
-nav_order: 3
+title: Lesson 19. Anatomical Naming
+nav_order: 4
 layout: default
 parent: Unit 4
 grandparent: Textbook
@@ -8,8 +8,7 @@ nav_exclude: true
 search_exclude: true
 ---
 
-# Lesson 18: Anatomy 
-
+# Lesson 19: Anatomical Naming
 {: .no_toc}
 
 1. TOC
