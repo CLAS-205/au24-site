@@ -79,7 +79,7 @@ Some scientific names describe a particular feature of the organism using a fami
 
 | Root      | Language of origin        | Meaning           |
 | :---:     | :---:                     | :---              |
-| actin     | Greek                     | ray               |
+| actin     | Greek                     | ray (like the sun)              |
 | onco      | Greek                     | mass, bulk        |
 | sem(a/o)  | Greek                     | flag, banner      |
 | lepid(o)  | Greek                     | scale (as of a fish) |
@@ -159,7 +159,7 @@ Furthermore, engaging with this discourse might encourage a more holistic approa
 | rhod(o)       | Greek              | pink, rosy    | rhododendron      |
 | glauc/k       | Greek            | grey, silver  | glaucoma      |
 | chlor(o)      | Greek            | green         | chlorophyll       |
-| actin     | Greek                     | ray               | actinost  |
+| actin     | Greek                     | ray (like the sun)                | actinost  |
 | onco      | Greek                     | mass, bulk      | oncologist  |
 | sem(a/o)  | Greek                     | flag, banner      | semaphore     |
 | lepid(o)  | Greek                     | scale (as of a fish) | leprosy    |

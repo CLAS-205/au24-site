@@ -190,7 +190,7 @@ All vocabulary from each unit and lesson can be found here.
 | rhod(o)       | Greek              | pink, rosy    | rhododendron      |
 | glauc/k       | Greek            | grey, silver  | glaucoma      |
 | chlor(o)      | Greek            | green         | chlorophyll       |
-| actin     | Greek                     | ray               | actinost  |
+| actin     | Greek                     | ray (like the sun)           | actinost  |
 | onco      | Greek                     | mass, bulk      | oncologist  |
 | sem(a/o)  | Greek                     | flag, banner      | semaphore     |
 | lepid(o)  | Greek                     | scale (as of a fish) | leprosy    |
