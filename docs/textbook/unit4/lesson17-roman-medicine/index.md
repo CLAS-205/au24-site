@@ -1,5 +1,5 @@
 ---
-title: Lesson 17. Latin Language Deep-Dive
+title: Lesson 17. Ancient Roman Health and Medicine
 nav_order: 2
 layout: default
 parent: Unit 4
@@ -8,7 +8,7 @@ nav_exclude: true
 search_exclude: true
 ---
 
-# Lesson 17: Latin Language Deep-Dive
+# Lesson 17: Ancient Roman Health and Medicine
 {: .no_toc}
 
 1. TOC
@@ -19,88 +19,230 @@ search_exclude: true
 1. Learn about health and medicine in Ancient Rome
 2. Become familiar with key figures in Roman medicine
 
+{: .note}
+> **Content warning:** This reading contains discussion of outdated medical practices and attitudes towards disability, mental health, and chronic illness; battlefield injury; ableism; slavery; infant mortality; and misogyny. The attitudes expressed here are those that have been expressed and documented through textual and archaeological evidence from ancient Rome, and they are not reflective of current medical practices and attitudes.
+
 ## Health in Ancient Rome
 
-Generally, when we're thinking about health and wellness, we can think about the sort of state of Roman health being kind of similar to the daily state of Greek health. There were some common diseases that we think through paleopathology might have been extant in the Roman Empire, such as gastroenteritis, hepatitis, typhoid fever, parasitic worms, and malaria. Now, these diseases were not called as such by any Roman writers because they would mostly be describing symptoms rather than giving names to the diseases which caused them. 
-And because of this, we think that the Roman population, as aforementioned, probably would have experienced similar levels of daily discomfort and pain as the Greeks. So chronic pain would have probably been quite extant in the Roman Empire, but nobody really tended to talk about it or write about it for reasons that I will explain in a little bit. 
-But in that sense, the understanding of diseases and transmission of diseases was also pretty similar to the Greeks, because the Romans got a lot of their medical ideas from the Greek practice, mostly through the Hippocratic methods and the sites of Asclepius. There was really no understanding that disease can be transmitted through germs or bacteria, viruses, or even carriers like animals, insects, and other people, which made it kind of interesting in the sense of Rome's location.
-Most of Greece consists of a lot of mountains and there's a lot of highlands, and it's surrounded by the ocean on many sides. Rome, on the other hand, is situated in hills, which means that a lot of the surrounding area of Rome is very swampy, marshy, and has some lowlands. And because of Rome's more temperate climate,, there would have been a lot of carriers, like mosquitoes and other insects that could have thrived in these areas. And mosquitoes, notoriously, are famed for carrying malaria, which we know comes from the Italian “mala aria”, meaning “bad air”. The idea of mala aria or “bad air” originated from Rome. They didn't call it as such, and in fact, they might have called it by a few different names. But they did have the idea that the air around the swamps and lowlands where these insects were thriving was like a breeding ground for disease. They had some idea that the diseases would have originated in these more temperate areas with a lot of insects that could have carried the disease, but they had no understanding that the insects themselves were transmitting. 
-That being said, Rome did have a relatively well developed water and sewage system in place. I'll talk about this more in another video later on when we get to talk about Roman engineering and architecture, but Rome actually had a really extant water supply system, and they had sewage and everything. So there was constantly running water in Rome, which probably served some role in sort of reducing the spread of waterborne diseases such as cholera. So there are not many instances that we would be able to identify symptoms of waterborne diseases, and we think that it's because their water treatment system was, for its time, pretty advanced. 
+Generally, the state of Roman health was similar to the daily state of Greek health. There were some common diseases that we think through paleopathology might have been extant in the Roman Empire, such as gastroenteritis, hepatitis, typhoid fever, parasitic worms, and malaria. These diseases were not called as such by any Roman writers because they would mostly be describing symptoms rather than giving names to the diseases which caused them.
 
-[Disease in Rome]
-So when we think about disease in Rome, as I mentioned before, there was virtually no understanding of the way that diseases were transmitted. And therefore, in the early Roman cities, there were also very few real cures. Most of the practice of Greek medicine arrived in Rome sort of around the third and second centuries BCE. Rome had been founded in about 750 BCE. So there was a long period where disease was not understood very well. 
-And the traditional Roman value holds that physical illness is a symptom of mental illness, which is something that modern medicine has found to be true as well. For example, people with depression or post-traumatic stress are at higher risk for developing chronic diseases or pain disorders. 
-However, the way that Romans characterized mental illness is quite different from the way that we would think about it today. They believed that mental illness meant that you had bad behavior or you were thinking badly, or in the sense there was a form of morality associated with it. As we've seen from morality being associated with history, morality is also associated with mental health. So if you are a good, upstanding citizen and you are a good person, and you treat people well and you follow the laws and you're on your best behavior, you should not be physically ill at all. On the other hand, if you are cheating or you're breaking the law or you are treating people badly, or you just have bad thoughts or intentions, then that would manifest in your body as well. So there is a bit of an idea of having psychosomatic symptoms, in the sense that having a flawed morality would lead to physical illness and chronic pain, perhaps. But the way that they treated mental illness was not really the same way that we would treat and recognize mental illness today. So kind of, to sum up, a virtuous person in traditional Roman thinking would be very healthy all the time, because they would be on their best behavior, they would only do good things, and therefore they would be rewarded with good health. On the other hand, if someone's breaking the law all the time, or if they're being mean to their neighbors, or if they're just overall being a bad person, then their bad behavior would manifest as physical symptoms and they would make a person unhealthy. And so because of this, a lot of traditional Romans believed that all you need to do to be healthy is to live a morally correct and virtuous life. 
-And in that sense, they also tended to prefer home remedies rather than seeking physicians. One very traditional Roman writer called Cato the Elder was a Roman statesman who was quite fond of farming and agriculture. His prescription for pretty much everything was cabbage. I like to show this cabbage merchant from the Avatar series as what I believe to be a rather accurate depiction of Cato the Elder. This man was obsessed with cabbage. He would recommend it for pretty much everything. You can boil cabbages for headaches. You can fry cabbages for stomach aches. Eating cabbage with every meal helps with digestion. This man thought cabbage was a miracle cure. So if you take nothing away else from Cato the Elder, eat your cabbage; that would be pretty much his remedy for anything if you were sick.
+The understanding of diseases and transmission of diseases was also pretty similar to the Greeks, because the Romans got a lot of their medical ideas from the Greek practice, mostly through the Hippocratic methods and the sites of Asclepius. There was really no understanding that disease can be transmitted through germs or bacteria, viruses, or even carriers like animals, insects, and other people. This was particularly interesting given that the geography of Rome was quite different from that of Greece.
 
-[Introduction of Doctors]
-Now, that didn't last super long, because home remedies can also get you so far, especially when a lot of them may not actually work. So there were doctors introduced to Rome around a similar time that Cato was writing, and the first doctors actually came from Greece. 
-Rome's first doctor was a fellow called Archagathos. 
-He was Greek and he came to Rome around 219 BCE. The record of him coming to Rome and sort of setting up his practice is given in an account by Pliny the Elder, who I'll talk a little bit more about in a bit. But he was received pretty well because he was introducing this new form of medicine. Archagathos had been practicing in the Hippocratic method, which was something that was fairly new to Rome at the time and had a lot of success. 
-His fame kind of died down though, and he got a bit of a bad reputation. He was called Vulnerarius. You can see the base VULNER-, meaning “being wounded”. It was also translated in English to be “the executioner”, because this man tended to amputate a lot of people's limbs if he felt like he couldn't treat them well. Now, we would consider that maybe that's a bit silly to just immediately say, oh, this person’s arm is so diseased, we'll chop it off. But given the time period that Archagathos was working in, and given the fact that he didn't have a lot of tools, understanding of internal anatomy or surgical practices; then amputation was really sometimes the best that people could do for diseases that were concentrated in people's limbs or for infected wounds. 
-But after Archagathos, even though he had kind of a bad reputation, there were more doctors trained in both Greek and Egyptian medicine that would set up practices in Rome. One of the things to remember is that as Rome gradually expanded, it eventually consumed both GReece and Egypt as provinces. Egypt is especially important because that's where Alexandria is. And we discussed in the earlier lessons that Alexandria itself was a center for learning, not only for mathematics and engineering, but also for trading medical knowledge as well. So many doctors that were trained in Greek medicine probably also got some assimilated practice approved from Egyptian medicine and vice versa. So a lot of these doctors did set up practices in Rome, and many of them were legitimate. 
-However, Rome did not actually have any standards or requirements to say, okay, you are a licensed professional, and we are allowing you to set up a practice here. That led to a lot of people just pretending to be doctors and faking their way around just to get money from people. There are some writers who, in the Roman Empire, later on, do complain about these sort of fake doctors who prescribe “miracle cures”, or they just send you to the healing sanctuary and just take your money without actually giving you a cure. 
-But the truth was that medical care was usually very expensive, legitimate or not. That meant that it was usually only the wealthiest Roman citizens who were able to afford proper medical care and look after their health. Most of the Romans, what we might consider to be the middle class or the lower classes, were not very well taken care of. Similar to the Greeks, they would probably just have had to put up with whatever pain or illness they had for the day and carry on with their lives to make a living and keep making money. 
-I did mention that some of these charlatans or the fake doctors would just prescribe going to a healing sanctuary and not actually give any real cures. But the fact of the matter is that because there was kind of a limited understanding of medicine and health in general in those days, there were a lot of cases that doctors would just get confused on, even if they were legitimate and even if they had practiced with the Hippocratic method, or in any other tradition. There were still healing sanctuaries that were spread out along the Italian peninsula, in Greece, and in Egypt. All throughout the Roman Empire, there would be other healing sanctuaries, mostly for Asclepius, some for Apollo, and some for other local deities. These healing sanctuaries worked the same way as the sanctuaries in the cult of Asclepius. A person who was ill or sick would go to this healing sanctuary. They would be guided by a priest as to what kind of sacrifices to make–usually votive offerings, not often monetary sacrifices, but sometimes animal sacrifices. They would spend a night in the temple. The god would appear to them and tell them what they should do in order to get better. Presumably, they would leave with some kind of cure. 
+Most of Greece consists of mountains and highlands, and it's surrounded by the ocean on many sides. Rome, on the other hand, is situated in hills, which means that a lot of the surrounding area of Rome is very swampy, marshy, and has some lowlands. Because of Rome's more temperate climate, there would have been a lot of carriers, like mosquitoes and other insects that could have thrived in these areas. Mosquitoes, notoriously, are famed for carrying **malaria**, which comes from the Italian *mala aria*, meaning “bad air”. The idea of mala aria or “bad air” originated from Rome. They didn't call it as such, and in fact, they might have called it by a few different names. However, they did have the idea that the air around the swamps and lowlands where these insects were thriving was like a breeding ground for disease. They had some idea that the diseases would have originated in these more temperate areas, but they had no understanding that the insects themselves were transmitting.
 
-[Establishment of hospitals]
-Other than healing sanctuaries, though, Rome was unique, separate from Greece, in the fact that they actually did establish hospitals later on. I mentioned earlier that doctors, kind of in the public sphere, were mostly inaccessible to most of the Roman population. And even if they were not, all of them were well received. 
-The one place that they were very well received was actually in the military. Rome was founded as a military state, which meant that there's constant military service going on, and all men were required to serve in the military at one point or another. Even people like Cato the Elder recognized that you can be an entirely virtuous and morally correct person but still get hurt in battle through no fault of your own. 
-And so doctors were actually better respected and legitimized in the Roman army, and they were even recognized ranks in the Roman army. The word for a doctor in Latin is medicus. The plural is medici. No relation to the Medici family later on in the Renaissance, but a good coincidence. So doctors, the medici, were actually treated quite well in the Roman army, and a lot of doctors in the Roman public sphere were either retired from the army, or they would make their establishment in the army and then go on and move into the public sphere. 
-Now, most public Roman hospitals were originally established as military hospitals. So the word for this is valetudinaria (v is pronounced as a w in Latin). And the first valetudinaria were established around the first century BCE. 
-There were originally just tents in the military camps set aside for wounded soldiers. Usually these tents in the camps would be near the most protected or quiet parts of the fortification. In Roman camps, there would be tents for the soldiers, and then there'd be fortifications or walls around the entire camp. The valetudinaria or the hospitals, would often be situated closer to the quietest parts, the most protected parts, inside the fortifications. 
-These had full staff consisting first of medici that were just doctors, and those spent most of their time actually in the tents, attending to wounded soldiers. There were also other types of doctors in these hospitals. There were the veteranarii, which are veterinarians, to treat the horses and other animals that go along with the army. Then you have optio valetudinarii, which are the administrators. You can think of them as nurses who would bring in the wounded soldiers and find doctors who would be able to treat them at the time, who weren't busy or kind of keep the workflow going. Optio actually means chosen, and the valetudinarii is the same word as valetudinaria. So the person who is “chosen of the hospital” is the person who oversees and manages the work that's being done. And then there's the capsarii. There's not a really great translation for this word in English. The role that they do is similar to wound dressing or battlefield surgery. We might call them field medics or maybe something similar to a proto-EMT. These are people that wouldn't just stay inside the tents, but they would also be out on the fields alongside the soldiers and bringing them in, or doing triage and first aid, and then taking them to the valetudinaria. So even though these structures were originally established as military hospitals, as Rome got bigger and bigger, they became more permanent institutions. The facilities would actually stay in the places where the army had been. The army itself would pack up camp, but they might leave the hospital behind, since perhaps the speed at which the army has to keep marching is a lot faster than the rate at which soldiers are healing. As such, the army would leave their hospitals behind, pack up everything else, and maybe establish a new hospital wherever they went. 
-Because of this, there were actually some hospitals set up in the Roman cities to care for enslaved persons. Caring for enslaved persons was not often done, but for people who were very wealthy or had a lot of enslaved persons, or people who were kind of fond of their enslaved persons, there would be hospitals or valetudinaria that were specialized for taking care of them. That being said, the treatment of enslaved persons, as anywhere else in Rome, was pretty poor. And some writers actually described the medical care there as being barbaric or akin to the treatment of animals. So even though Rome did have, theoretically, a welfare system or a hospital care system for their enslaved people, it was not often the case that they were actually well cared for inside these institutions. 
+That being said, Rome did have a relatively well developed water and sewage system in place (remember the aqueducts and sewers from Lesson 12?). There was constantly running water in Rome, which probably served some role in sort of reducing the spread of waterborne diseases such as cholera.
 
-[Surgery]
-So one of the practices that was held inside these valetudinaria, which also sets Roman medicine kind of apart from Greek medicine, is the fact that they did practice some form of proto-surgery. Now, this is not necessarily the surgery that we would think of today as being putting somebody under anesthesia and doing some kind of internal operation.
-Most of the advancements here came from battlefield medicine, first aid, triage and the like. 
-The medici of the Roman army were also studying internal organs and anatomy of other animals. So that they can make conjectures about internal human anatomy. And this got them pretty far. They had an understanding of where the major organs and the bones were in the body, how muscles worked, and how blood vessels worked. 
-But most of the time, when we think of surgery in terms of battlefield surgery, the major idea here is removing arrows. When it comes to war in the ancient world, there are three ways that someone can get hurt. You can get slashed with somebody's sword, you can get stabbed with somebody's spear, or you can be run through by somebody's arrow. Most of the time, sword wounds and spear wounds which damage any part of the internal organs resulted in a person basically being left to die. The fact of the matter is that there were no good ways to treat infection or help people survive major stab wounds to any internal organs or any area that caused major blood loss. Even more minor wounds to the arms or legs made it likely that a person would have their limb amputated to curb the risk of infection.
-Arrows, however. Arrows were tricky, because most of the arrows that people used in the ancient world had barbs on them. A doctor couldn't just pull it out without damaging a whole lot of residual flesh. 
-So the two ways that medici developed to perform arrow removal is one, pushing the arrow through the body and out the other side, so that you would have an entry wound and an exit wound. Oftentimes, this method resulted in infection, and it might further lead to amputation or death. But this was the first way that they figured out how to remove arrows without damaging too much of the surrounding flesh.
-The other major tool that they had to remove arrows was a tool called the “spoon of Diocles”, named after the Greek physician who invented them. There are other extraction tools, as pictured here. The idea behind these extraction tools is, you can see there's kind of a cupped area. The idea is that you would cut away enough of the flesh to make room for this spoon. A doctor would clamp the spoon or the rounded part around the barb of the arrow, and then just pull it out straight without pushing the arrow through the body. So it might look kind of crude and rudimentary to us, but really, this was quite an advancement in terms of being able to remove arrows from people's bodies without damaging a lot of the surrounding flesh, which would lead to higher chances of survival overall. 
+## Disease in Rome
 
-[Notable figures]
-So now that we've talked about some Roman practices of medicine, now I want to turn our attention to some notable figures in Roman medical history. 
+As aforementioned, there was virtually no understanding of the way that diseases were transmitted. As such, in the early Roman cities, there were also very few real cures. Most of the practice of Greek medicine arrived in Rome sort of around the third and second centuries BCE. Rome had been founded in about 750 BCE, so there was a long period where disease was neither understood nor treated well.
 
-[Celsus]
-The first person I want to talk about is this fellow Celsus, who lived between 25 BCE to about 80 CE. So even though Archagathos is recognized as the first Roman doctor, Celsus is recognized as the first Roman writer of medical arts and treatises. 
-We don't actually know a whole lot about his personal life. We know that he existed, and we don't have many records of him. Not a lot of other authors talked about his personal life. They mostly talked about the things that he had written.
-His most well-known and only surviving work is a treatise called De Medicina, or On Medicine. Now, De Medicina is actually one chapter of what we believe to be more encyclopedic work. He would have written more other parts about things like zoology, astrology, maybe natural medicines and things like that. But the only part of the encyclopedia that survives is his treatise about medicine. This is actually really important for us because it gives us an understanding of the way that Roman doctors, the most advanced of them, understood anatomy, internal medicine, and diagnostic criteria. 
-In De Medicina, Celsus provides remarkably accurate details for diagnostic symptoms of inflammation and fever, certain skin diseases, eye infections and cancer. In Lesson 16, we learned that cancer came from the Latin word for crab, because it was said that some of the malignant tumors cause veins to have a pattern that looks like a crab. Celsus was the guy who actually came up with that term. 
-Celsus was also quite interesting because he wrote on the psychological aspects of medicine. When we talk about the psychological aspects of medicine, I don't mean that Celsus was a psychologist or a therapist or studied human behavior and thought processes. But he did think about some parts of mental health quite a bit. 
-Mostly, he emphasized the importance of physician and patient relationships. 
-In particular, he believed that physicians should care for patients' mental health along with their physical health. If a doctor is delivering bad news to a patient, they should do so with kindness, they should always treat patients with respect, and they should try to take care of mental as well as physical health. And I believe that this might have been caused by the fact that the Romans traditionally did think that mental health was quite closely linked with physical health. But he doesn't necessarily make any mentions of showing patients how to live a moral life or how to be a virtuous citizen. He really just said that doctors should basically be nice to their patients and treat them with respect. 
-He also complained a lot about rich patients because he believed that the patient-physician relationship, which is built on respect, trust and kindness, should go both ways. However, the richer a patient was, the more impatient they would get. They would want cures immediately. They would try to justify giving money as a reason why the physician should be able to come up with cures that maybe they didn't have. So he did complain about rich patients quite a bit. 
-[Pliny the Elder]
-Now, following Celsus, but in a bit of a different vein, is this fellow called Pliny the Elder. So Pliny was not actually a physician and didn't write a lot of what we might consider scientific medical treatments, but he was a writer and military commander who wrote quite extantly and was quite well known and well received at the time. 
-He mostly wrote some histories, but his best known work is Naturalis Historia, or Natural History. 
-Naturalis Historia is considered by many to be the first full encyclopedia that we actually have. The encyclopedia that Celsius is believed to have written is lost to time. In fact, we don’t even know if Celsus ever wrote a full one. Pliny, on the other hand, we know wrote his encyclopedia because most of it survives. 
-It covers a lot of different topics, including medicine, botany, zoology and history, which at the time, thinking about Roman science at the time of his writing, basically covers all of it. 
-Naturalis Historia in terms of medicine is quite famous or notorious because it has a lot of home cures in it. Pliny spends one book talking a lot about a bunch of different home cures that different plants have, that different animals have, and the ways that you can mix animal plants and other substances to create home potions and home remedies. 
-Some of them actually make sense and some of them hold up for the modern day. One of these is a herb called rue. Pliny gives 84 ailments that rue can be used to cure, such as inflammation, headache, and hangovers. 
-Some of his other home remedies, or proposals thereof, might seem a bit weird or kind of strange to us these days. Pliny did actually propose using feces and urine from many different animals as home remedies, one of them being that you can rub boar dung on foot calluses. I don't think that this is a practice that I would recommend. I certainly don't think it's very sanitary or hygienic, but Pliny the Elder seemed to believe it was. And whether he made it up or whether it was just a practice that the Romans actually did is uncertain, but it was one of the cures that he proposed. 
-Comparatively speaking, that's actually one of the milder cures that he proposes. To cure excessive daytime sleepiness, he suggests cutting calluses from donkeys, soaking them in vinegar and putting them up your nostrils. Now, I don't know about you, but I think this would definitely wake me up. I don't think I would be very happy about it. And I'm not entirely certain that the waking up part is attributed to any part of these substances, vinegar, donkey callus or otherwise. And maybe it just comes from the fact that having something in your nostrils would just keep you awake. So some of Pliny's cures can be regarded with a degree of skepticism. You may laugh at some of them, I certainly do. But the fact remains that he was quite well respected and many people did take Naturalis Historia, at least in the time that he was writing, with some degree of seriousness. 
+Traditional Roman value holds that physical illness is a symptom of mental illness. In some cases, this is something that modern medicine has found to be true as well. For example, people with depression or post-traumatic stress are at higher risk for developing chronic diseases or pain disorders.
 
-[Dioscorides]
-Now, the next figure I want to talk about actually doesn't hail from Rome. This is a fellow called Dioscorides, who lives a little bit after and contemporaneous with Pliny the Elder. If his name sounds familiar, it should. Dioscorides was a Greek physician. He was also a botanist, which means that he spent most of his time not only practicing medicine, but also growing and studying different kinds of plants. 
-His claim to fame was the work De Materia Medica, which we saw briefly in Lessons 19 and 20. This is the fellow who basically wrote the first encyclopedia about different pharmaceutical substances, such as plants, rocks, minerals and animal parts. 
-Because of this, Dioscorides is considered the father of pharmacology. Now, Dioscorides didn’t have much contact with Rome itself, since he lived and practiced mostly out of Greece and Alexandria. 
-However, he identified lots of plants, animals and minerals, which are purported to have healing properties. Some of them, some herbs, such as rue, he also identified some of them still hold up today to have these kinds of natural remedies or natural healing properties to them. And some of them, like amethyst, which we saw way earlier on, which was believed to have been a cure for hangovers or drunkenness, might not hold up so well today. 
-But they certainly did have some kind of effect at the time that Dioscorides was writing. De Materia Medica, more so than Pliny the Elder's Naturalis Historia, would have been a primary source on home remedies available to the Romans. It was certainly a resource that many Roman physicians knew and used. We would take Dioscordes' writings with perhaps a little more credibility, because we know he was also a physician, whereas Pliny the Elder was just a statesman and military commander, not a practicing physician. So some of the cures that Dioscorides provides for us we would take with a little bit more credibility, and we might assume that's more representative of what Greek and Roman medicine was at that time. 
+However, the way that Romans characterized mental illness is quite different from the way that we would think about it today. They believed that mental illness meant that you had bad behavior or bad thoughts; in other words, there was a moral component to physical sickness. If one was a good, upstanding citizen and a good person, then one should not be physically ill at all. On the other hand, if one was cheating, breaking the law, or treating people badly, then this would manifest in the body as well. Even immoral thoughts could lead to pain and minor illnesses. 
 
-[Galen]
-The name of our last doctor might be familiar because I mentioned him during the Greek lesson: this is Galen. Galen is living quite a bit after Dioscorides. He was practicing, we believe, around 128 to 216 CE. 
-Galen was part physician, part philosopher, which means that he had a very philosophical approach to medicine, even though he was a practicing doctor. 
-In fact, he was the doctor for a gladiator school for about five years in Rome, and he used that opportunity to study anatomy. It was said that he would actually encourage his students to look at the corpses of gladiators after matches. To kind of study their body parts, to study how their arms and legs worked. And this might be kind of gross, but if there were any organs trailing about, he said to study those as well. 
-He also believed in the philosophical foundations of medicine, most being that of humoralism. So the idea that there are four humors in the body. There's blood, there's black bile, there's yellow bile, and there's phlegm, being responsible for the different balances or imbalances of the body which lead to diseases and sickness. He also identifies that three most important organs are the liver, the heart, and the brain. Now, what's important here is that the liver, heart, and brain are associated with different parts of reason and rationality in classical philosophy. Notably in Plato's Republic, the ideal city-state is divided among three different classes, which represent three different body parts or three different kinds of desires. There's the physical desires, which are governed by your appetite and concentrated in the liver. There's passions and emotions, which might be concentrated in the heart, and then there's rational thinking and reason, which is concentrated in the brain. Galen took these ideas from philosophy, applied them into medicine, and said, okay, well, if these are kind of where the modes of thinking are situated, then these must be the three most important organs. And that idea, even though he got to that conclusion in a way that perhaps we might not really consider to be super scientific, does hold up well. You can't really live without your brain. You need your heart to pump blood around your body, and I think you would be at quite a disadvantage if you were missing a liver. So whether those are still the three most important organs in the human body today, or whether, you might say, maybe the lungs are more important, maybe the intestines and the stomach are more important– he did identify these three organs. These three organs seemed to be the most vital, and this belief was sustained and reasoned to the extent that protecting these parts of the body, particularly for soldiers and gladiators, would lead to higher survival rates for both. 
-Now, Galen was also famous for studying anatomy because he dissected a lot of animals. He chose to dissect a lot of apes, mostly for their resemblance to humans. That was his favorite kind of animal. Because he was traveling back and forth between Rome, Alexandria, and other places throughout the Roman empire, he would have had contact with a lot of other exotic and non-native animals, such as African apes or monkeys. At the time that Galen was writing, there were some doctors who did practice dissection on human corpses, but that was kind of frowned upon. So Galen did his next best thing, and he dissected apes instead. 
-He did write extensively on anatomy. He had a lot of different works that survive in fragments for us, because he was working in and out of Alexandria. A lot of the work that he wrote would probably have been in the library during many of its subsequent burnings, and some of that knowledge might have been lost. 
-Nevertheless, Galen was well-traveled and widely-written, which granted him lasting influence as one of Rome’s most famous doctors.
+Thus, while the Romans did recognize the concept of psychosomatic symptoms, the way that they treated mental illness was not really the same way that we would treat and recognize mental illness today. Simply put, a virtuous person in traditional Roman thinking would be very healthy all the time, while a bad or immoral person would be physically or mentally unwell. Because of this, many traditional Romans believed that all you need to do to be healthy is to live a morally correct and virtuous life. As such, many Romans also tended to prefer home remedies rather than seeking physicians.
+
+{: .note}
+> One very traditional Roman writer called Cato the Elder was a Roman statesman who was quite fond of farming and agriculture. His prescription for pretty much everything was **cabbage**. Boiled cabbage for a headache. Fried cabbage for a stomach ache. Regular cabbage consumption with every meal helps with digestion. This man thought cabbage was a miracle cure.
+
+## Introduction of Doctors
+
+Home remedies were commonly used in ancient Rome, but their effectiveness was often limited. While many remedies were based on long-held traditions, not all of them were scientifically sound, and their results were inconsistent. Because of this, the need for more specialized medical knowledge became apparent. Around the 200s BCE, doctors from Greece began to make their way to Rome. These Greek physicians brought with them advanced medical practices and ideas that marked a shift toward more professional and systematic approaches to healthcare. This influx of Greek medical expertise helped lay the foundation for Roman medicine, which, though still primitive by modern standards, would evolve significantly over time. The introduction of trained doctors from Greece signaled a new chapter in Roman medicine, moving away from relying solely on traditional remedies and toward a more structured understanding of health and disease.
+
+### Rome's First Doctor
+
+Rome's first doctor was a Greek named **Archagathos** who came to Rome around 219 BCE. The record of him coming to Rome and sort of setting up his practice is given in an account by **Pliny the Elder**, a later Roman statesman and historian. Archagathos had been practicing in the Hippocratic method, which was something that was fairly new to Rome at the time and had a lot of success.
+
+However, Archagathos also earned a bit of a bad reputation and was called **Vulnerarius**, which roughly translates in English as “the executioner”. Archagathos's catch-all cure was *amputation*, or cutting off a person's limbs if he felt that they could not be properly treated. We would consider that maybe that's a bit silly to just immediately chop off a limb if it became diseased. Given the time period that Archagathos was working in, and given the fact that he didn't have a lot of tools, understanding of internal anatomy or surgical practices, though, amputation was really sometimes the best that people could do for diseases that were concentrated in people's limbs or for infected wounds.
+
+### Doctors in Rome
+
+Besides Archagathos, there were more doctors trained in both Greek and Egyptian medicine that would set up practices in Rome. As Rome gradually expanded, it would eventually consume both Greece and Egypt as provinces. Egypt is especially important because that's where Alexandria is. As was discussed in Unit 3, Alexandria itself was a center for learning, not only for mathematics and engineering, but also for trading medical knowledge as well. Many doctors that were trained in Greek medicine probably also assimilated Egyptian medical practices and vice versa. Many of the doctors who set up practice in Rome were legitimate professionals.
+
+However, Rome did not actually have any standards or requirements to license a doctor and allow them to set up practice. This led to many people just pretending to be doctors and faking their way around just to get money from people. Some later Roman writers, particularly during the Roman Empire, complain about these sort of fake doctors who prescribe “miracle cures”, or just send patients to the healing sanctuary and take the patient's money without actually providing a cure.
+
+In reality, medical care was usually very expensive, legitimate or not. That meant that it was usually only the wealthiest Roman citizens who were able to afford proper medical care and look after their health. Most of the Romans, what we might consider to be the middle class or the lower classes, were not very well taken care of. Similar to the Greeks, they would probably just have had to put up with whatever pain or illness they had for the day and carry on with their lives to make a living and keep making money.
+
+While many charlatan doctors would use the existence of healing sanctuaries as an excuse to not give proper remedies or treatment to their clients, this was actually a practice that some legitimate doctors did as well. The limited understanding of medicine and health in general in those days meant that there were a lot of cases that doctors would just get confused on, even if they were legitimate and even if they had practiced with the Hippocratic method, or in any other tradition. There were still healing sanctuaries that were spread out along the Italian peninsula, in Greece, and in Egypt. All throughout the Roman Empire, there would be other healing sanctuaries, mostly for Asclepius, some for Apollo, and some for other local deities.
+
+These healing sanctuaries worked the same way as the sanctuaries in the cult of Asclepius. A person who was ill or sick would go to a healing sanctuary. They would be guided by a priest as to what kind of sacrifices to make&mdash; usually votive offerings, but sometimes animal sacrifices. They would spend a night in the temple, where the god would appear to them and tell them what they should do in order to get better. Presumably, they would leave with some kind of cure.
+
+### Establishment of Hospitals
+
+Other than healing sanctuaries, though, Rome was unique in the fact that they actually did establish hospitals later on. We touched on the *valetudinaria* briefly back in Lesson 12. While doctors were largely inaccessible or not well-received by most of the Roman population, they were actually well-received and respected in the Roman military. Rome was founded as a military state, which meant that there's constant military service going on, and all men were required to serve in the military at one point or another. 
+
+{: .note}
+> Even people like Cato the Elder recognized that you can be an entirely virtuous and morally correct person but still get hurt in battle through no fault of your own!
+
+Not only were doctors better respected in the military, but they were even recognized ranks in the Roman army. The word for a doctor in Latin is **medicus** (plural **medici**). Many of the doctors in the Roman public sphere were either retired from the army, or they would make their establishment in the army and then go on and move into the public sphere.
+
+Most public Roman hospitals were originally started as valetudinaria.These had full staff consisting first of **medici** that were just doctors, and those spent most of their time actually in the tents, attending to wounded soldiers. There were also other types of doctors in these hospitals. There were the **veteranarii**, which are veterinarians, to treat the horses and other animals that go along with the army.
+
+The **capsarii** (singular **capsarius**) were the equivalent of field medics or proto-EMTs. These are people that wouldn't just stay inside the tents, but they would also be out on the fields alongside the soldiers and bringing them in, or doing triage and first aid, and then taking them to the valetudinaria.
+
+Finally, there were **optio valetudinarii**, which were a combination of receptionists and nurses who would bring in the wounded soldiers and find doctors who would be able to treat them at the time. *Optio* means "chosen", and *valetudinarii* is the same word as valetudinaria. The person who is “chosen of the hospital” is the person who oversees and manages the work that's being done.
+
+Even though these structures were originally established as military hospitals, as Rome got bigger and bigger, they became more permanent institutions. Because of this, there were actually some hospitals set up in the Roman cities to care for enslaved persons. Caring for enslaved persons was not often done, but for people who were very wealthy or had a lot of enslaved persons, or people who were kind of fond of their enslaved persons, there would be hospitals or valetudinaria that were specialized for taking care of them. That being said, the treatment of enslaved persons, as anywhere else in Rome, was rather poor. Some writers actually described the medical care there as being barbaric or akin to the treatment of animals. Even though Rome did have, theoretically, a welfare system or a hospital care system for their enslaved people, it was not often the case that they were actually well cared for inside these institutions.
+
+### Surgery
+
+One of the practices that was held inside the valetudinaria which also sets Roman medicine kind of apart from Greek medicine is the practice of some form of proto-surgery. This is not necessarily the surgery that we would think of today as being putting somebody under anesthesia and doing some kind of internal operation.
+
+Most of the advancements here came from battlefield medicine, first aid, and triage. The medici of the Roman army were also studying internal organs and anatomy of other animals so that they could make conjectures about internal human anatomy. They had an understanding of where the major organs and the bones were in the body, how muscles worked, and how blood vessels worked.
+
+When it came to war in the ancient world, there are three ways to get hurt&mdash; sword slashes, spear stabs, and arrow wounds. Most of the time, sword wounds and spear wounds which damage any part of the internal organs resulted in a person basically being left to die. There were no good ways to treat infection or help people survive major stab wounds to any internal organs or any area that caused major blood loss. Even more minor wounds to the arms or legs made it likely that a person would have their limb amputated to curb the risk of infection.
+
+Arrows, however, were tricky, because most of the arrows that people used in the ancient world had barbs on them. A doctor couldn't just pull it out without damaging a whole lot of residual flesh. There were two ways that medici developed to perform arrow removal. The first was pushing the arrow through the body and out the other side, resulting in both an entry wound and an exit wound. Oftentimes, this method resulted in infection, and it might further lead to amputation or death.
+
+<div style="display: block; text-align: left;">
+    <div style="margin-bottom: 20px;">
+        <img src="../../../../assets/images/spoon-of-diocles.png" alt="A set of arrow extraction tools, including the spoon of Diocles" style="max-width: 60%; height: auto; float: left; margin-right: 20px;">
+        <figcaption style="text-align: left; margin-top: 5px;"><i>(Left) A set of arrow extraction tools, including the spoon of Diocles. Image credit: Wikipedia</i></figcaption>
+    </div>
+    <p> </p>
+</div>
+
+The other major tool that they had to remove arrows was a tool called the **spoon of Diocles**, named after the Greek physician who invented them. There are other extraction tools, as pictured here. A doctor would first cut away enough flesh to clamp the spoon or the rounded part around the barb of the arrow, and then pull it out straight without pushing the arrow through the body. This was quite an advancement in terms of being able to remove arrows from people's bodies without damaging a lot of the surrounding flesh, which would lead to higher chances of survival overall.
+
+## Notable figures
+So now that we've talked about some Roman practices of medicine, now I want to turn our attention to some notable figures in Roman medical history.
+
+### Celsus
+
+<div style="display: block; text-align: left;">
+    <div style="margin-bottom: 20px;">
+        <img src="../../../../assets/images/celsus.jpg" alt="The Roman physician Celsus" style="max-width: 60%; height: auto; float: left; margin-right: 20px;">
+        <figcaption style="text-align: left; margin-top: 5px;"><i>The Roman physician Celsus. Image credit: Wikipedia</i></figcaption>
+    </div>
+    <p><b>Celsus</b> was a Roman physician who lived between 25 BCE to about 80 CE. Though Archagathos is recognized as the first Roman doctor, Celsus is recognized as the first Roman writer of medical arts and treatises. Not much is known about his personal life, since most of the surviving record of him is about his medical practice and the things he discovered. </p>
+    <p> </p>
+</div>
+
+His most well-known and only surviving work is a treatise called *De Medicina*, or *On Medicine*. Now, *De Medicina* is actually one chapter of what we believe to be more encyclopedic work. He would have written more other parts about things like zoology, astrology, maybe natural medicines and things like that. But the only part of the encyclopedia that survives is his treatise about medicine. This is actually really important for us because it gives us an understanding of the way that Roman doctors, the most advanced of them, understood anatomy, internal medicine, and diagnostic criteria.
+
+In *De Medicina*, Celsus provides remarkably accurate details for diagnostic symptoms of inflammation and fever, certain skin diseases, eye infections and cancer. He identified four signs of inflammation and called them **dolor** (pain), **calor** (heat), **rubor** (redness), and **tumor** (swelling). Celsus was also quite interesting because he wrote on the psychological aspects of medicine. When we talk about the psychological aspects of medicine, I don't mean that Celsus was a psychologist or a therapist or studied human behavior and thought processes. But he did think about some parts of mental health quite a bit.
+
+Celsus also emphasized the importance of physician and patient relationships. In particular, he believed that physicians should care for patients' mental health along with their physical health. This might have been caused by the fact that the Romans traditionally did think that mental health was quite closely linked with physical health. However, Celsus doesn't necessarily make any mentions of showing patients how to live a moral life or how to be a virtuous citizen. He really just said that doctors should basically be nice to their patients and treat them with respect. For example, if a doctor is delivering bad news to a patient, they should do so with kindness and empathize with their patient.
+
+{: .note}
+> Celsus also complained often about rich patients because he believed that the patient-physician relationship, which is built on respect, trust and kindness, should go both ways. However, the richer a patient was, the more impatient they would get. They would want cures immediately. They would try to justify giving money as a reason why the physician should be able to come up with cures that maybe they didn't have. 
+
+### Pliny the Elder
+
+<div style="display: block; text-align: left;">
+    <div style="margin-bottom: 20px;">
+        <img src="../../../../assets/images/pliny.jpg" alt="The Roman statesman and natural historian Pliny the Elder" style="max-width: 60%; height: auto; float: left; margin-right: 20px;">
+        <figcaption style="text-align: left; margin-top: 5px;"><i>The Roman statesman and natural historian Pliny the Elder, Image credit: Wikipedia</i></figcaption>
+    </div>
+    <p><b>Pliny the Elder</b> (c. 26-79 CE) was not actually a physician and didn't write a lot of what we might consider scientific medical treatments, but he was a writer and military commander who wrote quite extantly and was quite well known and well received at the time.</p>
+    <p> </p>
+</div>
+
+He mostly wrote some histories, but his best known work is **Naturalis Historia**, or *Natural History*. 
+Naturalis Historia is considered by many to be the first full encyclopedia in antiquity. It covers a lot of different topics, including medicine, botany, zoology and history, which at the time, covered nearly all of the known Roman sciences.
+
+Naturalis Historia in terms of medicine is quite famous or notorious because it has a lot of home cures in it. Pliny spends one book talking a lot about a bunch of different home cures that different plants have, that different animals have, and the ways that you can mix animal plants and other substances to create home potions and home remedies. Some of them actually make sense and some of them hold up for the modern day. One of these is a herb called **rue**. Pliny gives 84 ailments that rue can be used to cure, such as inflammation, headache, and hangovers. Herbal teas that use rue can be used to soothe the same maladies.
+
+Some of his other home remedies, or proposals thereof, might seem a bit weird or kind of strange to us these days. Pliny did actually propose using feces and urine from many different animals as home remedies, one of them being that you can rub boar dung on foot calluses. I don't think that this is a practice that I would recommend. I certainly don't think it's very sanitary or hygienic, but Pliny the Elder seemed to believe it was. And whether he made it up or whether it was just a practice that the Romans actually did is uncertain, but it was one of the cures that he proposed.
+
+{: .note}
+> Comparatively speaking, that's actually one of the milder cures that Pliny proposes. To cure excessive daytime sleepiness, he suggests cutting calluses from donkeys, soaking them in vinegar and putting them up the nostrils. It's certainly one way to wake someone up.
+
+### Dioscorides
+
+<div style="display: block; text-align: left;">
+    <div style="margin-bottom: 20px;">
+        <img src="../../../../assets/images/dioscorides.jpg" alt="Greek-Roman physician Dioscorides" style="max-width: 60%; height: auto; float: left; margin-right: 20px;">
+        <figcaption style="text-align: left; margin-top: 5px;"><i>Greek-Roman physician Dioscorides. Image credit: Wikipedia</i></figcaption>
+    </div>
+    <p><b>Dioscorides</b> (c. 40-90 CE) was approximately contemporaneous with Pliny. Dioscorides was a Greek physician living in Greece while it was a province of Rome. He was also a botanist, and he was interested in how plants and minerals could be used to treat or cure diseases. His claim to fame was the work <b>De Materia Medica</b>, or <i>On Medical Materials</i>, an encyclopedia specifically about different pharmaceutical sbustances like plants, minerals, and animal parts.</p>
+    <p> </p>
+</div>
+
+Because of this, Dioscorides is considered the father of pharmacology. Now, Dioscorides didn’t have much contact with Rome itself, since he lived and practiced mostly out of Greece and Alexandria. However, he identified lots of plants, animals and minerals, which are purported to have healing properties. Some of them, some herbs, such as rue, he also identified some of them still hold up today to have these kinds of natural remedies or natural healing properties to them.
+
+But they certainly did have some kind of effect at the time that Dioscorides was writing. De Materia Medica, more so than Pliny the Elder's Naturalis Historia, would have been a primary source on home remedies available to the Romans. It was certainly a resource that many Roman physicians knew and used. Dioscordes' writings were likely taken with perhaps a little more credibility, since unlike Pliny the Elder, he was actually a practicing physician. The cures that Dioscorides provides would therefore likely more representative of what Greek and Roman medicine was at that time.
+
+### Galen
+
+<div style="display: block; text-align: left;">
+    <div style="margin-bottom: 20px;">
+        <img src="../../../../assets/images/galen.jpg" alt="Roman physician Galen" style="max-width: 60%; height: auto; float: left; margin-right: 20px;">
+        <figcaption style="text-align: left; margin-top: 5px;"><i>The Roman physician Galen. Image credit: Wikipedia</i></figcaption>
+    </div>
+    <p><b>Galen</b> (128-216 CE) was part physician, part philosopher. </p>
+    <p> </p>
+</div>
+
+He believed in the philosophical foundations of medicine, most being that of humoralism, which was discussed in Lesson 16. He also identifies that three most important organs are the liver, the heart, and the brain. In classical philosophy, the liver, heart, and brain are associated with different parts of reason and rationality.
+
+Notably in Plato's *Republic*, the ideal city-state is divided among three different classes, which represent three different body parts or three different kinds of desires. Physical desires are governed by the appetite and concentrated in the liver. Passion and emotion were concentrated in the heart. Finally, rationality was concentrated in the brain.Galen reasoned that if these three organs were the seats of human thought and emotion, then these must be the most important organs. These three organs seemed to be the most vital, and this belief was sustained and reasoned to the extent that protecting these parts of the body, particularly for soldiers and gladiators, would lead to higher survival rates for both.
+
+Galen was the doctor for a gladiator school for about five years in Rome, and he used that opportunity to study anatomy. It was said that he would actually encourage his students to look at the corpses of gladiators after matches. To kind of study their body parts, to study how their arms and legs worked. And this might be kind of gross, but if there were any organs trailing about, he said to study those as well. 
+
+Galen was also famous for studying anatomy because he dissected many animals. He chose to dissect a lot of apes, mostly for their resemblance to humans. Because he was traveling back and forth between Rome, Alexandria, and other places throughout the Roman empire, he would have had contact with a lot of other exotic and non-native animals, such as African apes or monkeys. At the time that Galen was writing, there were some doctors who did practice dissection on human corpses, but this was largely taboo and uncommonly practiced. Galen did his next best thing, and he dissected apes instead.
+
+Galen wrote extensively on anatomy. He had a lot of different works that survive in fragments, because he was working in and out of Alexandria. Most of his writings would probably have been in the library during many of its subsequent burnings, and some of that knowledge might have been lost. Nevertheless, Galen was well-traveled and widely-written, which granted him lasting influence as one of Rome’s most famous doctors.
 
 ## Vocabulary List
 
+| Root          | Language of origin    | Meaning                   | Example           |
+| :---:         | :---:                 | :---                      | :---              |
+| clav          | Latin                 | key, collarbone           | clavicle          |
+| medic(a)      | Latin                 | doctor                    | medicine          |
+| cor(d)        | Latin                 | heart                     | concord           |
+| capit/cipit   | Latin                 | head                      | capital           |
+| nerv          | Latin                 | nerve                     | nervous           |
+| pulmon        | Latin                 | lungs                     | pulmonary         |
+| dol(or)       | Latin                 | pain                      | dolorous          |
+| cal(or)       | Latin                 | heat                      | calorie           |
+| rub(or)       | Latin                 | red, redness              | rubella           |
+| tum(or)       | Latin                 | swelling, swollen         | tumor             |
+| cut           | Latin                 | skin                      | cuticle           |
+| ren           | Latin                 | kidney                    | adrenaline        |
+| oss           | Latin                 | bone                      | ossuary           |
+| ocul          | Latin                 | eyes                      | oculus            |
+| manu          | Latin                 | hand                      | manual            |
+| vulner(a)     | Latin                 | wound                     | vulnerable        |
+| femin(a)      | Latin                 | female, feminine          | feminist          |
+| vir(i)        | Latin                 | male, masculine           | virtuous          |
+| dexter/dextr  | Latin                 | right (as in direction)   | dextrous          |
+| sinister/sinistr | Latin              | left (as in direction)    | sinister          |
+
 ## Vocabulary Practice
 
+**Practice Set A:** For each of the following Latin roots, give the Greek root with the same definition.
+
+1. cut
+2. capit/cipit
+3. cor(d)
+4. ped
+5. medic
+6. pulmo(n)
+7. oss
+8. ren
+
+**Practice Set B:** Identify the roots in each of the following words, give their language of origin, and their definitions. Also give their part of speech. Then, following the guidelines in Lesson 4, arrange the definitions of the individual roots to create a literal definition.
+
+1. clavicle
+2. orthopedics
+3. subcutaneous
+4. adrenal
+5. occipital
+6. postcordial
+7. interocular
+8. pulmonocardiac
+9. virility
+10. manuscript
+11. ambidextrous
+12. sinistrotorsion
+13. erubescence
+14. invulnerable
+15. ossicle
+
 ## Reflection Questions
+
+1. What surprised you about Roman medicine, and why?
+2. What similarities and differences do you see between Greek and Roman medical practice?
+3.
+4.
