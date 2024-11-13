@@ -244,5 +244,5 @@ Galen wrote extensively on anatomy. He had a lot of different works that survive
 
 1. What surprised you about Roman medicine, and why?
 2. What similarities and differences do you see between Greek and Roman medical practice?
-3.
-4.
+3. What ideas from Roman medical practices do you still see today?
+4. How did the establishment of Rome as a military state affect the legitimacy of the medical practice?
