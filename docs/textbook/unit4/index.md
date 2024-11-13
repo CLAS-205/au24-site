@@ -12,9 +12,8 @@ In Unit 4, you'll learn how Greek and Latin became the language of medicine and 
 
 - Medicine in the Ancient Mediterranean
 - Latin language deep dive
-- Diseases
 - Anatomy
-- Prescriptions
+- Medical Naming
 - Project
 
 {: .warning}

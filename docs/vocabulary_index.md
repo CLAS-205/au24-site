@@ -540,3 +540,29 @@ All vocabulary from each unit and lesson can be found here.
 | tars          | Greek                 | ankle, sole of foot       | tarsal            |
 | gyn(ec)       | Greek                 | female, feminine          | gynecology        |
 | andr(o)       | Greek                 | male, masculine           | androgyny         |
+
+### Lesson 17
+
+
+| Root          | Language of origin    | Meaning                   | Example           |
+| :---:         | :---:                 | :---                      | :---              |
+| clav          | Latin                 | key, collarbone           | clavicle          |
+| medic(a)      | Latin                 | doctor                    | medicine          |
+| cor(d)        | Latin                 | heart                     | concord           |
+| capit/cipit   | Latin                 | head                      | capital           |
+| nerv          | Latin                 | nerve                     | nervous           |
+| pulmon        | Latin                 | lungs                     | pulmonary         |
+| dol(or)       | Latin                 | pain                      | dolorous          |
+| cal(or)       | Latin                 | heat                      | calorie           |
+| rub(or)       | Latin                 | red, redness              | rubella           |
+| tum(or)       | Latin                 | swelling, swollen         | tumor             |
+| cut           | Latin                 | skin                      | cuticle           |
+| ren           | Latin                 | kidney                    | adrenaline        |
+| oss           | Latin                 | bone                      | ossuary           |
+| ocul          | Latin                 | eyes                      | oculus            |
+| manu          | Latin                 | hand                      | manual            |
+| vulner(a)     | Latin                 | wound                     | vulnerable        |
+| femin(a)      | Latin                 | female, feminine          | feminist          |
+| vir(i)        | Latin                 | male, masculine           | virtuous          |
+| dexter/dextr  | Latin                 | right (as in direction)   | dextrous          |
+| sinister/sinistr | Latin              | left (as in direction)    | sinister          |
