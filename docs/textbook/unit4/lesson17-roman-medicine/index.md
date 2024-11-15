@@ -36,7 +36,7 @@ As aforementioned, there was virtually no understanding of the way that diseases
 
 Traditional Roman value holds that physical illness is a symptom of mental illness. In some cases, this is something that modern medicine has found to be true as well. For example, people with depression or post-traumatic stress are at higher risk for developing chronic diseases or pain disorders.
 
-However, the way that Romans characterized mental illness is quite different from the way that we would think about it today. They believed that mental illness meant that you had bad behavior or bad thoughts; in other words, there was a moral component to physical sickness. If one was a good, upstanding citizen and a good person, then one should not be physically ill at all. On the other hand, if one was cheating, breaking the law, or treating people badly, then this would manifest in the body as well. Even immoral thoughts could lead to pain and minor illnesses. 
+However, the way that Romans characterized mental illness is quite different from the way that we would think about it today. They believed that mental illness meant that you had bad behavior or bad thoughts; in other words, there was a moral component to physical sickness. If one was a good, upstanding citizen and a good person, then one should not be physically ill at all. On the other hand, if one was cheating, breaking the law, or treating people badly, then this would manifest in the body as well. Even immoral thoughts could lead to pain and minor illnesses.
 
 Thus, while the Romans did recognize the concept of psychosomatic symptoms, the way that they treated mental illness was not really the same way that we would treat and recognize mental illness today. Simply put, a virtuous person in traditional Roman thinking would be very healthy all the time, while a bad or immoral person would be physically or mentally unwell. Because of this, many traditional Romans believed that all you need to do to be healthy is to live a morally correct and virtuous life. As such, many Romans also tended to prefer home remedies rather than seeking physicians.
 
@@ -67,7 +67,7 @@ These healing sanctuaries worked the same way as the sanctuaries in the cult of 
 
 ### Establishment of Hospitals
 
-Other than healing sanctuaries, though, Rome was unique in the fact that they actually did establish hospitals later on. We touched on the *valetudinaria* briefly back in Lesson 12. While doctors were largely inaccessible or not well-received by most of the Roman population, they were actually well-received and respected in the Roman military. Rome was founded as a military state, which meant that there's constant military service going on, and all men were required to serve in the military at one point or another. 
+Other than healing sanctuaries, though, Rome was unique in the fact that they actually did establish hospitals later on. We touched on the *valetudinaria* briefly back in Lesson 12. While doctors were largely inaccessible or not well-received by most of the Roman population, they were actually well-received and respected in the Roman military. Rome was founded as a military state, which meant that there's constant military service going on, and all men were required to serve in the military at one point or another.
 
 {: .note}
 > Even people like Cato the Elder recognized that you can be an entirely virtuous and morally correct person but still get hurt in battle through no fault of your own!
@@ -103,6 +103,7 @@ Arrows, however, were tricky, because most of the arrows that people used in the
 The other major tool that they had to remove arrows was a tool called the **spoon of Diocles**, named after the Greek physician who invented them. There are other extraction tools, as pictured here. A doctor would first cut away enough flesh to clamp the spoon or the rounded part around the barb of the arrow, and then pull it out straight without pushing the arrow through the body. This was quite an advancement in terms of being able to remove arrows from people's bodies without damaging a lot of the surrounding flesh, which would lead to higher chances of survival overall.
 
 ## Notable figures
+
 So now that we've talked about some Roman practices of medicine, now I want to turn our attention to some notable figures in Roman medical history.
 
 ### Celsus
@@ -123,7 +124,7 @@ In *De Medicina*, Celsus provides remarkably accurate details for diagnostic sym
 Celsus also emphasized the importance of physician and patient relationships. In particular, he believed that physicians should care for patients' mental health along with their physical health. This might have been caused by the fact that the Romans traditionally did think that mental health was quite closely linked with physical health. However, Celsus doesn't necessarily make any mentions of showing patients how to live a moral life or how to be a virtuous citizen. He really just said that doctors should basically be nice to their patients and treat them with respect. For example, if a doctor is delivering bad news to a patient, they should do so with kindness and empathize with their patient.
 
 {: .note}
-> Celsus also complained often about rich patients because he believed that the patient-physician relationship, which is built on respect, trust and kindness, should go both ways. However, the richer a patient was, the more impatient they would get. They would want cures immediately. They would try to justify giving money as a reason why the physician should be able to come up with cures that maybe they didn't have. 
+> Celsus also complained often about rich patients because he believed that the patient-physician relationship, which is built on respect, trust and kindness, should go both ways. However, the richer a patient was, the more impatient they would get. They would want cures immediately. They would try to justify giving money as a reason why the physician should be able to come up with cures that maybe they didn't have.
 
 ### Pliny the Elder
 
@@ -136,8 +137,7 @@ Celsus also emphasized the importance of physician and patient relationships. In
     <p> </p>
 </div>
 
-He mostly wrote some histories, but his best known work is **Naturalis Historia**, or *Natural History*. 
-Naturalis Historia is considered by many to be the first full encyclopedia in antiquity. It covers a lot of different topics, including medicine, botany, zoology and history, which at the time, covered nearly all of the known Roman sciences.
+He mostly wrote some histories, but his best known work is **Naturalis Historia**, or *Natural History*. Naturalis Historia is considered by many to be the first full encyclopedia in antiquity. It covers a lot of different topics, including medicine, botany, zoology and history, which at the time, covered nearly all of the known Roman sciences.
 
 Naturalis Historia in terms of medicine is quite famous or notorious because it has a lot of home cures in it. Pliny spends one book talking a lot about a bunch of different home cures that different plants have, that different animals have, and the ways that you can mix animal plants and other substances to create home potions and home remedies. Some of them actually make sense and some of them hold up for the modern day. One of these is a herb called **rue**. Pliny gives 84 ailments that rue can be used to cure, such as inflammation, headache, and hangovers. Herbal teas that use rue can be used to soothe the same maladies.
 
@@ -176,7 +176,7 @@ He believed in the philosophical foundations of medicine, most being that of hum
 
 Notably in Plato's *Republic*, the ideal city-state is divided among three different classes, which represent three different body parts or three different kinds of desires. Physical desires are governed by the appetite and concentrated in the liver. Passion and emotion were concentrated in the heart. Finally, rationality was concentrated in the brain.Galen reasoned that if these three organs were the seats of human thought and emotion, then these must be the most important organs. These three organs seemed to be the most vital, and this belief was sustained and reasoned to the extent that protecting these parts of the body, particularly for soldiers and gladiators, would lead to higher survival rates for both.
 
-Galen was the doctor for a gladiator school for about five years in Rome, and he used that opportunity to study anatomy. It was said that he would actually encourage his students to look at the corpses of gladiators after matches. To kind of study their body parts, to study how their arms and legs worked. And this might be kind of gross, but if there were any organs trailing about, he said to study those as well. 
+Galen was the doctor for a gladiator school for about five years in Rome, and he used that opportunity to study anatomy. It was said that he would actually encourage his students to look at the corpses of gladiators after matches to study their body parts, and to study how their arms and legs worked. (This might be kind of gross, but if there were any organs trailing about, he said to study those as well.)
 
 Galen was also famous for studying anatomy because he dissected many animals. He chose to dissect a lot of apes, mostly for their resemblance to humans. Because he was traveling back and forth between Rome, Alexandria, and other places throughout the Roman empire, he would have had contact with a lot of other exotic and non-native animals, such as African apes or monkeys. At the time that Galen was writing, there were some doctors who did practice dissection on human corpses, but this was largely taboo and uncommonly practiced. Galen did his next best thing, and he dissected apes instead.
 
