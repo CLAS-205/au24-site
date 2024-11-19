@@ -43,6 +43,32 @@ search_exclude: true
 
 ## Vocabulary List
 
+| Root          | Language of origin    | Meaning                   | Example           |
+| :---:         | :---:                 | :---                      | :---              |
+
 ## Vocabulary Practice
 
+**Practice Set A:** Identify the roots in each of the following words, give their language of origin, and their definitions. Also give their part of speech. Then, following the guidelines in Lesson 4, arrange the definitions of the individual roots to create a literal definition.
+
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+
 ## Reflection Questions
+
+1. Do you find that the case system makes it easier or harder to understand Latin nouns, and why?
+2. Most Latin terminology in medical usage is comprised of nouns and some adjectives. Why do you think there are so few verbs?
+3. 
+4.
