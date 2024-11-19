@@ -23,13 +23,17 @@ search_exclude: true
 
 ## An Inflected Language
 
+As previously discussed way back in Lesson 3, Latin is an **inflected language**. This means that the spellings of the same word may change depending on how tha word is used in a sentence.
+
 ## Nouns
+
+## Gender, Number, Case
 
 ## Cases
 
 ### Nominative
 
-### Genitives
+### Genitive
 
 ### Accusative
 
