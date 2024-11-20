@@ -12,6 +12,12 @@ A list of additional resources for the class can be found here, organized by top
 - [Latin and Greek Root Words - English Language and Vocabulary Development (podcast by Innovative Literacy)](https://www.youtube.com/playlist?list=PLLQh1KcEsatLzrxMxwbUacD68qcPh6FOc)
 - [Wikipedia's List of Latin and Greek words commonly used in synthetic names](https://en.wikipedia.org/wiki/List_of_Latin_and_Greek_words_commonly_used_in_systematic_names)
 
+## Greek and Roman Culture and History
+
+- *Daily Life of the Ancient Greeks*. Robert Garland, Greenwood Press, 2014
+- *Daily Life in the Roman City: Rome, Pompeii, Ostia*. Gregory S. Aldrete, University of Oklahoma Press, 2009
+- *Ad Infinitum: A Biography of Latin*. Nicholas Ostler, Walker Books, 2008
+
 ## General Scientific History
 
 - *Scientifica Historica: How the World's Great Science Books Chart the History of Knowledge*. Brian Clegg, Ivy Press, 2019.
@@ -44,6 +50,7 @@ A list of additional resources for the class can be found here, organized by top
 - *Ancient Skies: Constellation Mythology of the Greeks*. David Weston Marshall, Countryman Press, 2018.
 - *The Astronomers' Library: The Books that Unlocked the Mysteries of the Universe*. Karen Masters, Ivy Press, 2024.
 
-<!-- ## Medicine and Anatomy
+## Medicine and Anatomy
 
-- *The Anatomists' Library: The Books that Unlocked the Secrets of the Human Body*. Colin Salter, Ivy Press, 2023. -->
+- *The Anatomists' Library: The Books that Unlocked the Secrets of the Human Body*. Colin Salter, Ivy Press, 2023.
+- [OpenMD's Introduction to Medical Terminology](https://openmd.com/guide/medical-terminology)
