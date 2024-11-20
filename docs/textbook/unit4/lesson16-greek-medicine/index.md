@@ -169,7 +169,6 @@ Besides temple treatments, which could be costly, there were a variety of magica
 | derm(at)      | Greek                 | skin                      | dermatology       |
 | nephr         | Greek                 | kidney                    | nephrology        |
 | ost(eo)       | Greek                 | bone                      | osteoporosis      |
-| dors          | Greek                 | back (body part)          | dorsal            |
 | gastr(o)      | Greek                 | belly, abdomen            | gastrointestinal  |
 | enter(o)      | Greek                 | intestines                | gastroenteritis   |
 | hep(a)        | Greek                 | liver                     | hepatitis         |
@@ -178,6 +177,7 @@ Besides temple treatments, which could be costly, there were a variety of magica
 | tars          | Greek                 | ankle, sole of foot       | tarsal            |
 | gyn(ec)       | Greek                 | female, feminine          | gynecology        |
 | andr(o)       | Greek                 | male, masculine           | androgyny         |
+| dors          | Latin                 | back (body part)          | dorsal            |
 
 ## Vocabulary Practice
 
