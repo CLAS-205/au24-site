@@ -79,7 +79,7 @@ Once you've written the paragraph for each of these diseases, write a reflection
 {: .note}
 > These are all fictional diseases, but the description of symptoms should relate back to their names.
 
-## Challenge Problem
+## Challenge Problem: Under Oath
 
 Create your own medical oath! Your oath should include guidelines and tenets for how a doctor should behave professionally, how they would treat their patients, and how they will practice medicine. The oath does not have to be exhaustive, but you should include at least 5 tenets. You can use any of the following historical and modern oaths as inspiration.
 
