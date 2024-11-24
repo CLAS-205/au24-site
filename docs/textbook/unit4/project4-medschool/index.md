@@ -1,14 +1,16 @@
 ---
-title: Project 4
+title: Project 4. Medical School
 nav_order: 7
 layout: default
 parent: Unit 4
 grandparent: Textbook
 ---
 
-# Project 4: Medical School
+# Project 4: Medical School 🩺
 {: .no_toc}
 
+## Objectives
+{: .no_toc}
 1. Synthesize knowledge of Greek and Latin roots from the quarter to determine the meanings behind medical terminology
 2. Recognize and translate Latin phrases as they are used in anatomy
 3. Interpret unfamiliar medical jargon for general audiences
@@ -79,7 +81,7 @@ Once you've written the paragraph for each of these diseases, write a reflection
 
 ## Challenge Problem
 
-Create your own medical oath! You can use any of the following historical and modern oaths as inspiration.
+Create your own medical oath! Your oath should include guidelines and tenets for how a doctor should behave professionally, how they would treat their patients, and how they will practice medicine. The oath does not have to be exhaustive, but you should include at least 5 tenets. You can use any of the following historical and modern oaths as inspiration.
 
 - [The Hippocratic Oath](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a1999.01.0252)
 - [The Oath of Asaph](https://en.wikipedia.org/wiki/Sefer_Refuot#Oath_of_Asaph_text)
