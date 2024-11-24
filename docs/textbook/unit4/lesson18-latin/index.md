@@ -4,8 +4,6 @@ nav_order: 3
 layout: default
 parent: Unit 4
 grandparent: Textbook
-nav_exclude: true
-search_exclude: true
 ---
 
 # Lesson 18: The Latin Language 
@@ -399,23 +397,25 @@ Unlike nouns, there are no i-stem adjectives.
 
 #### Singular
 
-| Case              | Ending            | Example                       |
-| :---              | :---              | :---                          |
-| Nominative        | varies            | bonus/bona/bonum              |
-| Genitive          | -i/-ae/-i         | boni/bonae/boni               |
-| Dative            | -o/-ae/-i         | bono/bonae/bono               |
-| Accusative        | -um/-am/-um       | bonum/bonam/bonum             |
-| Ablative          | -o/-a/-o          | bono/bona/bono                |
+| Case              | Ending            | Example 1             | Example 2         | Example 3             |
+| :---              | :---              | :---                  | :---              | :---                  |
+| Nominative        | varies            | levis/leve            | ardens/ardens     | inferior/inferius     |
+| Genitive          | -is/-is           | levis/levis           | ardentis/ardentis | inferioris/inferioris |
+| Dative            | -i/-i             | levi/levi             | ardenti/ardenti   | inferiori/inferiori   |
+| Accusative        | -em/same as nom.  | levis/leve            | ardentem/ardens   | inferiorem/inferius   |
+| Ablative          | -e or -i          | levi/levi             | ardente/ardente   | inferiori/inferiori   |
 
 #### Plural
 
-| Case              | Ending            | Example                       |
-| :---              | :---              | :---                          |
-| Nominative        | -i/-ae/-a         | boni/bonae/bona               |
-| Genitive          | -orum/-arum/-orum | bonorum/bonarum/bonorum       |
-| Dative            | -is/-is/-is       | bonis/bonis/bonis             |
-| Accusative        | -os/-as/-a        | bonos/bonas/bona              |
-| Ablative          | -is/-is/-is       | bonis/bonis/bonis             |
+| Case              | Ending            | Example 1             | Example 2             | Example 3                 |
+| :---              | :---              | :---                  | :---                  | :---                      |
+| Nominative        | -es/-ia or -a     | leves/levia           | ardentes/ardentia     | inferiores/inferiora      |
+| Genitive          | -ium/-ium         | levium/levium         | ardentium/ardentium   | inferiorium/inferiorium   |
+| Dative            | -ibus/-ibus       | levibus/levibus       | ardentibus/ardentibus | inferioribus/inferioribus |
+| Accusative        | -es**/same as nom. | leves/levia          | ardentes/ardentia     | inferiores/inferiora      |
+| Ablative          | -ibus/-ibus       | levibus/levibus       | ardentibus/ardentibus | inferioribus/inferioribus |
+
+**: Sometimes the accusative plural for these adjectives ends in -is. This is rare.
 
 {: .note}
 > Latin adjectives have to agree with their nouns in gender, number, and case, but they do **not** have to agree in declension. As such, it's completely possible to have a first declension adjective with a fourth declension noun, a third declension adjective with a first declension noun, so on and so forth.
@@ -442,6 +442,27 @@ Here are some Latin phrases that you may encounter, with their definitions.
 
 | Root          | Language of origin    | Meaning                   | Example           |
 | :---:         | :---:                 | :---                      | :---              |
+| chord(a)      | Greek                 | string, spine, backbone   | Chordata          |
+| (o)dyn        | Greek                 | pain                      | myodynia          |
+| dactyl(o)     | Greek                 | finger, toe               | syndactyly        |
+| ur(i/e)       | Greek                 | urine                     | urinary           |
+| gnath         | Greek                 | jaw                       | gnathoplasty      |
+| hyal          | Greek                 | glass, glassy             | hyalin            |
+| caust         | Greek                 | to burn, burning          | caustic           |
+| parie(t)      | Latin                 | wall                      | parietal          |
+| faci(o/a)     | Latin                 | face                      | facial            |
+| camer(a)      | Latin                 | room, chamber             | camera            |
+| ventr(a)      | Latin                 | belly, underside          | ventral           |
+| aur(i)        | Latin                 | ear                       | aural             |
+| digit         | Latin                 | finger, toe               | digital           |
+| reticul(a)    | Latin                 | net, network              | reticulated       |
+| fib(e)r       | Latin                 | fiber, string             | fiber             |
+| vitr          | Latin                 | glass, glassy             | vitreous          |
+| lev(i)        | Latin                 | light (as in weight)      | levitate          |
+| fasci(s)      | Latin                 | bundle (usu. of tissues)  | fascia            |
+| ard(u/e)      | Latin                 | to burn, burning          | arduous           |
+| mors/mort     | Latin                 | to die, death             | mortal            |
+| viv(a/o)      | Latin                 | to live, living           | vivacious         |
 
 ## Vocabulary Practice
 
@@ -455,26 +476,26 @@ Here are some Latin phrases that you may encounter, with their definitions.
 6. dorsum
 7. gravis
 8. dexter
-9. nomina
+9. nomen
 10. flora
 
 **Practice Set B:** Identify the roots in each of the following words, give their language of origin, and their definitions. Also give their part of speech. Then, following the guidelines in Lesson 4, arrange the definitions of the individual roots to create a literal definition.
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
-11.
-12.
-13.
-14.
-15.
+1. levity
+2. mortuary
+3. ardor
+4. bicamerate
+5. auricle
+6. reticulum
+7. ventral
+8. vitreous
+9. fibromyalgia
+10. dactylitis
+11. hyaluronic
+12. fasciation
+13. ureter
+14. hypocaust
+15. micrognathia
 
 ## Reflection Questions
 
