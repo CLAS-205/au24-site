@@ -16,12 +16,51 @@ search_exclude: true
 
 ## Objectives
 
-## Readings
+1. Learn how Greek and Latin are used in anatomy
+2. Translate and interpret Latin in its original form in anatomical contexts
+
+## Greek and Latin in Anatomy
+
+## Latin Names
+
+### Common Formulas
+
+As mentioned in Lesson 18, while there are (at least) ten forms of each Latin noun, you won't see many of them in practice. Latin anatomical names follow some fairly regular patterns, most of which involve only nominatives and genitives, often in the singular.
+
+### Translating
+
+## Body Parts
+
+### Organs
+
+### Bones
+
+### Muscles
 
 ## Vocabulary List
 
 | Root          | Language of origin    | Meaning                   | Example           |
 | :---:         | :---:                 | :---                      | :---              |
+| cost
+| cox
+| genu
+| crist
+| gony
+| cheil
+| frontal(e)
+| tempor(a)
+| ment(um)
+| lingu(a)
+| glott/gloss
+| onych
+| my(o) - muscle
+| myel
+| ven(a)
+| vas
+| soma(to)
+| chol(e)
+| cortex/cortic(o)
+| phleb
 
 ## Vocabulary Practice
 

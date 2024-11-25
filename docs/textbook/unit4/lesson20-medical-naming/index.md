@@ -22,6 +22,16 @@ search_exclude: true
 
 | Root          | Language of origin    | Meaning                   | Example           |
 | :---:         | :---:                 | :---                      | :---              |
+| spondyl
+| scler(o)
+| spas(m)
+| camps
+| poi(e)
+| cyst
+| thromb
+| press
+| sept(i)       | Greek                 | putrid                    | septic            |
+| mim(e)        | Greek                 | to copy, to imitate       | mimic             |
 
 ## Vocabulary Practice
 
