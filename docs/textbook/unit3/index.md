@@ -10,7 +10,7 @@ has_toc: false
 
 In Unit 3, you'll learn how Greek and Latin terminology applies to mathematics, physics, and astronomy. Further, we'll explore the classical tradition as it relates to scientific history.
 
-[Lesson 11: Mathematics in Ancient Greece](/docs/textbook/unit3/lesson11-greek-math/index.md)
+[Lesson 11: Mathematics in Ancient Greece](au24-site/docs/textbook/unit3/lesson11-greek-math/)
 -
 
 - Greek Math History
@@ -24,7 +24,7 @@ In Unit 3, you'll learn how Greek and Latin terminology applies to mathematics, 
     - Eratosthenes
     - Hypatia
 
-[Lesson 12: Mathematics in Ancient Rome](/docs/textbook/unit3/lesson12-roman-math/index.md)
+[Lesson 12: Mathematics in Ancient Rome](au24-site/docs/textbook/unit3/lesson12-roman-math/)
 -
 
 - Roman arithmetic
@@ -37,7 +37,7 @@ In Unit 3, you'll learn how Greek and Latin terminology applies to mathematics, 
     - Roads
     - Military Constructs
 
-[Lesson 13: Pre-Modern Astronomy](/docs/textbook/unit3/lesson13-astronomy/index.md)
+[Lesson 13: Pre-Modern Astronomy](au24-site/docs/textbook/unit3/lesson13-astronomy/)
 -
 
 - Astronomy in Ancient Greece and Rome
@@ -48,7 +48,7 @@ In Unit 3, you'll learn how Greek and Latin terminology applies to mathematics, 
     - Hipparchus
     - Ptolemy
 
-[Lesson 14: Modern Astronomy](/docs/textbook/unit3/lesson13-astronomy/index.md)
+[Lesson 14: Modern Astronomy](au24-site/docs/textbook/unit3/lesson13-astronomy/)
 -
 
 - Scientific Revolution
@@ -67,7 +67,7 @@ In Unit 3, you'll learn how Greek and Latin terminology applies to mathematics, 
     - John William Draper
     - Annie Jump Cannon
     
-[Lesson 15: The Classical Tradition](/docs/textbook/unit3/lesson15-classical-tradition/index.md)
+[Lesson 15: The Classical Tradition](au24-site/docs/textbook/unit3/lesson15-classical-tradition/)
 -
 
 - Defining the Classical Tradition
@@ -76,6 +76,6 @@ In Unit 3, you'll learn how Greek and Latin terminology applies to mathematics, 
 - Eurocentrism
 - Ethnosciences
 
-[Project 3: Exploring the Universe](/docs/textbook/unit3/project3-universe/index.md)
+[Project 3: Exploring the Universe](au24-site/docs/textbook/unit3/project3-universe/)
 
 - Applying knowledge of Latin and Greek roots to names of astronomical objects.

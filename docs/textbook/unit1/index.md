@@ -10,14 +10,14 @@ has_toc: false
 
 In Unit 1, you'll enter the world of Latin and Greek roots and learn how to identify and classify living organisms. 
 
-[Lesson 1: Introduction to Bioscientific Word-Building](/docs/textbook/unit1/lesson1-intro/index.md)
+[Lesson 1: Introduction to Bioscientific Word-Building](au24-site/docs/textbook/unit1/lesson1-intro/)
 -
 
 - Defining prefixes, suffixes, bases
 - Defining parts of speech
 - Introduction to Greek and Latin roots
 
-[Lesson 2: How Latin and Greek Work](/docs/textbook/unit1/lesson2-languages/index.md)
+[Lesson 2: How Latin and Greek Work](au24-site/docs/textbook/unit1/lesson2-languages/)
 - 
 
 - Greek and Latin alphabets
@@ -25,7 +25,7 @@ In Unit 1, you'll enter the world of Latin and Greek roots and learn how to iden
 - Spelling conventions
 - Contraction and assimilation
 
-[Lesson 3: Building Vocabulary](/docs/textbook/unit1/lesson3-general-terms/index.md)
+[Lesson 3: Building Vocabulary](au24-site/docs/textbook/unit1/lesson3-general-terms/)
 -
 
 - Defining morphology
@@ -33,7 +33,7 @@ In Unit 1, you'll enter the world of Latin and Greek roots and learn how to iden
 - Defining Greek and Latin endings
 - How to form plurals
 
-[Lesson 4: Taxonomy](/docs/textbook/unit1/lesson4-taxonomy/index.md)
+[Lesson 4: Taxonomy](au24-site/docs/textbook/unit1/lesson4-taxonomy/)
 -
 
 - Introduction to biological classification system
@@ -44,7 +44,7 @@ In Unit 1, you'll enter the world of Latin and Greek roots and learn how to iden
     - Ray and Tournefort's plant systems
     - Linnaean system
 
-[Lesson 5: Naming Conventions](/docs/textbook/unit1/lesson5-naming/index.md)
+[Lesson 5: Naming Conventions](au24-site/docs/textbook/unit1/lesson5-naming/)
 -
 
 - Common Greek and Latin roots used in biological names, such as
