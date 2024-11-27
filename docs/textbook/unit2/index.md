@@ -10,20 +10,20 @@ has_toc: false
 
 In Unit 2, you'll explore more roots and word endings as they apply to chemical compounds. 
 
-[Lesson 6: Word Endings](au24-site/docs/textbook/unit2/lesson6-suffixes/)
+[Lesson 6: Word Endings](./lesson6-suffixes/)
 -
 
 - Defining endings
 - Defining noun-, adjective-, and verb-forming endings
 - Compound endings
 
-[Lesson 7: Numbers](au24-site/docs/textbook/unit2/lesson7-numbers/)
+[Lesson 7: Numbers](./lesson7-numbers/)
 -
 
 - Number bases in Latin and Greek
 - Roman numerals
 
-[Lesson 8: Names in Chemistry](au24-site/docs/textbook/unit2/lesson8-chem-names/)
+[Lesson 8: Names in Chemistry](./lesson8-chem-names/)
 -
 
 - Diminutive endings
@@ -33,7 +33,7 @@ In Unit 2, you'll explore more roots and word endings as they apply to chemical 
     - Valence
     - Bonds
 
-[Lesson 9: Chemistry in the Ancient World](au24-site/docs/textbook/unit2/lesson9-ancient-chemistry/)
+[Lesson 9: Chemistry in the Ancient World](./lesson9-ancient-chemistry/)
 -
 
 - History of chemistry from ancient world to Scientific Revolution
@@ -42,7 +42,7 @@ In Unit 2, you'll explore more roots and word endings as they apply to chemical 
 - Alchemy in Rome and the Islamic World
 - Chemistry in the Renaissance
 
-[Lesson 10: The Periodic Table](au24-site/docs/textbook/unit2/lesson10-periodic-table/)
+[Lesson 10: The Periodic Table](./lesson10-periodic-table/)
 -
 
 - Classical and Modern Elements
@@ -51,7 +51,7 @@ In Unit 2, you'll explore more roots and word endings as they apply to chemical 
 - Discovery of new elements
 - Synthetic and radioactive elements
 
-[Project 2: Compounding Terms](au24-site/docs/textbook/unit2/project2-compounds/)
+[Project 2: Compounding Terms](./project2-compounds/)
 -
 
 - Applying knowledge of endings and more Greek and Latin roots to analyze chemical names.

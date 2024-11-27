@@ -17,7 +17,7 @@ In Unit 1, you'll enter the world of Latin and Greek roots and learn how to iden
 - Defining parts of speech
 - Introduction to Greek and Latin roots
 
-[Lesson 2: How Latin and Greek Work](au24-site/docs/textbook/unit1/lesson2-languages/)
+[Lesson 2: How Latin and Greek Work](./lesson2-languages/)
 - 
 
 - Greek and Latin alphabets
@@ -25,7 +25,7 @@ In Unit 1, you'll enter the world of Latin and Greek roots and learn how to iden
 - Spelling conventions
 - Contraction and assimilation
 
-[Lesson 3: Building Vocabulary](au24-site/docs/textbook/unit1/lesson3-general-terms/)
+[Lesson 3: Building Vocabulary](./lesson3-general-terms/)
 -
 
 - Defining morphology
@@ -33,7 +33,7 @@ In Unit 1, you'll enter the world of Latin and Greek roots and learn how to iden
 - Defining Greek and Latin endings
 - How to form plurals
 
-[Lesson 4: Taxonomy](au24-site/docs/textbook/unit1/lesson4-taxonomy/)
+[Lesson 4: Taxonomy](./lesson4-taxonomy/)
 -
 
 - Introduction to biological classification system
@@ -44,7 +44,7 @@ In Unit 1, you'll enter the world of Latin and Greek roots and learn how to iden
     - Ray and Tournefort's plant systems
     - Linnaean system
 
-[Lesson 5: Naming Conventions](au24-site/docs/textbook/unit1/lesson5-naming/)
+[Lesson 5: Naming Conventions](./lesson5-naming/)
 -
 
 - Common Greek and Latin roots used in biological names, such as
@@ -55,7 +55,7 @@ In Unit 1, you'll enter the world of Latin and Greek roots and learn how to iden
 - Latin names of animals
 - Decolonizing names
 
-[Project 1: Scientific Naming](/docs/textbook/unit1//project1-naming/index.md)
+[Project 1: Scientific Naming](./project1-naming/)
 -
 
 - Applying knowledge of Greek and Latin roots to interpreting scientific names
