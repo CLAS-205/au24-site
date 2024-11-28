@@ -22,7 +22,7 @@ search_exclude: true
 
 | Root          | Language of origin    | Meaning                   | Example           |
 | :---:         | :---:                 | :---                      | :---              |
-| spondyl
+| spondyl       | Greek                 | vertebrae, spine          | spondylitis       |
 | scler(o)
 | spas(m)
 | camps
@@ -37,4 +37,20 @@ search_exclude: true
 
 **Practice Set A:** Identify the roots in each of the following words, give their language of origin, and their definitions. Also give their part of speech. Then, following the guidelines in Lesson 4, arrange the definitions of the individual roots to create a literal definition.
 
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+
 ## Reflection Questions
+
+1.
+2.
+3. Like some organisms we saw in Unit 1, some diseases bear the names of their discoverers (e.g., Parkinson's, Alzheimer's). Do you find this problematic or misleading? Why or why not?
+4.
