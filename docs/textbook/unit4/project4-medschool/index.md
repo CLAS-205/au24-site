@@ -29,7 +29,7 @@ Translate each of the following terms from Latin to English, and tell what part 
 
 1. oculus sinister
 2. latissimus dorsi
-3. superior vena clava
+3. superior vena cava
 4. articulatio genus
 5. os coxae
 
