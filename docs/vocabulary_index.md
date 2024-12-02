@@ -635,6 +635,7 @@ All vocabulary from each unit and lesson can be found here.
 | :---:         | :---:                 | :---                      | :---              |
 | spondyl       | Greek                 | vertebrae, spine          | spondylitis       |
 | scler(o)      | Greek                 | hard, to harden           | sclerosis         |
+| xer           | Greek                 | dry                       | Xerox             |
 | spas(m)       | Greek                 | to jerk, to move violently | spasm            |
 | camp(t)       | Greek                 | to twist, to turn         | camptosaur        |
 | poi(e)        | Greek                 | to make                   | onomatopoeia      |
