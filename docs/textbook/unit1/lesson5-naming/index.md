@@ -37,6 +37,7 @@ Color words from both languages are used in scientific naming, hence the two tab
 | candid(o)     | candidus/candida          | bright, white |
 | virid         | viridis                   | green         |
 | pall(i)       | pallidus/pallida          | pale          |
+| purpur(eo)    | purpureus/purpurea        | purple        |
 
 #### Greek
 
