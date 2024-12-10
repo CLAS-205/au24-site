@@ -40,7 +40,7 @@ Give the meanings of each of the roots (including endings) in the following dise
 1. rubella
 2. tuberculosis
 3. hemorrhoids
-4. cerosis
+4. xerosis
 5. gonycampsis
 
 ## Problem 3: It's Just Hormones
