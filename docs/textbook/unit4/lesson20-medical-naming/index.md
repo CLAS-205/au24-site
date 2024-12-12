@@ -90,6 +90,7 @@ Further, brand names are typically chosen by the pharmaceutical company that dev
 | mim(e)        | Greek                 | to copy, to imitate       | mimic             |
 | necr(o)       | Greek                 | death, dying              | necromancy        |
 | pleur         | Greek                 | side, rib                 | pleurodynia       |
+| sthen(o)      | Greek                 | strength                  | calisthenics      |
 | tuber         | Latin                 | lump, swelling            | tuberous          |
 | cav           | Latin                 | hollow                    | cavity            |
 | press         | Latin                 | to press                  | pressure          |
