@@ -57,7 +57,7 @@ Use number prefixes to match chemical names to their formulae. (When there's no 
 | 1. Silicon dioxide        | A. CO                 |
 | 2. Dihydrogen oxide       | B. N<sub>2</sub>O     |
 | 3. Dinitrous oxide        | C. SiO<sub>2</sub>    |
-| 4. Carbon monoxide        | D. NFl<sub>3</sub>    |
+| 4. Carbon monoxide        | D. NF<sub>3</sub>    |
 | 5. Nitrogen Trifluoride   | E. H<sub>2</sub>O     |
 | 6. Carbon Tetrachloride   | F. CCl<sub>4</sub>
 

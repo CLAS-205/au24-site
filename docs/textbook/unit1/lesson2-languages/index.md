@@ -193,6 +193,7 @@ You are not responsible for memorizing this consonant chart to say which familie
 | dynam         | Greek                 | power                     | dynamic           |
 | erg           | Greek                 | energy                    | ergonomic         |
 | the           | Greek                 | to put, to place          | thesis            |
+| chron         | Greek                 | time                      | chronology        |
 | meter/metry   | Greek                 | measurement               | geometry          |
 | path(o)       | Greek                 | feeling, disease          | pathology         |
 | hydr(o)       | Greek                 | water                     | hydrant           |
