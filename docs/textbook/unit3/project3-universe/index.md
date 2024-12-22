@@ -12,8 +12,14 @@ grandparent: Textbook
 ## Objectives
 {: .no_toc}
 
+1. Connect understanding of Greek and Latin naming conventions to the names of astronomical objects
+2. Explore non-classical etymologies for stars
+3. Learn about ancient perspectives on cosmology and astronomy
+
 ## Relevance
 {: .no_toc}
+
+In this project, you will explore the names of astronomical objects such as moons, planets, and stars. Many objects in our solar system and universe have names originating from the classical tradition, but many do not! In addition, you will read some excerpts from Greek and Roman writers about their understanding of the universe. As you work through this project, consider the ways in which the classical tradition has informed the way we think about the universe, and how those perspectives might have changed over time.
 
 1. TOC
 {:toc}
