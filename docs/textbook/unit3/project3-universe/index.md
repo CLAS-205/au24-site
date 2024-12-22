@@ -83,6 +83,6 @@ In an essay of about 300-400 words, compare and contrast the way these writers d
 {: .note}
 > If you are having trouble accessing the readings, you should either A) confirm that you are logged in with your UW credentials; or B) navigate to the UW Libraries page for the [Loeb Classical Library](https://guides.lib.uw.edu/az.php?a=l) (you may need to scroll a bit to find it) and access the readings through there.
 
-## Challenge Problem
+## Challenge Problem: The Root of the Issue
 
 For any of the texts in Problem 6, read either the Latin or the Greek and identify 5 words that contain roots that you've learned so far. Give the word, the root, and the context (i.e., the sentence or the line you found the word in). What do you think this word means?
