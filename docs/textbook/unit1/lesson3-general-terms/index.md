@@ -107,7 +107,7 @@ Because of the casing systems of both languages, some plural forms are not parti
 
 Anglicization is a slightly different process from transliteration. Where transliteration is the process of rewriting words from one alphabet to another in a way that best preserves the original sounds, Anglicization is the process of adapting words from other languages, like Latin and Greek, specifically into English. Often, words may change their spellings and/or pronunciations. For example, the Latin **scientia** (knowledge) became **science**.
 
-This happens commonly with classical names. Almost ironically, just as some Renaissance and Enlightenment-era writers created Latin versions of their own names, there were many classical writers whose names dropped their original endings. For example, the poets Ovid and Virgil would have been called "Ovidus" and "Vergilius" by their Latin-speaking peers, respectively.
+This happens commonly with classical names. Almost ironically, just as some Renaissance and Enlightenment-era writers created Latin versions of their own names, there were many classical writers whose names dropped their original endings. For example, the poets Ovid and Virgil would have been called "Ovidius" and "Vergilius" by their Latin-speaking peers, respectively.
 
 Because Latin and Greek have a higher degree of inflection than English, Anglicization not only simplifies spelling and pronunciation; it also simplifies grammar. It lets English speakers have only one form of the word to remember and use, rather than trying to figure out some compromise between all the possible forms of a noun.
 
