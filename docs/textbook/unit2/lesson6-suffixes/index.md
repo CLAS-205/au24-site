@@ -62,11 +62,11 @@ Common noun-forming endings include:
 | -oma(t)       | tumor of                      | sarcoma           |
 | -osis         | disease of                    | psychosis         |
 | -itis         | inflammation of               | appendicitis      |
-| -in/-ine      | chemical substance of         | morphine          |
+| -in/-ine*     | chemical substance of         | morphine          |
 | -us           | individual, person who        | sarcophagus       |
 | -(o)id        | related to, resembling        | arachnid          |
 | -oid          | resembling, having the shape of   | meteoroid     |
-| -ory/-ary     | place for, location of        | dormitory         |
+| -ory/-ary*    | place for, location of        | dormitory         |
 | -orium/-arium | place for, location of        | aquarium          |
 | -itude        | state of, state of having     | fortitude         |
 | -ity/-ety/-ty | state of, state of having     | brevity           |
