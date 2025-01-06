@@ -5,7 +5,7 @@ nav_order: 1
 ---
 
 {: .important}
-> **This is an older version of the site that is not up-to-date with the current quarter. If you are a current student of CLAS 205, be sure to check out the most recent version of the site [here](https://clas-205.github.io/wi25-site).
+> **This is an older version of the site that is not up-to-date with the current quarter.** If you are a current student of CLAS 205, be sure to check out the most recent version of the site [here](https://clas-205.github.io/wi25-site).
 
 
 ## **Welcome!**
